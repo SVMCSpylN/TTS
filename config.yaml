@@ -1,0 +1,23 @@
+sample_rate: 24000
+pause_ms: 700
+output_format: mp3
+mp3_bitrate: 192k
+normalize_audio: true
+
+tts:
+  engine: chatterbox
+  device: auto
+  # Short prompts are more stable and natural than one long generation.
+  max_chunk_chars: 220
+  sentence_pause_ms: 180
+  model_options:
+    # Lower CFG gives a measured pace without damaging the waveform.
+    exaggeration: 0.40
+    cfg_weight: 0.30
+    temperature: 0.80
+
+voices:
+  # SYSTEM and NPC share a public-domain English female reference voice.
+  SYSTEM: voices/female_opic.wav
+  NPC: voices/female_opic.wav
+  USER: null

@@ -1,0 +1,18 @@
+[project]
+name = "opic_tts"
+version = "0.1.0"
+description = "Generate OPIC practice MP3 files from speaker-tagged scripts."
+requires-python = ">=3.10"
+dependencies = [
+    "PyYAML>=6.0",
+    "pydub>=0.25.1",
+    "imageio-ffmpeg>=0.5.1",
+    "soundfile>=0.12.1",
+    "setuptools<81",
+    "chatterbox-tts",
+    "torch",
+    "torchaudio",
+]
+
+[tool.unittest]
+start-directory = "tests"
