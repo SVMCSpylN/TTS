@@ -1,7 +1,7 @@
 __pycache__/
 *.py[cod]
 .venv/
-output/*
+# output/*
 !output/.gitkeep
 temp/*
 !temp/.gitkeep
