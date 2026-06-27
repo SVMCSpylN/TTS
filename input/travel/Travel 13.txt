@@ -1,0 +1,33 @@
+[SYSTEM][neutral][slow]
+You booked a ticket, but there is a problem.
+
+Call and explain the situation.
+
+[USER][concerned][medium]
+Hello. [pause:0.5](pause:0.5)
+
+I'm calling regarding a ticket reservation I made recently. [pause:0.8](pause:0.8)
+
+Unfortunately, I've noticed a problem with my booking. [pause:0.8](pause:0.8)
+
+[USER][worried][medium]
+The travel date on the confirmation doesn't match the date I selected. [pause:0.8](pause:0.8)
+
+Really? [pause:0.5](pause:0.5)
+
+So it might be a system error? [pause:0.8](pause:0.8)
+
+Could you please check my reservation again? [pause:0.8](pause:0.8)
+
+[USER][polite][medium]
+I see. [pause:0.5](pause:0.5)
+
+If possible, I'd like to change the ticket to the correct date. [pause:0.8](pause:0.8)
+
+Will there be any additional fee? [pause:0.8](pause:0.8)
+
+Okay, that's fine. [pause:0.8](pause:0.8)
+
+Thank you very much for your assistance. [pause:0.8](pause:0.8)
+
+I really appreciate your help.

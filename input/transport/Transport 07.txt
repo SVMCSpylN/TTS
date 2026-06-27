@@ -1,0 +1,35 @@
+[SYSTEM][neutral][slow]
+Compare transportation nowadays and transportation in the past.
+
+What differences do you notice?
+
+[USER][calm][slow]
+Transportation has changed significantly over the years. <pause:0.8>
+
+The way people travel today is very different from how they traveled in the past. <pause:0.8>
+
+[USER][calm][slow]
+In the past, people had fewer options and less access to information. <pause:0.8>
+
+Planning a trip often required much more effort. <pause:0.8>
+
+Travelers usually had to rely on paper maps, travel agencies, or information from other people. <pause:0.8>
+
+[USER][happy][slow]
+Today, technology has made transportation much more convenient. <pause:0.8>
+
+People can book flights, call taxis, and navigate unfamiliar places using smartphone apps. <pause:0.8>
+
+Real-time traffic information also helps people choose faster and more efficient routes. <pause:0.8>
+
+[USER][professional][slow]
+I think these improvements have saved people a lot of time and reduced travel stress. <pause:0.8>
+
+Modern vehicles are generally more comfortable, safer, and more fuel-efficient as well. <pause:0.8>
+
+[USER][warm][slow]
+Overall, modern transportation is more efficient and accessible than ever before. <pause:0.8>
+
+Although traffic congestion and environmental issues still exist, traveling has become much easier than it was in the past. <pause:0.8>
+
+In my opinion, these changes have greatly improved people's quality of life.

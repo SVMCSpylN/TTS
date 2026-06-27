@@ -1,0 +1,30 @@
+[SYSTEM][neutral][slow]
+How do you use technology in your daily life?
+
+Give some examples.
+
+[USER][warm][slow]
+I use technology throughout the day, both at work and at home. <pause:0.8>
+
+In fact, it's involved in almost everything I do on a typical day. <pause:0.8>
+
+[USER][happy][slow]
+At work, I use computers, software tools, and online communication platforms. <pause:0.8>
+
+Technology is essential for completing my projects efficiently. <pause:0.8>
+
+As a software engineer, I rely on various development tools, cloud services, and collaboration platforms every day. <pause:0.8>
+
+[USER][calm][slow]
+Outside of work, I use my smartphone for navigation, banking, shopping, and communication. <pause:0.8>
+
+I also use technology for entertainment, such as listening to music and watching movies. <pause:0.8>
+
+When I need information, I can quickly search for it online instead of visiting a library or asking other people. <pause:0.8>
+
+[USER][warm][slow]
+Technology has become so integrated into daily life that I hardly notice how often I use it. <pause:0.8>
+
+It helps me save time, stay organized, and remain connected with others. <pause:0.8>
+
+Overall, I believe technology has made daily life much more convenient and efficient.

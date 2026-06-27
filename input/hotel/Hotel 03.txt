@@ -1,0 +1,36 @@
+[SYSTEM][neutral][slow]
+Tell me about the last time you stayed at a hotel.
+
+Where did you stay?
+Who did you travel with?
+What did you do there?
+
+[USER][happy][slow]
+The last time I stayed at a hotel was during a trip to Da Nang with my wife. <pause:0.8>
+
+We stayed there for four days and three nights. <pause:0.8>
+
+It was a short vacation that we had been looking forward to for quite some time. <pause:0.8>
+
+[USER][excited][slow]
+The hotel was located near the beach, which made everything very convenient. <pause:0.8>
+
+Every morning, we walked along the beach before breakfast. <pause:0.8>
+
+During the day, we visited tourist attractions, took photos, and enjoyed local food. <pause:0.8>
+
+One of the highlights was watching the sunrise over the ocean. <pause:0.8>
+
+[USER][happy][slow]
+In the evening, we usually returned to the hotel to relax. <pause:0.8>
+
+Sometimes we sat on the balcony and enjoyed the sea view while talking about our day. <pause:0.8>
+
+The peaceful atmosphere helped us forget about work and daily responsibilities. <pause:0.8>
+
+[USER][warm][slow]
+It was a wonderful trip and a very comfortable stay. <pause:0.8>
+
+The hotel provided everything we needed, and the service was excellent. <pause:0.8>
+
+I still remember it as one of my favorite vacations and hope to return there again someday.

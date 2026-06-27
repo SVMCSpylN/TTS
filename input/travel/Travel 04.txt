@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+How did you become interested in traveling?
+
+When did it start?
+
+[USER][calm][slow]
+I became interested in traveling after I started working full-time. <pause:0.8>
+
+Before that, I didn't have many opportunities to visit different places. <pause:0.8>
+
+Most of my time was spent studying or focusing on other responsibilities. <pause:0.8>
+
+[USER][happy][slow]
+After I began working, I was able to travel with friends and colleagues during holidays. <pause:0.8>
+
+Those trips helped me discover how enjoyable travel could be. <pause:0.8>
+
+Each destination offered something different, whether it was beautiful scenery, local food, or interesting experiences. <pause:0.8>
+
+[USER][calm][slow]
+I realized that traveling isn't just about sightseeing. <pause:0.8>
+
+It's also a chance to learn about different cultures, foods, and lifestyles. <pause:0.8>
+
+Traveling allows me to step away from my daily routine and see the world from a different perspective. <pause:0.8>
+
+[USER][warm][slow]
+Since then, travel has become one of my favorite ways to relax and create lasting memories. <pause:0.8>
+
+Whenever I return from a trip, I usually feel refreshed and motivated. <pause:0.8>
+
+That's why I always look forward to planning my next journey.

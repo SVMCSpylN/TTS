@@ -1,0 +1,34 @@
+[SYSTEM][neutral][slow]
+Tell me about a shopping experience you recently had.
+
+Where did you go?
+What did you buy?
+How was it?
+
+[USER][happy][slow]
+Last weekend, I went shopping with my wife at a large shopping mall in Hanoi. <pause:0.8>
+
+We wanted to spend some time together and buy a few things for our home. <pause:0.8>
+
+It had been a busy week, so we were looking forward to a relaxing outing. <pause:0.8>
+
+[USER][happy][slow]
+We visited several stores and looked at furniture, clothing, and electronics. <pause:0.8>
+
+Although we didn't buy many things, we enjoyed browsing and comparing products. <pause:0.8>
+
+In the end, we purchased a few household items that we had been planning to buy for a while. <pause:0.8>
+
+[USER][warm][slow]
+After shopping, we had dinner at a nearby restaurant and walked around the mall for a while. <pause:0.8>
+
+The atmosphere was pleasant, and there were many people enjoying their weekend. <pause:0.8>
+
+We spent several hours there without even noticing how quickly the time passed. <pause:0.8>
+
+[USER][warm][slow]
+It turned into a very relaxing weekend outing. <pause:0.8>
+
+Sometimes shopping is less about buying things and more about enjoying the experience. <pause:0.8>
+
+For us, it was a great opportunity to spend quality time together and take a break from our daily routine.

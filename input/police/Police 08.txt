@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+Ask Eva about public safety.
+
+[USER][curious][slow]
+Hello, Eva. <pause:0.5>
+
+I'd like to ask your opinion about public safety. <pause:0.8>
+
+Do you think police services are important? <pause:0.8>
+
+Why do you feel that way? <pause:0.8>
+
+[USER][curious][slow]
+What responsibilities do police officers have in your area? <pause:0.8>
+
+Do they mainly focus on traffic control, crime prevention, or emergency response? <pause:0.8>
+
+How visible are they in your community? <pause:0.8>
+
+[USER][curious][slow]
+In your opinion, what are the biggest public safety challenges today? <pause:0.8>
+
+Are there any areas that need improvement? <pause:0.8>
+
+[USER][warm][slow]
+One last question. <pause:0.5>
+
+How could public safety be improved in the future? <pause:0.8>
+
+I'd be interested to hear your thoughts and suggestions. <pause:0.8>
+
+Thank you for sharing your opinion.

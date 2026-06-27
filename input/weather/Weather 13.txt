@@ -1,0 +1,28 @@
+[SYSTEM][neutral][slow]
+How does weather affect society?
+
+[USER][calm][slow]
+Weather affects society in many different ways. <pause:0.8>
+
+Its influence can be seen in both economic activities and everyday life. <pause:0.8>
+
+[USER][calm][slow]
+It influences agriculture, transportation, tourism, and even people's daily routines. <pause:0.8>
+
+For example, severe weather can disrupt flights, cause traffic delays, and affect business operations. <pause:0.8>
+
+Farmers are also highly dependent on weather conditions because crops require suitable temperatures and rainfall. <pause:0.8>
+
+[USER][professional][slow]
+On the other hand, favorable weather can encourage tourism and outdoor activities. <pause:0.8>
+
+Good weather often leads to increased travel, shopping, and recreational activities. <pause:0.8>
+
+Weather also affects people's mood and productivity. <pause:0.8>
+
+[USER][warm][slow]
+That's why weather is something that everyone pays attention to, regardless of where they live. <pause:0.8>
+
+Whether people are planning a vacation, commuting to work, or managing a business, weather often plays an important role in decision-making. <pause:0.8>
+
+In my opinion, weather has a much greater impact on society than many people realize.

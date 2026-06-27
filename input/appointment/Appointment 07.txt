@@ -1,0 +1,35 @@
+[SYSTEM][neutral][slow]
+You need to change an appointment.
+
+Call and explain the situation.
+Ask for a different time.
+
+[USER][concerned][slow]
+Hello. <pause:0.5>
+
+I'm calling regarding an appointment I scheduled for tomorrow afternoon. <pause:0.8>
+
+Unfortunately, something unexpected has come up at work. <pause:0.8>
+
+[USER][worried][slow]
+As a result, I don't think I'll be able to arrive at the original time. <pause:0.8>
+
+I was wondering if it would be possible to reschedule the appointment. <pause:0.8>
+
+Oh, I see. <pause:0.5>
+
+[USER][curious][slow]
+Do you have any available times later this week? <pause:0.8>
+
+Friday morning would work best for me if there's an opening. <pause:0.8>
+
+And could you please keep the same doctor if possible? <pause:0.8>
+
+[USER][polite][slow]
+That sounds great. <pause:0.5>
+
+Thank you for helping me rearrange the appointment. <pause:0.8>
+
+I really appreciate your assistance. <pause:0.8>
+
+Have a nice day.

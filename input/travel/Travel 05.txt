@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+What do you usually do before a trip?
+
+How do you prepare?
+
+[USER][calm][slow]
+Before any trip, I usually spend some time planning everything carefully. <pause:0.8>
+
+I prefer being well prepared because it helps me avoid unexpected problems during the trip. <pause:0.8>
+
+[USER][happy][slow]
+First, I book transportation and accommodation. <pause:0.8>
+
+Then I create a list of attractions and restaurants I want to visit. <pause:0.8>
+
+I also check the weather forecast and prepare appropriate clothing. <pause:0.8>
+
+Sometimes I read travel blogs or watch videos to learn more about the destination. <pause:0.8>
+
+[USER][professional][slow]
+A few days before departure, I pack my luggage and make sure I have all the necessary documents. <pause:0.8>
+
+I also double-check my reservations and confirm important travel details. <pause:0.8>
+
+If I'm traveling by airplane, I make sure to arrive at the airport early enough to avoid rushing. <pause:0.8>
+
+[USER][warm][slow]
+Good preparation helps me enjoy the trip without unnecessary stress. <pause:0.8>
+
+Once everything is organized, I can focus on relaxing and enjoying the experience. <pause:0.8>
+
+That's why I always try to prepare carefully before traveling.

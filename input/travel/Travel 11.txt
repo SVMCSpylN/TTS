@@ -1,0 +1,40 @@
+[SYSTEM][neutral][slow]
+Your trip has been delayed.
+
+Call your friend and explain the situation.
+
+[USER][concerned][slow]
+Hello, Nam. <pause:0.5>
+
+I'm calling because there's been a problem with my trip. <pause:0.8>
+
+Unfortunately, my flight has been delayed due to bad weather. <pause:0.8>
+
+I wanted to let you know as soon as possible so that nobody would be waiting for me unnecessarily. <pause:0.8>
+
+[USER][worried][slow]
+I was surprised when I received the notification from the airline. <pause:0.8>
+
+They still haven't provided an exact departure time. <pause:0.8>
+
+As a result, I'll probably arrive much later than planned. <pause:0.8>
+
+I'm a little concerned because our schedule may need to be adjusted. <pause:0.8>
+
+[USER][polite][slow]
+Could you let everyone know about the delay? <pause:0.8>
+
+And if the schedule changes, please send me a message. <pause:0.8>
+
+I'll keep checking for updates from the airline and let you know if I receive any new information. <pause:0.8>
+
+[USER][warm][slow]
+Okay, great. <pause:0.5>
+
+Thank you for understanding. <pause:0.8>
+
+I really appreciate your help. <pause:0.8>
+
+I'll keep you updated as soon as I receive more information. <pause:0.8>
+
+Hopefully, the weather improves and the flight can depart soon.

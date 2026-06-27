@@ -1,0 +1,43 @@
+[SYSTEM][neutral][slow]
+Tell me about a memorable experience involving a famous person.
+
+What happened?
+Why was it memorable?
+How did you feel?
+
+[USER][excited][slow]
+One of my most memorable experiences happened about seven years ago. <pause:0.8>
+
+My company organized a welcome event for new employees. <pause:0.8>
+
+As part of the event, several famous singers were invited to perform. <pause:0.8>
+
+[USER][excited][slow]
+The person I was most excited to see was Binz. <pause:0.8>
+
+I had been a fan of his music for a long time. <pause:0.8>
+
+When he appeared on stage, the audience immediately started cheering. <pause:0.8>
+
+I was thrilled because it was my first time seeing him in person. <pause:0.8>
+
+[USER][happy][slow]
+The performance was amazing. <pause:0.8>
+
+Everyone was singing along and enjoying the atmosphere. <pause:0.8>
+
+The energy of the crowd made the event even more exciting. <pause:0.8>
+
+[USER][surprised][slow]
+The best part came after the show. <pause:0.8>
+
+I was lucky enough to take a photo with him. <pause:0.8>
+
+I honestly didn't expect that to happen. <pause:0.8>
+
+[USER][warm][slow]
+Even today, I still remember that moment clearly. <pause:0.8>
+
+It was a dream come true for me and one of my favorite memories involving a celebrity. <pause:0.8>
+
+Whenever I look at that photo, I remember how happy and excited I felt that day.

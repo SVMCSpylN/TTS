@@ -1,0 +1,35 @@
+[SYSTEM][neutral][slow]
+Tell me about the last time you traveled somewhere.
+
+How did you get there?
+What was the trip like?
+
+[USER][happy][slow]
+The last major trip I took was to Da Nang with my wife. <pause:0.8>
+
+We had been looking forward to the trip for quite some time. <pause:0.8>
+
+It was a great opportunity to relax and take a break from our busy schedules. <pause:0.8>
+
+[USER][excited][slow]
+Since the distance was quite far, we traveled by airplane. <pause:0.8>
+
+The flight was smooth and only took a little over an hour. <pause:0.8>
+
+Compared to traveling by road, it saved a lot of time. <pause:0.8>
+
+The view from the airplane window was also beautiful, especially during takeoff and landing. <pause:0.8>
+
+[USER][happy][slow]
+After arriving, we used taxis and ride-hailing services to get around the city. <pause:0.8>
+
+Everything was very convenient. <pause:0.8>
+
+We were able to visit beaches, restaurants, and tourist attractions without any transportation problems. <pause:0.8>
+
+[USER][warm][slow]
+Overall, transportation was one of the reasons the trip was so enjoyable and stress-free. <pause:0.8>
+
+The journey was comfortable, efficient, and easy to manage. <pause:0.8>
+
+As a result, we were able to focus on enjoying our vacation rather than worrying about travel arrangements.

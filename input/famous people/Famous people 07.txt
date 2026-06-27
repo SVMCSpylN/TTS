@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+Ask Eva about a celebrity she recently heard about.
+
+[USER][curious][slow]
+Hello, Eva. <pause:0.5>
+
+I heard you've been following celebrity news recently. <pause:0.8>
+
+Could you tell me about a famous person you've heard about lately? <pause:0.8>
+
+What was the news about? <pause:0.8>
+
+[USER][curious][slow]
+I see. <pause:0.5>
+
+Where did you hear about it? <pause:0.8>
+
+Did you read it online, watch it on TV, or hear about it from someone else? <pause:0.8>
+
+[USER][curious][slow]
+And what did you think about the news? <pause:0.8>
+
+Were you surprised by it? <pause:0.8>
+
+Do you often follow news about celebrities, or was this a special case? <pause:0.8>
+
+[USER][warm][slow]
+One last question. <pause:0.5>
+
+Has that news changed your opinion of the celebrity in any way? <pause:0.8>
+
+I'd love to hear your thoughts.

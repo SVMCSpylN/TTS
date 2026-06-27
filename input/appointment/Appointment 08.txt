@@ -1,0 +1,33 @@
+[SYSTEM][neutral][slow]
+You need to cancel an appointment.
+
+Call and explain the situation.
+Apologize and cancel the appointment.
+
+[USER][concerned][slow]
+Hello. <pause:0.5>
+
+I'm calling because I need to cancel an appointment that I made earlier. <pause:0.8>
+
+Unfortunately, a family matter has come up, and I need to take care of it. <pause:0.8>
+
+[USER][worried][slow]
+Because of that, I won't be able to attend the appointment as planned. <pause:0.8>
+
+I'm sorry for the short notice. <pause:0.8>
+
+Oh, I see. <pause:0.5>
+
+[USER][polite][slow]
+Could you please cancel the appointment for me? <pause:0.8>
+
+And is there anything I need to do regarding the cancellation? <pause:0.8>
+
+I understand. <pause:0.5>
+
+[USER][warm][slow]
+Thank you for your understanding. <pause:0.8>
+
+I'll contact you again when my schedule becomes more flexible. <pause:0.8>
+
+Thank you very much for your help, and have a nice day.

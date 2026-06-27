@@ -1,0 +1,34 @@
+[SYSTEM][neutral][slow]
+You need to cancel a plan to go to the park.
+
+Call your friend and explain the situation.
+
+[USER][concerned][slow]
+Hello, Nam. <pause:0.5>
+
+I'm really sorry, but I won't be able to go to the park this evening. <pause:0.8>
+
+I know we were both looking forward to it. <pause:0.8>
+
+[USER][worried][slow]
+An urgent task came up at work, and I need to stay late at the office. <pause:0.8>
+
+I've tried to finish everything quickly, but unfortunately I don't think I'll make it. <pause:0.8>
+
+The project deadline is approaching, so I need to take care of it today. <pause:0.8>
+
+[USER][polite][slow]
+Would it be okay if we postponed our plan until this weekend? <pause:0.8>
+
+I should be completely free then. <pause:0.8>
+
+We could still go to Hoa Binh Park and spend some time exercising and catching up. <pause:0.8>
+
+[USER][warm][slow]
+Again, I'm sorry about the change. <pause:0.8>
+
+I really appreciate your understanding. <pause:0.8>
+
+Let's find another time that works for both of us. <pause:0.8>
+
+Thank you, and I'll talk to you soon.

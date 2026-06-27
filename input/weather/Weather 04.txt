@@ -1,0 +1,38 @@
+[SYSTEM][neutral][slow]
+Tell me about a memorable weather experience.
+
+What happened?
+Why was it memorable?
+
+[USER][excited][slow]
+One memorable weather experience happened a few years ago when I was riding home from work. <pause:0.8>
+
+The forecast predicted light rain, so I wasn't too concerned. <pause:0.8>
+
+At first, the weather seemed completely normal. <pause:0.8>
+
+[USER][surprised][slow]
+However, a sudden storm developed much faster than expected. <pause:0.8>
+
+Within minutes, the rain became extremely heavy. <pause:0.8>
+
+Strong winds reduced visibility, and it became difficult to continue riding safely. <pause:0.8>
+
+[USER][worried][slow]
+Since I was riding a motorbike, I had to stop and take shelter at a small shop by the roadside. <pause:0.8>
+
+Many other people were doing the same thing. <pause:0.8>
+
+Everyone was watching the rain and waiting for the weather to improve. <pause:0.8>
+
+[USER][relieved][slow]
+After about thirty minutes, the rain finally stopped and I was able to continue my journey home. <pause:0.8>
+
+Although I arrived later than expected, I was grateful that I had waited instead of trying to ride through the storm. <pause:0.8>
+
+[USER][warm][slow]
+Even today, I still remember how quickly the weather changed that day. <pause:0.8>
+
+It reminded me that weather can be very unpredictable, especially during the rainy season. <pause:0.8>
+
+That's why I always check the forecast carefully before traveling now.

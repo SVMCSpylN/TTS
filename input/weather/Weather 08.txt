@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+What weather would you like to experience in the future?
+
+Why?
+
+[USER][excited][slow]
+I'd love to experience snowfall someday. <pause:0.8>
+
+Snow is very rare in Vietnam, especially in the places where I've lived. <pause:0.8>
+
+Because of that, it has always seemed fascinating and mysterious to me. <pause:0.8>
+
+[USER][happy][slow]
+I've seen snow in movies and travel videos, but I've never had the chance to experience it personally. <pause:0.8>
+
+I'd love to walk through a snowy city and enjoy the winter scenery. <pause:0.8>
+
+I think watching snow fall for the first time would be a very special moment. <pause:0.8>
+
+[USER][curious][slow]
+I think it would be a completely different experience from anything I'm used to. <pause:0.8>
+
+I'd also like to try activities such as building a snowman or experiencing a traditional winter festival. <pause:0.8>
+
+Experiencing a completely different climate would make traveling even more exciting. <pause:0.8>
+
+[USER][warm][slow]
+Hopefully, I'll have the opportunity to experience it one day. <pause:0.8>
+
+It's one of the travel experiences that I'm looking forward to the most. <pause:0.8>
+
+I believe it would become a memory that I'd never forget.

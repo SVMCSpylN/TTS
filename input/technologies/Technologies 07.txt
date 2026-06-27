@@ -1,0 +1,35 @@
+[SYSTEM][neutral][slow]
+Compare technology in the past and technology nowadays.
+
+What differences do you notice?
+
+[USER][calm][slow]
+Technology today is far more advanced than it was in the past. <pause:0.8>
+
+The pace of technological development has accelerated dramatically over the last few decades. <pause:0.8>
+
+[USER][calm][slow]
+Years ago, computers were slower, internet connections were limited, and mobile phones had very basic functions. <pause:0.8>
+
+Many tasks required much more time and effort. <pause:0.8>
+
+For example, people often had to use separate devices for communication, photography, entertainment, and navigation. <pause:0.8>
+
+[USER][happy][slow]
+Today, powerful smartphones can perform tasks that once required multiple devices. <pause:0.8>
+
+Cloud services and high-speed internet have made information accessible almost instantly. <pause:0.8>
+
+People can work remotely, communicate globally, and access vast amounts of information from almost anywhere. <pause:0.8>
+
+[USER][professional][slow]
+Although technology has created some challenges, I believe the benefits far outweigh the drawbacks. <pause:0.8>
+
+Issues such as privacy concerns and excessive screen time certainly exist, but technology has also improved education, healthcare, and productivity. <pause:0.8>
+
+[USER][warm][slow]
+Overall, modern technology has greatly improved convenience and productivity. <pause:0.8>
+
+It's difficult to imagine how many everyday activities would function without it. <pause:0.8>
+
+In my opinion, technology has had a largely positive impact on society.

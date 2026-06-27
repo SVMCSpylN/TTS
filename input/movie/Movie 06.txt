@@ -1,0 +1,33 @@
+[SYSTEM][neutral][slow]
+Tell me about a live movie-related event you attended.
+
+What happened?
+How did you feel?
+
+[USER][excited][slow]
+Several years ago, my company organized a large entertainment event for employees. <pause:0.8>
+
+Many celebrities attended the event, and hundreds of employees gathered to enjoy the performances. <pause:0.8>
+
+It was one of the biggest company events I had ever attended. <pause:0.8>
+
+[USER][happy][slow]
+Although it wasn't a movie premiere, it felt similar to a celebrity event because there were many famous performers. <pause:0.8>
+
+The atmosphere was energetic and exciting. <pause:0.8>
+
+Everyone was cheering, taking photos, and enjoying the performances. <pause:0.8>
+
+[USER][surprised][slow]
+The highlight of the event was having the chance to take a photo with one of my favorite celebrities. <pause:0.8>
+
+I never expected that to happen. <pause:0.8>
+
+At first, I was a little nervous, but I was also very excited. <pause:0.8>
+
+[USER][warm][slow]
+After the event, I couldn't stop talking about it with my friends and colleagues. <pause:0.8>
+
+Even today, it's one of my favorite entertainment memories. <pause:0.8>
+
+Whenever I look at the photo from that day, I remember how happy and fortunate I felt.

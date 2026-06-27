@@ -1,0 +1,33 @@
+[SYSTEM][neutral][slow]
+Tell me about a hotel you would like to stay at in the future.
+
+Where is it?
+Why do you want to stay there?
+
+[USER][excited][slow]
+One hotel I'd love to stay at in the future is a beachfront resort in Japan. <pause:0.8>
+
+I've seen many photos online, and it looks absolutely beautiful. <pause:0.8>
+
+Ever since I became interested in traveling to Japan, I've wanted to experience a hotel like that. <pause:0.8>
+
+[USER][happy][slow]
+The hotel offers ocean views, hot spring facilities, and traditional Japanese hospitality. <pause:0.8>
+
+I think it would be a very relaxing and unique experience. <pause:0.8>
+
+The combination of modern comfort and traditional culture is especially appealing to me. <pause:0.8>
+
+[USER][excited][slow]
+I'd love to spend a few days there with my wife and enjoy the peaceful surroundings. <pause:0.8>
+
+We could relax in the hot springs, try local cuisine, and explore nearby attractions. <pause:0.8>
+
+It would be a perfect escape from my busy work schedule. <pause:0.8>
+
+[USER][warm][slow]
+I hope I'll have the chance to visit someday because it looks like an unforgettable destination. <pause:0.8>
+
+I think it would be one of the most memorable hotel experiences of my life. <pause:0.8>
+
+Staying there would be a dream come true for me as a traveler.

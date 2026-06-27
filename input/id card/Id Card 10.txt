@@ -1,0 +1,36 @@
+[SYSTEM][neutral][slow]
+Your identification card is damaged.
+
+Call and ask about the replacement process.
+
+[USER][concerned][slow]
+Hello. <pause:0.5>
+
+I'm calling because my citizen identification card has been damaged. <pause:0.8>
+
+Some of the information has become difficult to read. <pause:0.8>
+
+I recently noticed the damage while using the card for an official procedure. <pause:0.8>
+
+[USER][worried][slow]
+Since I use the card quite often, I'd like to replace it as soon as possible. <pause:0.8>
+
+I'm concerned that the damage may cause problems when I need to verify my identity. <pause:0.8>
+
+Could you tell me what procedures I need to follow? <pause:0.8>
+
+[USER][polite][slow]
+Do I need to bring the damaged card with me when I apply for a replacement? <pause:0.8>
+
+I'd also like to know how long it typically takes to receive a new card. <pause:0.8>
+
+And is there any fee for the replacement process? <pause:0.8>
+
+[USER][warm][slow]
+I understand. <pause:0.5>
+
+Thank you very much for explaining everything. <pause:0.8>
+
+I appreciate your assistance and will complete the necessary procedures soon. <pause:0.8>
+
+Have a nice day.

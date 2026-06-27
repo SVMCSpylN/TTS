@@ -1,0 +1,37 @@
+[SYSTEM][neutral][slow]
+Compare music in the past and music nowadays.
+
+What differences do you notice?
+
+[USER][calm][slow]
+Music has changed significantly over the years. <pause:0.8>
+
+Technology has transformed both the way music is created and the way people listen to it. <pause:0.8>
+
+[USER][calm][slow]
+In the past, people usually listened to music through CDs, radios, or television programs. <pause:0.8>
+
+Access to music was much more limited. <pause:0.8>
+
+People often had to wait for their favorite songs to be played on the radio or purchase physical albums. <pause:0.8>
+
+[USER][happy][slow]
+Nowadays, music is available everywhere through streaming platforms and mobile applications. <pause:0.8>
+
+People can instantly access millions of songs from around the world. <pause:0.8>
+
+It's also much easier for artists to share their music and connect directly with their fans. <pause:0.8>
+
+[USER][professional][slow]
+Another difference is the variety of music available today. <pause:0.8>
+
+People can explore different genres and discover new artists with just a few clicks. <pause:0.8>
+
+Although technology has made music more convenient, I think the emotional impact of great music remains the same. <pause:0.8>
+
+[USER][warm][slow]
+No matter how technology changes, music will always be an important part of people's lives. <pause:0.8>
+
+It has the power to bring people together and create lasting memories. <pause:0.8>
+
+That's something that will never change.

@@ -1,0 +1,40 @@
+[SYSTEM][neutral][slow]
+You indicated in the survey that you enjoy staying at hotels.
+
+Tell me about the type of hotel you like.
+
+What kind of hotel do you prefer?
+What facilities are important to you?
+Why do you like that type of hotel?
+
+[USER][warm][slow]
+That's a great question. <pause:0.5>
+
+When I travel, I usually prefer mid-range hotels rather than luxury resorts. <pause:0.8>
+
+I think they offer a good balance between comfort and cost. <pause:0.8>
+
+[USER][happy][slow]
+The most important thing for me is location. <pause:0.8>
+
+I like hotels that are close to tourist attractions, restaurants, or the beach. <pause:0.8>
+
+For example, whenever I visit Da Nang, I usually stay near My Khe Beach. <pause:0.8>
+
+That makes it much easier to explore the area and enjoy my trip. <pause:0.8>
+
+[USER][calm][slow]
+Another thing I care about is cleanliness. <pause:0.8>
+
+After a long day of sightseeing, I want a clean and comfortable room where I can relax. <pause:0.8>
+
+I also appreciate hotels that offer breakfast, free Wi-Fi, and reliable air conditioning. <pause:0.8>
+
+These facilities make the stay much more convenient and enjoyable. <pause:0.8>
+
+[USER][warm][slow]
+To me, a good hotel doesn't need to be luxurious. <pause:0.8>
+
+As long as it's comfortable, convenient, and well maintained, I'm happy. <pause:0.8>
+
+That's why mid-range hotels are usually my first choice when I travel.

@@ -1,0 +1,34 @@
+[SYSTEM][neutral][slow]
+Ask Eva about her favorite piece of furniture.
+
+[USER][curious][slow]
+Hello, Eva. <pause:0.5>
+
+I'd like to ask you about your favorite piece of furniture. <pause:0.8>
+
+What is your favorite furniture item? <pause:0.8>
+
+Where is it located in your home? <pause:0.8>
+
+[USER][curious][slow]
+I see. <pause:0.5>
+
+Why do you like it so much? <pause:0.8>
+
+What makes it special compared to the other furniture in your house? <pause:0.8>
+
+[USER][curious][slow]
+How often do you use it? <pause:0.8>
+
+What do you usually do there? <pause:0.8>
+
+Do you use it alone or with your family members? <pause:0.8>
+
+[USER][warm][slow]
+One last question. <pause:0.5>
+
+If it were damaged, would you replace it with the same type of furniture? <pause:0.8>
+
+Why or why not? <pause:0.8>
+
+I'd love to hear your answer.

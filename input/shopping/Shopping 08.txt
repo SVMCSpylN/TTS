@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+Ask Eva about shopping.
+
+[USER][curious][slow]
+Hello, Eva. <pause:0.5>
+
+I'd like to ask you about your shopping habits. <pause:0.8>
+
+Do you enjoy shopping? <pause:0.8>
+
+What do you usually buy? <pause:0.8>
+
+[USER][curious][slow]
+Do you prefer shopping online or in physical stores? <pause:0.8>
+
+Why do you prefer that option? <pause:0.8>
+
+When you buy something, do you usually compare prices or read reviews first? <pause:0.8>
+
+[USER][curious][slow]
+And what was the last thing you purchased? <pause:0.8>
+
+Were you satisfied with it? <pause:0.8>
+
+[USER][warm][slow]
+One last question. <pause:0.5>
+
+Is there anything you'd like to buy in the future? <pause:0.8>
+
+I'd love to hear your answer. <pause:0.8>
+
+Thank you for sharing.

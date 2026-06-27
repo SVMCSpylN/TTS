@@ -1,0 +1,30 @@
+[SYSTEM][neutral][slow]
+How do you choose a transportation method?
+
+What factors are important to you?
+
+[USER][calm][slow]
+When choosing transportation, I usually consider convenience, travel time, and cost. <pause:0.8>
+
+The importance of each factor depends on the purpose of the trip. <pause:0.8>
+
+[USER][happy][slow]
+For short distances, I normally use my motorbike because it's fast and flexible. <pause:0.8>
+
+It's usually the most practical option for getting around Hanoi. <pause:0.8>
+
+For longer trips, I often choose airplanes because they save a lot of time. <pause:0.8>
+
+[USER][calm][slow]
+If I'm traveling at night or don't want to drive, I sometimes use ride-hailing services instead. <pause:0.8>
+
+Safety is also an important factor. <pause:0.8>
+
+I always prefer transportation methods that are reliable and well organized. <pause:0.8>
+
+[USER][warm][slow]
+Ultimately, I choose whichever option is the most practical for the situation. <pause:0.8>
+
+No single transportation method is perfect for every trip. <pause:0.8>
+
+That's why I try to balance convenience, cost, safety, and efficiency before making a decision.

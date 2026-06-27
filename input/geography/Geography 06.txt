@@ -1,0 +1,33 @@
+[SYSTEM][neutral][slow]
+Tell me about a geographical feature you find interesting.
+
+Why is it interesting?
+What do you know about it?
+
+[USER][curious][slow]
+One geographical feature that interests me is the ocean. <pause:0.8>
+
+I've always been fascinated by how vast and powerful it is. <pause:0.8>
+
+Even though I've seen the ocean many times, it still amazes me whenever I visit a coastal city. <pause:0.8>
+
+[USER][happy][slow]
+Whenever I travel to places like Da Nang, I spend a lot of time near the beach. <pause:0.8>
+
+I enjoy watching the waves, listening to the sound of the sea, and feeling the fresh ocean breeze. <pause:0.8>
+
+Being near the ocean helps me relax and forget about the stress of daily life. <pause:0.8>
+
+[USER][curious][slow]
+I also find it interesting that oceans play an important role in the Earth's ecosystem. <pause:0.8>
+
+They influence weather patterns, transportation, trade, and marine life. <pause:0.8>
+
+Scientists are still discovering new things about the ocean, and many parts of it remain unexplored. <pause:0.8>
+
+[USER][warm][slow]
+That's why the ocean is one of the most fascinating geographical features to me. <pause:0.8>
+
+The more I learn about it, the more interested I become. <pause:0.8>
+
+I hope I'll have more opportunities to visit beautiful coastal areas in the future.

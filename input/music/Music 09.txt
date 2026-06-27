@@ -1,0 +1,36 @@
+[SYSTEM][neutral][slow]
+Ask Eva about a live music performance.
+
+[USER][curious][slow]
+Hello, Eva. <pause:0.5>
+
+I heard that you recently attended a live music performance. <pause:0.8>
+
+Who performed there? <pause:0.8>
+
+How was the atmosphere? <pause:0.8>
+
+[USER][curious][slow]
+That sounds interesting. <pause:0.5>
+
+What did you enjoy most about the event? <pause:0.8>
+
+Was there a particular song or performance that stood out to you? <pause:0.8>
+
+Did you attend the concert with friends or family? <pause:0.8>
+
+[USER][curious][slow]
+Were there many people at the venue? <pause:0.8>
+
+How did the audience react during the performance? <pause:0.8>
+
+Did you have an opportunity to take photos or interact with the performers? <pause:0.8>
+
+[USER][warm][slow]
+One last question. <pause:0.5>
+
+Would you attend another concert in the future? <pause:0.8>
+
+If so, which artist would you most like to see perform live? <pause:0.8>
+
+Thank you for sharing your experience.

@@ -1,0 +1,30 @@
+[SYSTEM][neutral][slow]
+Ask Eva about transportation.
+
+[USER][curious][slow]
+Hello, Eva. <pause:0.5>
+
+I'd like to ask you about transportation. <pause:0.8>
+
+What type of transportation do you use most often? <pause:0.8>
+
+How do you usually get to work or school? <pause:0.8>
+
+Do you enjoy traveling by that method? <pause:0.8>
+
+[USER][curious][slow]
+What do you like most about it? <pause:0.8>
+
+Are there any disadvantages or challenges that you experience? <pause:0.8>
+
+[USER][curious][slow]
+When you travel long distances, do you prefer trains, buses, or airplanes? <pause:0.8>
+
+Why do you choose that option? <pause:0.8>
+
+[USER][warm][slow]
+And what transportation would you like to try in the future? <pause:0.8>
+
+I'd love to hear your answer. <pause:0.8>
+
+Thank you for sharing.

@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+Ask Eva about weather.
+
+[USER][curious][slow]
+Hello, Eva. <pause:0.5>
+
+I'd like to ask you about weather. <pause:0.8>
+
+What's your favorite kind of weather? <pause:0.8>
+
+Why do you enjoy it? <pause:0.8>
+
+How does weather affect your daily activities? <pause:0.8>
+
+[USER][curious][slow]
+And what season do you like the most? <pause:0.8>
+
+What makes that season special for you? <pause:0.8>
+
+[USER][curious][slow]
+Have you ever experienced any unusual or memorable weather? <pause:0.8>
+
+What happened? <pause:0.8>
+
+[USER][warm][slow]
+One last question. <pause:0.5>
+
+Is there any type of weather you'd like to experience in the future? <pause:0.8>
+
+I'd love to hear your answer. <pause:0.8>
+
+Thank you for sharing.

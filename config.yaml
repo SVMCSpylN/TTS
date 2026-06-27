@@ -1,8 +1,12 @@
 sample_rate: 24000
 pause_ms: 700
 output_format: mp3
-mp3_bitrate: 192k
-normalize_audio: true
+mp3_bitrate: 256k
+output_sample_rate: 44100
+output_channels: 2
+normalize_audio: false
+# false: skip TXT files whose matching MP3 already exists.
+regenerate_existing: false
 
 tts:
   engine: chatterbox
@@ -10,6 +14,26 @@ tts:
   # Short prompts are more stable and natural than one long generation.
   max_chunk_chars: 220
   sentence_pause_ms: 180
+  # Learning mode: treat [medium] and [fast] tags as [slow] when generating MP3s.
+  pace_override: slow
+  # Learning mode: keep script emotion tags readable, but generate fast-leaning
+  # emotions with calmer Chatterbox styles.
+  emotion_overrides:
+    excited: warm
+    surprised: warm
+    happy: warm
+    grateful: warm
+    curious: polite
+    worried: concerned
+    frustrated: concerned
+    determined: professional
+  # Reduce the short transient sometimes heard at the start of cloned voices.
+  voice_lead_in_ms: 45
+  voice_fade_in_ms: 35
+  # Smooth synthesis tails immediately before pause markers.
+  chunk_fade_out_ms: 20
+  # Add a clean pause after each USER MP3 without stretching or distorting speech.
+  user_tail_silence_ms: 500
   model_options:
     # Lower CFG gives a measured pace without damaging the waveform.
     exaggeration: 0.40
@@ -17,7 +41,5 @@ tts:
     temperature: 0.80
 
 voices:
-  # SYSTEM and NPC share a public-domain English female reference voice.
-  SYSTEM: voices/female_opic.wav
-  NPC: voices/female_opic.wav
+  SYSTEM: voices/female.wav
   USER: null

@@ -1,0 +1,33 @@
+[SYSTEM][neutral][slow]
+Tell me about a memorable shopping experience.
+
+What happened?
+Why was it memorable?
+
+[USER][excited][slow]
+One memorable shopping experience happened when I bought my Samsung smart TV. <pause:0.8>
+
+It was one of the most expensive electronics purchases I'd made at the time. <pause:0.8>
+
+Because it was a major purchase, I wanted to be absolutely sure I was making the right decision. <pause:0.8>
+
+[USER][curious][slow]
+Before buying it, I spent weeks comparing different models and reading reviews online. <pause:0.8>
+
+I wanted to make sure I chose the right product. <pause:0.8>
+
+I also visited several electronics stores to see the TVs in person and compare their picture quality. <pause:0.8>
+
+[USER][happy][slow]
+When the TV finally arrived and I turned it on for the first time, I was impressed by the picture quality. <pause:0.8>
+
+It looked far better than my old television. <pause:0.8>
+
+Watching movies and sports on the new screen felt like a completely different experience. <pause:0.8>
+
+[USER][warm][slow]
+Even today, I still use that TV regularly, so it remains one of my favorite purchases. <pause:0.8>
+
+The experience was memorable because the time I spent researching really paid off. <pause:0.8>
+
+It taught me that careful planning can lead to better purchasing decisions.

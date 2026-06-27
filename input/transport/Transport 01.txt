@@ -1,0 +1,35 @@
+[SYSTEM][neutral][slow]
+You indicated in the survey that you use transportation regularly.
+
+Tell me about the transportation you usually use.
+
+What do you use?
+Why do you use it?
+
+[USER][warm][slow]
+Transportation is an important part of my daily life. <pause:0.8>
+
+Like many people in Hanoi, I usually travel by motorbike. <pause:0.8>
+
+It's the most practical way for me to get around the city. <pause:0.8>
+
+[USER][happy][slow]
+I use it to commute to work, visit friends, run errands, and travel around the city. <pause:0.8>
+
+Because I use it almost every day, it's become an essential part of my routine. <pause:0.8>
+
+I especially appreciate the freedom it gives me to travel whenever I want. <pause:0.8>
+
+[USER][calm][slow]
+One reason I prefer a motorbike is that it helps me avoid some traffic delays. <pause:0.8>
+
+It's also easier to park compared to larger vehicles. <pause:0.8>
+
+In a busy city like Hanoi, those advantages can save a lot of time. <pause:0.8>
+
+[USER][warm][slow]
+Although there are many transportation options available today, my motorbike remains my primary means of transportation. <pause:0.8>
+
+It's affordable, convenient, and well suited to my daily needs. <pause:0.8>
+
+That's why I continue to rely on it for most of my travel.

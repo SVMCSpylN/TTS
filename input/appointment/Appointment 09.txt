@@ -1,0 +1,33 @@
+[SYSTEM][neutral][slow]
+You are going to be late for an appointment.
+
+Call and explain the situation.
+Ask them to wait for you.
+
+[USER][concerned][slow]
+Hello. <pause:0.5>
+
+I'm calling regarding my appointment this afternoon. <pause:0.8>
+
+Unfortunately, I'm stuck in heavy traffic right now. <pause:0.8>
+
+[USER][worried][slow]
+There seems to be an accident on the main road, and traffic is moving very slowly. <pause:0.8>
+
+Based on my navigation app, I'll probably arrive about twenty minutes late. <pause:0.8>
+
+Oh, I see. <pause:0.5>
+
+[USER][polite][slow]
+Would it still be possible for me to see the doctor when I arrive? <pause:0.8>
+
+If not, could you move my appointment to the next available time slot today? <pause:0.8>
+
+[USER][warm][slow]
+I understand. <pause:0.5>
+
+Thank you very much for your flexibility. <pause:0.8>
+
+I'm on my way now and will get there as soon as possible. <pause:0.8>
+
+I really appreciate your understanding.

@@ -1,0 +1,33 @@
+[SYSTEM][neutral][slow]
+Tell me about a time when you unexpectedly needed your identification card.
+
+What happened?
+Why did you need it?
+
+[USER][surprised][slow]
+One time, I unexpectedly needed my identification card while checking into a hotel during a trip. <pause:0.8>
+
+At the time, I didn't think it would be necessary because I had already completed the reservation online. <pause:0.8>
+
+[USER][concerned][slow]
+I had assumed the booking confirmation would be enough. <pause:0.8>
+
+However, the receptionist requested my ID card before completing the check-in process. <pause:0.8>
+
+For a moment, I worried that I might have forgotten it at home. <pause:0.8>
+
+I immediately checked my bags and wallet several times. <pause:0.8>
+
+[USER][relieved][slow]
+Fortunately, it was still in my wallet. <pause:0.8>
+
+Once I presented the card, the check-in process was completed quickly and smoothly. <pause:0.8>
+
+I felt very relieved because the situation could have become much more complicated. <pause:0.8>
+
+[USER][warm][slow]
+That experience taught me an important lesson. <pause:0.8>
+
+Now, whenever I travel, I always double-check that I have my identification card with me before leaving home. <pause:0.8>
+
+It's a small habit, but it helps me avoid unnecessary stress and inconvenience.

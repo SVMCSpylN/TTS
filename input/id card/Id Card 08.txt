@@ -1,0 +1,36 @@
+[SYSTEM][neutral][slow]
+Ask Eva about a memorable experience involving an identification card.
+
+[USER][curious][slow]
+Hello, Eva. <pause:0.5>
+
+I heard that you once had an interesting experience involving your identification card. <pause:0.8>
+
+What happened? <pause:0.8>
+
+How did you realize there was a problem? <pause:0.8>
+
+[USER][curious][slow]
+I see. <pause:0.5>
+
+How did you solve the problem? <pause:0.8>
+
+Did anyone help you, or did you handle it yourself? <pause:0.8>
+
+Was it difficult to resolve? <pause:0.8>
+
+[USER][curious][slow]
+How did you feel at the time? <pause:0.8>
+
+Were you worried, frustrated, or surprised? <pause:0.8>
+
+And how did you feel once everything was settled? <pause:0.8>
+
+[USER][warm][slow]
+One last question. <pause:0.5>
+
+What did you learn from that experience? <pause:0.8>
+
+Has it changed the way you take care of important documents today? <pause:0.8>
+
+Thank you for sharing.

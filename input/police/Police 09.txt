@@ -1,0 +1,36 @@
+[SYSTEM][neutral][slow]
+You lost your wallet.
+
+Call the police and report the situation.
+
+[USER][worried][slow]
+Hello. <pause:0.5>
+
+I'm calling because I believe I've lost my wallet. <pause:0.8>
+
+I noticed it was missing earlier this afternoon. <pause:0.8>
+
+I'm quite concerned because I usually keep it with me at all times. <pause:0.8>
+
+[USER][concerned][slow]
+The wallet contains cash, several bank cards, and my citizen identification card. <pause:0.8>
+
+I've already searched everywhere I visited today, but I haven't been able to find it. <pause:0.8>
+
+I'm worried that someone may have picked it up or that my personal information could be misused. <pause:0.8>
+
+[USER][polite][slow]
+Could you please tell me how to file a report? <pause:0.8>
+
+I'd also like to know what steps I should take next. <pause:0.8>
+
+Do I need to visit the police station in person, or can the report be submitted online? <pause:0.8>
+
+[USER][warm][slow]
+I would appreciate any advice you can provide. <pause:0.8>
+
+Thank you for taking the time to assist me with this matter. <pause:0.8>
+
+I hope the wallet can be recovered soon. <pause:0.8>
+
+Thank you very much for your assistance.

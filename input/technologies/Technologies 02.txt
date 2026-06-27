@@ -1,0 +1,33 @@
+[SYSTEM][neutral][slow]
+Tell me about a technology device you use frequently.
+
+What is it?
+How do you use it?
+
+[USER][warm][slow]
+The technology device I use most frequently is my smartphone. <pause:0.8>
+
+It's probably the device I interact with the most throughout the day. <pause:0.8>
+
+Whether I'm at home, at work, or traveling, it's always with me. <pause:0.8>
+
+[USER][happy][slow]
+I use it for communication, navigation, online banking, shopping, and entertainment. <pause:0.8>
+
+I also listen to music, watch videos, and read news on it. <pause:0.8>
+
+In addition, I often use various mobile apps to manage my schedule and daily tasks. <pause:0.8>
+
+[USER][calm][slow]
+For work, it helps me check emails and stay connected when I'm away from my computer. <pause:0.8>
+
+It's basically a tool that supports many aspects of my daily life. <pause:0.8>
+
+Because so many services are now digital, having a smartphone saves me a great deal of time and effort. <pause:0.8>
+
+[USER][warm][slow]
+Honestly, it's hard to imagine modern life without a smartphone. <pause:0.8>
+
+It's much more than a communication device. <pause:0.8>
+
+For me, it's an essential tool for both work and everyday life.

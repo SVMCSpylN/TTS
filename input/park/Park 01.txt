@@ -1,0 +1,38 @@
+[SYSTEM][neutral][slow]
+You indicated in the survey that you enjoy going to parks.
+
+Tell me about a park you often visit.
+
+Where is it located?
+What does it look like?
+Why do you enjoy going there?
+
+[USER][warm][slow]
+One place I visit quite often is Hoa Binh Park in Hanoi. <pause:0.8>
+
+It's located near my company, so it's very convenient for me to stop by after work or on weekends. <pause:0.8>
+
+I've been visiting the park regularly for several years. <pause:0.8>
+
+[USER][happy][slow]
+The park is quite large and features a beautiful lake in the center. <pause:0.8>
+
+There are walking paths, flower gardens, and many tall trees. <pause:0.8>
+
+Because of all the greenery, the air feels much fresher than in other parts of the city. <pause:0.8>
+
+The scenery changes throughout the year, which makes every visit enjoyable. <pause:0.8>
+
+[USER][calm][slow]
+Many people come there to walk, jog, exercise, or simply relax. <pause:0.8>
+
+The atmosphere is especially pleasant in the early morning and evening. <pause:0.8>
+
+Whenever I go there, I enjoy walking around the lake and listening to music. <pause:0.8>
+
+[USER][warm][slow]
+Whenever I spend time there, I feel more relaxed and refreshed. <pause:0.8>
+
+It's a great place to escape from the noise and stress of daily life. <pause:0.8>
+
+That's why it's my favorite park in Hanoi.

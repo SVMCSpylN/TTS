@@ -1,0 +1,40 @@
+[SYSTEM][neutral][slow]
+Call a restaurant and make a reservation.
+
+[USER][polite][slow]
+Hello. <pause:0.5>
+
+I'd like to make a reservation for two people this Saturday evening. <pause:0.8>
+
+Oh, you still have tables available? <pause:0.8>
+
+That's great. <pause:0.8>
+
+[USER][curious][slow]
+Could you tell me which time slots are available? <pause:0.8>
+
+I see. <pause:0.5>
+
+In that case, I'd like to reserve a table for 7 PM. <pause:0.8>
+
+That time works perfectly for us. <pause:0.8>
+
+[USER][polite][slow]
+One more thing. <pause:0.5>
+
+Would it be possible to have a quiet table near the window? <pause:0.8>
+
+My wife and I would appreciate a more peaceful area of the restaurant. <pause:0.8>
+
+Perfect. <pause:0.8>
+
+Do I need to pay a deposit in advance? <pause:0.8>
+
+[USER][warm][slow]
+Okay, thank you very much. <pause:0.8>
+
+Could you please make the reservation under my name? <pause:0.8>
+
+I look forward to visiting your restaurant this weekend. <pause:0.8>
+
+Thank you for your assistance, and have a great day.

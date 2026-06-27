@@ -1,0 +1,40 @@
+[SYSTEM][neutral][slow]
+You had a problem at a restaurant.
+
+Call and explain the situation.
+
+[USER][concerned][slow]
+Hello. <pause:0.5>
+
+I'm calling about a recent visit to your restaurant. <pause:0.8>
+
+Unfortunately, I experienced a problem during my meal. <pause:0.8>
+
+I visited your restaurant with my wife last weekend. <pause:0.8>
+
+[USER][worried][slow]
+I ordered a seafood dish, but I received a completely different item. <pause:0.8>
+
+Oh, I understand mistakes can happen. <pause:0.8>
+
+However, it took quite a long time before the correct dish arrived. <pause:0.8>
+
+As a result, the rest of the meal was delayed. <pause:0.8>
+
+[USER][polite][slow]
+I see. <pause:0.5>
+
+Thank you for explaining. <pause:0.8>
+
+I appreciate your apology and your willingness to look into the issue. <pause:0.8>
+
+I just wanted to provide feedback so that similar situations can be avoided in the future. <pause:0.8>
+
+[USER][warm][slow]
+Overall, I still enjoyed the food and service. <pause:0.8>
+
+The staff were friendly, and the quality of the food was excellent. <pause:0.8>
+
+Thank you for taking the time to listen. <pause:0.8>
+
+I hope my feedback will be helpful, and I look forward to visiting your restaurant again in the future.

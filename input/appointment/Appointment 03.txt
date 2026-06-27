@@ -1,0 +1,26 @@
+[SYSTEM][neutral][slow]
+Tell me about a memorable appointment you had.
+
+What happened?
+Why was it memorable?
+How did you feel?
+
+[USER][excited][slow]
+One appointment I remember very clearly was a health checkup several years ago. <pause:0.8>
+
+At that time, I was extremely busy with work and hadn't visited a clinic for quite a while. <pause:0.8>
+
+[USER][worried][slow]
+To be honest, I felt a little nervous before the appointment. <pause:0.8>
+
+I was worried that the doctor might find some health problems. <pause:0.8>
+
+[USER][relieved][slow]
+Fortunately, the results were much better than I expected. <pause:0.8>
+
+The doctor told me that my overall health was good, although I should exercise more regularly. <pause:0.8>
+
+[USER][warm][slow]
+That experience motivated me to take better care of my health. <pause:0.8>
+
+Even today, I still remember it because it encouraged me to develop healthier habits.

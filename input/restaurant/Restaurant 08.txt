@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+Ask Eva about her favorite restaurant.
+
+[USER][curious][slow]
+Hello, Eva. <pause:0.5>
+
+I'd like to ask you about your favorite restaurant. <pause:0.8>
+
+Where is it located? <pause:0.8>
+
+What kind of food does it serve? <pause:0.8>
+
+[USER][curious][slow]
+Why do you like it so much? <pause:0.8>
+
+Is it because of the food, the atmosphere, or the service? <pause:0.8>
+
+Do you usually go there alone or with other people? <pause:0.8>
+
+[USER][curious][slow]
+How often do you visit it? <pause:0.8>
+
+Do you have a favorite dish that you always order? <pause:0.8>
+
+[USER][warm][slow]
+One last question. <pause:0.5>
+
+Would you recommend that restaurant to visitors? <pause:0.8>
+
+I'd love to hear your answer. <pause:0.8>
+
+Thank you for sharing.

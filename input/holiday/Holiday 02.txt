@@ -1,0 +1,35 @@
+[SYSTEM][neutral][slow]
+Tell me about what you usually do during holidays.
+
+How do you spend your time?
+Who do you spend it with?
+
+[USER][warm][slow]
+I usually spend holidays with my family or my wife. <pause:0.8>
+
+Since my normal work schedule is quite busy, holidays give me an opportunity to slow down and relax. <pause:0.8>
+
+I always look forward to having some free time away from work responsibilities. <pause:0.8>
+
+[USER][happy][slow]
+Sometimes we travel to another city such as Da Nang. <pause:0.8>
+
+Other times, we simply stay at home and enjoy quality time together. <pause:0.8>
+
+We might go out for meals, watch movies, visit parks, or spend time with relatives. <pause:0.8>
+
+No matter what we do, I enjoy being with the people who are important to me. <pause:0.8>
+
+[USER][calm][slow]
+I also use holidays to rest and recover from work. <pause:0.8>
+
+It's a chance to recharge both physically and mentally. <pause:0.8>
+
+Sometimes I catch up on sleep, read articles, or spend time on hobbies that I don't have time for during busy workdays. <pause:0.8>
+
+[USER][warm][slow]
+For me, holidays are not only about traveling. <pause:0.8>
+
+They're also about spending meaningful time with the people I care about. <pause:0.8>
+
+After a good holiday, I usually feel refreshed, motivated, and ready to return to work.

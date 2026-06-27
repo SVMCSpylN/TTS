@@ -1,0 +1,35 @@
+[SYSTEM][neutral][slow]
+You indicated in the survey that you enjoy shopping.
+
+Tell me about your shopping habits.
+
+What do you usually buy?
+Where do you usually shop?
+
+[USER][warm][slow]
+I enjoy shopping, although I wouldn't describe myself as a big spender. <pause:0.8>
+
+I usually shop only when I need something rather than buying things on impulse. <pause:0.8>
+
+[USER][happy][slow]
+Most of the things I buy are practical items such as electronics, clothing, household goods, and daily necessities. <pause:0.8>
+
+From time to time, I also purchase gadgets or accessories related to my hobbies and work. <pause:0.8>
+
+I prefer products that offer good quality and long-term value. <pause:0.8>
+
+[USER][calm][slow]
+Nowadays, I do most of my shopping online because it's convenient and saves time. <pause:0.8>
+
+Before buying anything, I usually compare prices and read customer reviews. <pause:0.8>
+
+I prefer making informed decisions rather than buying things impulsively. <pause:0.8>
+
+This habit helps me avoid unnecessary purchases and save money. <pause:0.8>
+
+[USER][warm][slow]
+Overall, I see shopping as a useful activity rather than a hobby. <pause:0.8>
+
+I mainly buy things that improve my daily life. <pause:0.8>
+
+As long as a product is useful and reasonably priced, I'm usually satisfied with my purchase.

@@ -1,0 +1,34 @@
+[SYSTEM][neutral][slow]
+You need information about replacing a lost identification card.
+
+Call and ask for assistance.
+
+[USER][polite][slow]
+Hello. <pause:0.5>
+
+I'd like some information regarding a lost identification card. <pause:0.8>
+
+Unfortunately, I can no longer find my citizen identification card, and I may need to replace it. <pause:0.8>
+
+I noticed it was missing a few days ago and haven't been able to locate it despite searching thoroughly. <pause:0.8>
+
+[USER][concerned][slow]
+Since the card is an important personal document, I'd like to begin the replacement process as soon as possible. <pause:0.8>
+
+I'm also concerned about protecting my personal information. <pause:0.8>
+
+[USER][polite][slow]
+Could you please tell me what documents are required? <pause:0.8>
+
+I'd also like to know where I should go and how long the process typically takes. <pause:0.8>
+
+Do I need to make an appointment in advance, or can I visit the office directly? <pause:0.8>
+
+[USER][warm][slow]
+Thank you very much for your assistance. <pause:0.8>
+
+I appreciate any information you can provide. <pause:0.8>
+
+Your guidance will help me prepare everything correctly before I apply for a replacement card. <pause:0.8>
+
+Thank you.

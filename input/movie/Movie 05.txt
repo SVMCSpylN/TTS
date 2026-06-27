@@ -1,0 +1,33 @@
+[SYSTEM][neutral][slow]
+Tell me about your favorite actor or actress.
+
+Who is it?
+Why do you like him or her?
+
+[USER][warm][slow]
+My favorite actor is Jackie Chan. <pause:0.8>
+
+He's one of the most famous action and comedy actors in Asia. <pause:0.8>
+
+I've been watching his movies since I was a child. <pause:0.8>
+
+[USER][happy][slow]
+I've watched many of his films, and they always entertain me. <pause:0.8>
+
+His acting style is unique because he combines action, comedy, and impressive martial arts skills. <pause:0.8>
+
+Many of his movies are exciting, funny, and suitable for audiences of all ages. <pause:0.8>
+
+[USER][happy][slow]
+What I admire most is his dedication and hard work. <pause:0.8>
+
+He's famous for performing many of his own stunts, which requires a great deal of courage and commitment. <pause:0.8>
+
+Even after many years in the film industry, he continues to inspire people around the world. <pause:0.8>
+
+[USER][warm][slow]
+Whenever I want to relax and improve my mood, one of his movies is always a great choice. <pause:0.8>
+
+His films bring back many good memories from my childhood. <pause:0.8>
+
+That's why Jackie Chan remains my favorite actor.

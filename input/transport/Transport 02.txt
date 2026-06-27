@@ -1,0 +1,33 @@
+[SYSTEM][neutral][slow]
+Tell me about your commute to work.
+
+How do you get there?
+How long does it take?
+
+[USER][warm][slow]
+I commute to work by motorbike every weekday. <pause:0.8>
+
+My office is located in Hanoi, so the journey is fairly straightforward. <pause:0.8>
+
+Since I've been following the same route for years, I'm very familiar with the roads and traffic patterns. <pause:0.8>
+
+[USER][calm][slow]
+Depending on traffic conditions, the trip usually takes between thirty and forty minutes. <pause:0.8>
+
+Rush hour can sometimes make the commute longer. <pause:0.8>
+
+On particularly busy days, it may take closer to an hour to reach the office. <pause:0.8>
+
+[USER][happy][slow]
+Despite that, I actually enjoy the ride most days. <pause:0.8>
+
+I often listen to music or simply enjoy the morning atmosphere while traveling. <pause:0.8>
+
+The commute gives me some time to mentally prepare for the workday ahead. <pause:0.8>
+
+[USER][warm][slow]
+Overall, my commute is quite manageable and has become part of my daily routine. <pause:0.8>
+
+Although traffic can be frustrating at times, I'm used to it and don't find it too stressful. <pause:0.8>
+
+In general, I'm satisfied with my daily commute.

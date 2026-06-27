@@ -1,0 +1,35 @@
+[SYSTEM][neutral][slow]
+Compare holidays in the past and holidays nowadays.
+
+What differences do you notice?
+Which do you prefer?
+
+[USER][calm][slow]
+I think holidays today are quite different from holidays in the past. <pause:0.8>
+
+When I was a child, holidays were mostly about spending time with family and relatives. <pause:0.8>
+
+People didn't travel as much because transportation wasn't as convenient and travel was often more expensive. <pause:0.8>
+
+[USER][calm][slow]
+Most families stayed close to home and focused on traditional activities. <pause:0.8>
+
+For example, during holidays, people would visit relatives, prepare special meals, and spend time together. <pause:0.8>
+
+Those family gatherings were often the highlight of the holiday season. <pause:0.8>
+
+[USER][professional][slow]
+Nowadays, many people use holidays as an opportunity to travel and explore new destinations. <pause:0.8>
+
+Online booking services, mobile apps, and affordable transportation have made travel much easier than before. <pause:0.8>
+
+As a result, people have far more options when planning their holidays. <pause:0.8>
+
+[USER][warm][slow]
+Personally, I enjoy modern holidays because they offer more choices and flexibility. <pause:0.8>
+
+At the same time, I still believe family gatherings remain the most important part of any holiday. <pause:0.8>
+
+Ideally, I like combining both traditions and travel whenever possible. <pause:0.8>
+
+That way, I can create new experiences while still spending meaningful time with the people I care about.

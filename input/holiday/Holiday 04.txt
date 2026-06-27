@@ -1,0 +1,36 @@
+[SYSTEM][neutral][slow]
+Tell me about a memorable holiday.
+
+What happened?
+Why was it memorable?
+How did you feel?
+
+[USER][excited][slow]
+One of the most memorable holidays I've ever had was a trip to Da Nang several years ago. <pause:0.8>
+
+At that time, my wife and I decided to take a short vacation after a particularly busy period at work. <pause:0.8>
+
+We both needed a break, so the trip came at exactly the right time. <pause:0.8>
+
+[USER][happy][slow]
+Everything went smoothly, and we had the opportunity to visit many beautiful places. <pause:0.8>
+
+We enjoyed local food, visited famous attractions, and spent time relaxing by the beach. <pause:0.8>
+
+The weather was excellent, which made the experience even better. <pause:0.8>
+
+[USER][surprised][slow]
+One evening, we unexpectedly found a beach festival taking place nearby. <pause:0.8>
+
+There was live music, food stalls, and many fun activities. <pause:0.8>
+
+We hadn't planned to attend anything like that, so it was a pleasant surprise. <pause:0.8>
+
+We stayed much longer than expected because we were having such a great time. <pause:0.8>
+
+[USER][warm][slow]
+Even today, I still remember that holiday very clearly. <pause:0.8>
+
+It was one of the happiest and most relaxing trips I've ever taken. <pause:0.8>
+
+More importantly, it gave me wonderful memories with my wife that I'll never forget.

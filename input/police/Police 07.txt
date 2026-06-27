@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+Ask Eva about her experience with police officers.
+
+[USER][curious][slow]
+Hello, Eva. <pause:0.5>
+
+I'd like to ask you about your experiences with police officers. <pause:0.8>
+
+Have you ever needed assistance from a police officer? <pause:0.8>
+
+What happened? <pause:0.8>
+
+[USER][curious][slow]
+How did they help you? <pause:0.8>
+
+Were they able to solve the problem quickly? <pause:0.8>
+
+How did you feel during the situation? <pause:0.8>
+
+[USER][curious][slow]
+What was your impression of the officer who helped you? <pause:0.8>
+
+Did the experience change your opinion about police services in any way? <pause:0.8>
+
+[USER][warm][slow]
+One last question. <pause:0.5>
+
+What did you learn from that experience? <pause:0.8>
+
+I'd love to hear your story. <pause:0.8>
+
+Thank you for sharing.

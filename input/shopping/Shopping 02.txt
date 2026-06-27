@@ -1,0 +1,33 @@
+[SYSTEM][neutral][slow]
+Tell me about the last thing you bought.
+
+What was it?
+Why did you buy it?
+
+[USER][happy][slow]
+The last thing I bought was a pair of wireless headphones. <pause:0.8>
+
+I purchased them online after spending several days researching different models. <pause:0.8>
+
+I had been thinking about replacing my old headphones for quite some time. <pause:0.8>
+
+[USER][curious][slow]
+I compared specifications, watched reviews, and checked customer ratings. <pause:0.8>
+
+Since I listen to music regularly, sound quality was very important to me. <pause:0.8>
+
+I also paid close attention to battery life and comfort because I often wear headphones for extended periods. <pause:0.8>
+
+[USER][happy][slow]
+After using them for a few weeks, I can say that I'm very satisfied. <pause:0.8>
+
+The battery life is excellent, and the sound quality is much better than my old headphones. <pause:0.8>
+
+They've made listening to music and watching videos much more enjoyable. <pause:0.8>
+
+[USER][warm][slow]
+Looking back, it was definitely a worthwhile purchase. <pause:0.8>
+
+The headphones meet all of my expectations and have become part of my daily routine. <pause:0.8>
+
+I'm glad I took the time to research before making a decision.

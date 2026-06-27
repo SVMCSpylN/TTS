@@ -1,0 +1,28 @@
+[SYSTEM][neutral][slow]
+How do you prepare for different weather conditions?
+
+[USER][calm][slow]
+I usually adjust my plans according to the weather forecast. <pause:0.8>
+
+Before leaving home, I often check a weather app to see whether there will be any sudden changes. <pause:0.8>
+
+[USER][happy][slow]
+During the summer, I carry water and try to avoid outdoor activities during the hottest part of the day. <pause:0.8>
+
+I also wear light and comfortable clothing to stay cool. <pause:0.8>
+
+In winter, I wear warmer clothes and jackets. <pause:0.8>
+
+[USER][professional][slow]
+If rain is expected, I always bring a raincoat because I travel by motorbike. <pause:0.8>
+
+Heavy rain can affect traffic conditions, so I sometimes leave earlier than usual to avoid delays. <pause:0.8>
+
+Checking the weather forecast has become part of my daily routine. <pause:0.8>
+
+[USER][warm][slow]
+A little preparation can prevent a lot of inconvenience. <pause:0.8>
+
+It helps me stay comfortable, avoid unnecessary problems, and make better plans for the day. <pause:0.8>
+
+That's why I always try to be prepared for different weather conditions.

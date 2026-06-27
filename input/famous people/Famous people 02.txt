@@ -1,0 +1,34 @@
+[SYSTEM][neutral][slow]
+Tell me about the first time you became interested in a famous person.
+
+Who was it?
+How did it happen?
+Why did you become interested?
+
+[USER][warm][slow]
+The first famous person I became interested in was Binz. <pause:0.8>
+
+I discovered him through music several years ago when I was in high school. <pause:0.8>
+
+At that time, many of my friends were listening to his songs and talking about him. <pause:0.8>
+
+[USER][curious][slow]
+At first, I only listened to a few of his songs because my friends recommended them. <pause:0.8>
+
+However, the more I listened, the more interested I became. <pause:0.8>
+
+I started searching for more of his music and learning about his career. <pause:0.8>
+
+[USER][happy][slow]
+I liked his unique voice and performance style. <pause:0.8>
+
+His songs were energetic, catchy, and different from many other artists at the time. <pause:0.8>
+
+I also enjoyed watching interviews where he talked about his experiences and personal journey. <pause:0.8>
+
+[USER][warm][slow]
+Over time, I became a regular fan of his music. <pause:0.8>
+
+That's how my interest in him first developed. <pause:0.8>
+
+Even today, he's still one of my favorite artists.

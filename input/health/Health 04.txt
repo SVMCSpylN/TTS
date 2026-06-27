@@ -1,0 +1,41 @@
+[SYSTEM][neutral][slow]
+Tell me about a memorable visit to a doctor or clinic.
+
+Why did you go?
+What happened?
+How did you feel?
+
+[USER][warm][slow]
+One memorable visit happened during a routine health checkup. <pause:0.8>
+
+I scheduled the appointment because I wanted to make sure everything was fine with my health. <pause:0.8>
+
+It had been quite a while since my previous checkup, so I thought it was a good idea to get examined. <pause:0.8>
+
+[USER][worried][slow]
+To be honest, I felt a little nervous beforehand. <pause:0.8>
+
+Nobody really enjoys medical examinations, especially when they're waiting for the results. <pause:0.8>
+
+I was worried that the doctor might find some health issues that I wasn't aware of. <pause:0.8>
+
+[USER][calm][slow]
+The doctor performed several basic tests and asked about my lifestyle, diet, and exercise habits. <pause:0.8>
+
+The medical staff were friendly, and the entire process was very professional and efficient. <pause:0.8>
+
+Everything went smoothly, and I didn't have to wait very long. <pause:0.8>
+
+[USER][relieved][slow]
+Fortunately, the results were good. <pause:0.8>
+
+The doctor told me that I was generally healthy and simply advised me to continue exercising and maintaining healthy habits. <pause:0.8>
+
+That was a huge relief for me. <pause:0.8>
+
+[USER][warm][slow]
+I left the clinic feeling relieved and motivated to take even better care of my health. <pause:0.8>
+
+The experience reminded me of the importance of regular health checkups. <pause:0.8>
+
+Since then, I've tried to pay more attention to my health and lifestyle.

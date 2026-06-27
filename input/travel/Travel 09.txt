@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+Have you ever traveled abroad?
+
+Where would you like to go in the future?
+
+[USER][calm][slow]
+I haven't had many opportunities to travel abroad yet. <pause:0.8>
+
+Most of my trips have been within Vietnam. <pause:0.8>
+
+Even so, I've always been interested in exploring other countries and experiencing different cultures. <pause:0.8>
+
+[USER][happy][slow]
+However, international travel is definitely one of my future goals. <pause:0.8>
+
+There are many countries I'd like to visit, especially Japan and South Korea. <pause:0.8>
+
+Both countries have unique cultures, modern cities, and many interesting attractions. <pause:0.8>
+
+[USER][curious][slow]
+I'm interested in experiencing different cultures, trying authentic local food, and seeing famous landmarks. <pause:0.8>
+
+I'd also like to learn more about how people live and work in different parts of the world. <pause:0.8>
+
+As someone who enjoys technology, I'm particularly interested in seeing advanced transportation systems and modern urban environments. <pause:0.8>
+
+[USER][warm][slow]
+Hopefully, I'll have the chance to make that dream a reality in the near future. <pause:0.8>
+
+I believe traveling abroad would broaden my perspective and create unforgettable memories. <pause:0.8>
+
+It's something I'm really looking forward to in the future.

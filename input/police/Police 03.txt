@@ -1,0 +1,33 @@
+[SYSTEM][neutral][slow]
+Tell me about a memorable experience involving a police officer.
+
+What happened?
+How did you feel?
+
+[USER][calm][slow]
+One memorable experience happened when I was visiting an unfamiliar area in Hanoi. <pause:0.8>
+
+I was there for an appointment and wasn't familiar with the neighborhood at all. <pause:0.8>
+
+[USER][concerned][slow]
+I was trying to find a particular address, but my phone battery had almost run out. <pause:0.8>
+
+As a result, I became lost and wasn't sure where to go. <pause:0.8>
+
+The situation was stressful because I was already running late. <pause:0.8>
+
+[USER][relieved][slow]
+Fortunately, I noticed a police officer nearby and decided to ask for directions. <pause:0.8>
+
+He was very polite and clearly explained how to reach my destination. <pause:0.8>
+
+He even pointed out a shortcut that helped me get there more quickly. <pause:0.8>
+
+[USER][warm][slow]
+Thanks to his help, I found the location quickly and avoided wasting more time. <pause:0.8>
+
+I felt very relieved and grateful. <pause:0.8>
+
+Even though it was a simple interaction, I still remember it because he was very helpful and professional. <pause:0.8>
+
+That experience left me with a very positive impression of police officers.

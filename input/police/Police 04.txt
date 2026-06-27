@@ -1,0 +1,33 @@
+[SYSTEM][neutral][slow]
+Tell me about a time when you needed help.
+
+Who helped you?
+What happened?
+
+[USER][concerned][slow]
+Several years ago, I accidentally left my wallet in a public place. <pause:0.8>
+
+When I realized it was missing, I became extremely worried. <pause:0.8>
+
+I retraced my steps several times, but I still couldn't find it. <pause:0.8>
+
+[USER][worried][slow]
+The wallet contained cash, bank cards, and my identification card. <pause:0.8>
+
+I wasn't sure what to do next. <pause:0.8>
+
+At the time, I was particularly concerned about protecting my personal information and preventing any misuse of my bank cards. <pause:0.8>
+
+[USER][relieved][slow]
+Fortunately, a local police officer advised me on the proper steps to report the loss and protect my personal information. <pause:0.8>
+
+He calmly explained what I should do and answered all of my questions. <pause:0.8>
+
+His advice helped me handle the situation without panicking. <pause:0.8>
+
+[USER][warm][slow]
+Although I eventually found the wallet, I appreciated the assistance and guidance I received. <pause:0.8>
+
+The experience taught me the importance of staying calm during unexpected situations. <pause:0.8>
+
+Even today, I'm grateful for the help I received when I needed it most.

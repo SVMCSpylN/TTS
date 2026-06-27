@@ -1,0 +1,35 @@
+[SYSTEM][neutral][slow]
+You indicated in the survey that you are interested in police services.
+
+Tell me about police officers in your area.
+
+What do they do?
+Why are they important?
+
+[USER][warm][slow]
+Police officers play an important role in my community. <pause:0.8>
+
+Although I don't interact with them very often, I frequently see them while traveling around Hanoi. <pause:0.8>
+
+Their presence helps people feel safer in public places. <pause:0.8>
+
+[USER][calm][slow]
+Their main responsibilities include maintaining public safety, directing traffic, and responding to emergencies. <pause:0.8>
+
+They also help enforce laws and keep order in crowded areas. <pause:0.8>
+
+In addition, they assist people during accidents and other unexpected situations. <pause:0.8>
+
+[USER][happy][slow]
+For example, traffic police are often present at busy intersections during rush hour. <pause:0.8>
+
+Their work helps reduce congestion and improve road safety. <pause:0.8>
+
+During major events or holidays, police officers also help manage large crowds and ensure public security. <pause:0.8>
+
+[USER][warm][slow]
+I believe police officers provide an important public service and contribute to a safer society for everyone. <pause:0.8>
+
+Their work can be challenging and demanding, but it benefits the entire community. <pause:0.8>
+
+That's why I have a great deal of respect for what they do.

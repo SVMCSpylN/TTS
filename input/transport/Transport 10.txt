@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+Call a transportation company and ask about tickets.
+
+[USER][polite][slow]
+Hello. <pause:0.5>
+
+I'd like some information about transportation options to Da Nang. <pause:0.8>
+
+I'm planning a trip this weekend and would like to compare a few options. <pause:0.8>
+
+Could you tell me what departure times are available this weekend? <pause:0.8>
+
+[USER][curious][slow]
+I'd also like to know the ticket prices and baggage policy. <pause:0.8>
+
+Are there different fare classes available? <pause:0.8>
+
+If so, could you explain the main differences between them? <pause:0.8>
+
+[USER][curious][slow]
+Are there any promotions currently available? <pause:0.8>
+
+I'd also like to know whether tickets can be changed or refunded if my plans change unexpectedly. <pause:0.8>
+
+[USER][warm][slow]
+Thank you very much for your assistance. <pause:0.8>
+
+The information will help me choose the most suitable option for my trip. <pause:0.8>
+
+I appreciate your help and look forward to hearing the details. <pause:0.8>
+
+Thank you.

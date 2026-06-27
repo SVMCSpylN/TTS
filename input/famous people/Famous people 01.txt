@@ -1,0 +1,42 @@
+[SYSTEM][neutral][slow]
+You indicated in the survey that you are interested in famous people.
+
+Tell me about a famous person you admire.
+
+Who is he?
+How did you first learn about him?
+Why do you admire him?
+
+[USER][warm][slow]
+That's a great question. <pause:0.5>
+
+If I had to choose one famous person, I'd definitely choose Binz. <pause:0.8>
+
+He is one of the most well-known rappers and entertainers in Vietnam. <pause:0.8>
+
+[USER][happy][slow]
+I first learned about him when I was in high school. <pause:0.8>
+
+At that time, many of my friends listened to his songs and often shared them with each other. <pause:0.8>
+
+Out of curiosity, I started listening to his music as well. <pause:0.8>
+
+The more I listened, the more interested I became. <pause:0.8>
+
+[USER][happy][slow]
+What I admire most is his creativity and confidence. <pause:0.8>
+
+He has a unique style that makes him stand out from other artists. <pause:0.8>
+
+I also enjoy his warm voice and the way he performs on stage. <pause:0.8>
+
+In addition, he's worked very hard to build a successful career. <pause:0.8>
+
+[USER][warm][slow]
+Looking back, I've followed his career for many years. <pause:0.8>
+
+I've attended one of his live performances and even had the chance to take a photo with him. <pause:0.8>
+
+Even today, he's still one of my favorite celebrities. <pause:0.8>
+
+That's why I admire him so much.

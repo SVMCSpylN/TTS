@@ -1,0 +1,38 @@
+[SYSTEM][neutral][slow]
+You bought a home appliance, but it is not working properly.
+
+Call the store and explain the situation.
+
+[USER][concerned][slow]
+Hello. <pause:0.5>
+
+I'm calling about an air conditioner that I purchased from your store this morning. <pause:0.8>
+
+At first, everything seemed fine. <pause:0.8>
+
+However, a few hours later, it suddenly stopped working properly. <pause:0.8>
+
+[USER][worried][slow]
+I've checked the power supply and the remote control, but the problem still remains. <pause:0.8>
+
+The unit turns on, but it doesn't seem to cool the room at all. <pause:0.8>
+
+Since the product is brand new, I'm quite concerned. <pause:0.8>
+
+Oh, I see. <pause:0.5>
+
+[USER][polite][slow]
+Could you please arrange for a technician to inspect it? <pause:0.8>
+
+I'd like to have the issue checked as soon as possible. <pause:0.8>
+
+I'd also like to know about the replacement or exchange policy if necessary. <pause:0.8>
+
+[USER][warm][slow]
+I understand. <pause:0.5>
+
+Thank you for explaining the process. <pause:0.8>
+
+I appreciate your assistance and hope the problem can be resolved quickly. <pause:0.8>
+
+Thank you very much for your help.

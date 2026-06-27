@@ -1,0 +1,31 @@
+[SYSTEM][neutral][slow]
+Tell me about the last time you saw a police officer.
+
+Where was it?
+What was happening?
+
+[USER][calm][slow]
+The last time I saw a police officer was a few days ago while driving home from work. <pause:0.8>
+
+It was during the evening rush hour when the roads were particularly crowded. <pause:0.8>
+
+[USER][happy][slow]
+There was heavy traffic near a major intersection, and several traffic police officers were directing vehicles. <pause:0.8>
+
+They were helping drivers move safely and efficiently through the area. <pause:0.8>
+
+Despite the large number of vehicles, they remained calm and organized. <pause:0.8>
+
+[USER][calm][slow]
+Without their assistance, the traffic would probably have been much worse. <pause:0.8>
+
+Many drivers were following their instructions carefully. <pause:0.8>
+
+As a result, traffic continued to move steadily instead of coming to a complete stop. <pause:0.8>
+
+[USER][warm][slow]
+It reminded me how important their job is, especially in a busy city like Hanoi. <pause:0.8>
+
+Managing traffic in such conditions can't be easy. <pause:0.8>
+
+Seeing them at work made me appreciate the effort they make to keep people safe and maintain order on the roads.

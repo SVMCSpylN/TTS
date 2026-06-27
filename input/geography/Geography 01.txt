@@ -1,0 +1,38 @@
+[SYSTEM][neutral][slow]
+You indicated in the survey that you are interested in geography.
+
+Tell me about the geographical features of the place where you live.
+
+What is the area like?
+What are some notable geographical features?
+How do they affect daily life?
+
+[USER][warm][slow]
+That's an interesting question. <pause:0.5>
+
+I'd like to talk about Hanoi, where I currently live. <pause:0.8>
+
+[USER][calm][slow]
+Hanoi is located in the northern part of Vietnam and is mostly flat. <pause:0.8>
+
+The city has many lakes, rivers, and green spaces. <pause:0.8>
+
+One of the most famous geographical features is the Red River, which flows through the city. <pause:0.8>
+
+There are also many lakes scattered throughout Hanoi, such as West Lake and Hoan Kiem Lake. <pause:0.8>
+
+[USER][happy][slow]
+I especially enjoy the lakes because they create a more relaxing atmosphere. <pause:0.8>
+
+Many people gather around them to exercise, walk, cycle, or simply enjoy the scenery. <pause:0.8>
+
+These areas provide a welcome escape from the noise and traffic of the city. <pause:0.8>
+
+[USER][warm][slow]
+The geographical features of Hanoi also influence daily life in many ways. <pause:0.8>
+
+For example, the rivers and lakes help regulate the local climate and provide beautiful recreational areas. <pause:0.8>
+
+Although Hanoi is a large and busy city, these natural features help make daily life more pleasant. <pause:0.8>
+
+That's one of the things I appreciate most about living here.

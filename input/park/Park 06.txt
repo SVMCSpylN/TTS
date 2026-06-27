@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+Before going to the park, what do you usually do?
+
+How do you prepare?
+
+[USER][calm][slow]
+Before going to the park, I usually change into comfortable sportswear and running shoes. <pause:0.8>
+
+Wearing the right clothes makes it much easier to walk or jog comfortably. <pause:0.8>
+
+I also bring a bottle of water and my headphones. <pause:0.8>
+
+[USER][happy][slow]
+Since I often go after work, I need to change out of my office clothes first. <pause:0.8>
+
+Sometimes I also check the weather forecast to make sure it won't rain. <pause:0.8>
+
+If I'm meeting colleagues, I usually send them a message to confirm the time and location. <pause:0.8>
+
+[USER][calm][slow]
+Once I arrive at the park, I spend a few minutes warming up before walking or jogging. <pause:0.8>
+
+This helps prevent injuries and prepares my body for exercise. <pause:0.8>
+
+I like to start slowly before increasing my pace. <pause:0.8>
+
+[USER][warm][slow]
+These small preparations help me enjoy my time at the park much more. <pause:0.8>
+
+They also help me stay comfortable, safe, and focused on exercising. <pause:0.8>
+
+As a result, my visits to the park are usually enjoyable and relaxing.

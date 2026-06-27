@@ -1,0 +1,34 @@
+[SYSTEM][neutral][slow]
+Call a concert organizer and ask about tickets.
+
+[USER][polite][slow]
+Hello. <pause:0.5>
+
+I'm interested in attending an upcoming concert. <pause:0.8>
+
+Could you tell me whether tickets are still available? <pause:0.8>
+
+I'm hoping to attend with a friend if possible. <pause:0.8>
+
+[USER][curious][slow]
+I'd also like to know the ticket prices and seating options. <pause:0.8>
+
+Could you explain the differences between the seating categories? <pause:0.8>
+
+Which section would you recommend for the best experience? <pause:0.8>
+
+[USER][curious][slow]
+Are there any special promotions at the moment? <pause:0.8>
+
+Do you offer discounts for early bookings or group purchases? <pause:0.8>
+
+And can tickets be purchased online? <pause:0.8>
+
+[USER][warm][slow]
+That sounds great. <pause:0.5>
+
+Thank you very much for the information. <pause:0.8>
+
+I'll discuss it with my friend and make a reservation soon. <pause:0.8>
+
+Thank you for your assistance.

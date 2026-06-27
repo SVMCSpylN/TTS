@@ -1,0 +1,34 @@
+[SYSTEM][neutral][slow]
+Tell me about a holiday you would like to have in the future.
+
+Where would you like to go?
+What would you do there?
+Why do you want to go?
+
+[USER][excited][slow]
+A holiday I'd love to have in the future would be a trip to Japan. <pause:0.8>
+
+I've always wanted to visit the country because of its beautiful scenery and unique culture. <pause:0.8>
+
+It's one of the destinations that has been on my travel list for many years. <pause:0.8>
+
+[USER][happy][slow]
+If I had the opportunity, I'd like to visit Tokyo, Kyoto, and Mount Fuji. <pause:0.8>
+
+I'd also love to try authentic Japanese food and experience local traditions. <pause:0.8>
+
+Visiting historical temples and exploring traditional neighborhoods would be especially interesting to me. <pause:0.8>
+
+[USER][excited][slow]
+Another thing I'd enjoy is seeing cherry blossoms in spring. <pause:0.8>
+
+I've seen many photos, and they look absolutely beautiful. <pause:0.8>
+
+I'd love to walk through the parks, take photographs, and enjoy the scenery with my wife. <pause:0.8>
+
+[USER][warm][slow]
+I hope I'll be able to make that trip someday. <pause:0.8>
+
+I think it would become one of the most memorable holidays of my life. <pause:0.8>
+
+It would be a perfect combination of travel, culture, food, and unforgettable experiences.

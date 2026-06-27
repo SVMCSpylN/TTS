@@ -1,0 +1,34 @@
+[SYSTEM][neutral][slow]
+Tell me about your most recent trip.
+
+Where did you go?
+Who did you travel with?
+What did you do?
+
+[USER][happy][slow]
+My most recent trip was to Da Nang with my wife. <pause:0.8>
+
+We decided to take a short vacation to escape our busy schedules. <pause:0.8>
+
+It had been a long time since our previous trip, so we were both looking forward to it. <pause:0.8>
+
+[USER][excited][slow]
+We traveled by airplane and stayed there for several days. <pause:0.8>
+
+During the trip, we visited famous attractions, enjoyed local food, and spent time at the beach. <pause:0.8>
+
+We also explored local markets and tried several seafood restaurants that were recommended by local residents. <pause:0.8>
+
+[USER][happy][slow]
+One of the highlights was watching the sunset by the ocean. <pause:0.8>
+
+The scenery was absolutely beautiful. <pause:0.8>
+
+The weather was pleasant, and the peaceful atmosphere made the experience even more enjoyable. <pause:0.8>
+
+[USER][warm][slow]
+It was a relaxing and memorable trip that helped us recharge and spend quality time together. <pause:0.8>
+
+After returning home, we both felt refreshed and ready to get back to work. <pause:0.8>
+
+It's definitely a trip that I'll remember for a long time.

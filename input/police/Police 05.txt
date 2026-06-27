@@ -1,0 +1,35 @@
+[SYSTEM][neutral][slow]
+Compare police services in the past and nowadays.
+
+What differences do you notice?
+
+[USER][calm][slow]
+Police services have changed significantly over time. <pause:0.8>
+
+Like many public services, they have become more modern and technology-driven. <pause:0.8>
+
+[USER][calm][slow]
+In the past, communication and record keeping were mostly paper-based. <pause:0.8>
+
+As a result, many procedures took longer to complete. <pause:0.8>
+
+Citizens often had to visit government offices in person and wait for paperwork to be processed. <pause:0.8>
+
+[USER][happy][slow]
+Today, technology helps police officers perform their duties more efficiently. <pause:0.8>
+
+Many services are now digital, and information can be processed much faster. <pause:0.8>
+
+People can often access information online or use electronic identification systems for various procedures. <pause:0.8>
+
+[USER][professional][slow]
+Another difference is the use of modern equipment and communication systems. <pause:0.8>
+
+These tools help police officers respond to incidents more quickly and coordinate their work more effectively. <pause:0.8>
+
+I believe these improvements help both citizens and law enforcement agencies. <pause:0.8>
+
+[USER][warm][slow]
+Overall, modern police services are more convenient and efficient than before. <pause:0.8>
+
+While the core mission remains the same, the methods and tools have improved considerably over the years.

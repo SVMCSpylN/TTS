@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+What do you usually do during a trip?
+
+Describe your travel style.
+
+[USER][warm][slow]
+When traveling, I like to balance sightseeing, relaxation, and local experiences. <pause:0.8>
+
+I don't like rushing from one attraction to another. <pause:0.8>
+
+Instead, I prefer a relaxed schedule that gives me enough time to enjoy each place. <pause:0.8>
+
+[USER][happy][slow]
+During the day, I usually visit famous attractions and take photos. <pause:0.8>
+
+I also enjoy learning about the local culture and history. <pause:0.8>
+
+Whenever possible, I like to explore areas beyond the main tourist spots to get a better sense of local life. <pause:0.8>
+
+[USER][happy][slow]
+Another thing I love is trying local food. <pause:0.8>
+
+I often ask local people for restaurant recommendations. <pause:0.8>
+
+In my experience, some of the best meals can be found in small local restaurants rather than popular tourist destinations. <pause:0.8>
+
+[USER][warm][slow]
+For me, the best trips are the ones that combine beautiful places, good food, and meaningful experiences. <pause:0.8>
+
+By the end of a trip, I want to feel relaxed while also learning something new about the place I visited. <pause:0.8>
+
+That's the travel style I enjoy the most.

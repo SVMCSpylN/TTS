@@ -1,0 +1,36 @@
+[SYSTEM][neutral][slow]
+Ask Eva about her favorite movie.
+
+[USER][curious][slow]
+Hello, Eva. <pause:0.5>
+
+I'd like to ask you about your favorite movie. <pause:0.8>
+
+What movie do you like the most? <pause:0.8>
+
+What is it about? <pause:0.8>
+
+[USER][curious][slow]
+I see. <pause:0.5>
+
+Why do you enjoy it so much? <pause:0.8>
+
+Is it because of the story, the characters, or the message it delivers? <pause:0.8>
+
+Who is your favorite character in the movie? <pause:0.8>
+
+[USER][curious][slow]
+When did you first watch it? <pause:0.8>
+
+Have you watched it more than once? <pause:0.8>
+
+If so, what keeps bringing you back to it? <pause:0.8>
+
+[USER][warm][slow]
+One last question. <pause:0.5>
+
+Would you watch it again in the future? <pause:0.8>
+
+And would you recommend it to other people? <pause:0.8>
+
+I'd love to hear your answer.

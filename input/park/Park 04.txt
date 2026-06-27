@@ -1,0 +1,40 @@
+[SYSTEM][neutral][slow]
+Tell me about a memorable experience you had at a park.
+
+What happened?
+Why was it memorable?
+
+[USER][excited][slow]
+One memorable experience happened while I was jogging in the park with my colleagues. <pause:0.8>
+
+It took place on a pleasant weekend morning at Hoa Binh Park. <pause:0.8>
+
+Everything was going well until I accidentally tripped over a small stone. <pause:0.8>
+
+[USER][surprised][slow]
+I lost my balance and fell onto the path. <pause:0.8>
+
+For a moment, everyone was shocked. <pause:0.8>
+
+I was surprised because it happened so suddenly. <pause:0.8>
+
+Several people nearby even stopped to check whether I was okay. <pause:0.8>
+
+[USER][worried][slow]
+Fortunately, the injury wasn't serious. <pause:0.8>
+
+My colleagues helped me stand up and brought me some water. <pause:0.8>
+
+Although I had a few minor scratches, I was able to recover quickly. <pause:0.8>
+
+[USER][relieved][slow]
+After resting for a while, I felt much better. <pause:0.8>
+
+Although it was a bit embarrassing, everything turned out fine. <pause:0.8>
+
+Even today, we still laugh about that incident whenever we meet. <pause:0.8>
+
+[USER][warm][slow]
+The experience was memorable not because of the accident itself, but because it reminded me how supportive my colleagues are. <pause:0.8>
+
+Looking back, it became a funny story that we still enjoy talking about.

@@ -1,0 +1,27 @@
+[SYSTEM][neutral][slow]
+Compare making appointments in the past and nowadays.
+
+What has changed?
+Which do you prefer?
+
+[USER][calm][slow]
+Making appointments today is much easier than it was in the past. <pause:0.8>
+
+[USER][calm][slow]
+Years ago, people usually had to call directly or visit a place in person to make a reservation. <pause:0.8>
+
+There were also fewer reminder systems available. <pause:0.8>
+
+As a result, people were more likely to forget appointments. <pause:0.8>
+
+[USER][happy][slow]
+Nowadays, most appointments can be scheduled online within a few minutes. <pause:0.8>
+
+Many apps automatically send reminders before the appointment date. <pause:0.8>
+
+Some even allow users to change or cancel appointments instantly. <pause:0.8>
+
+[USER][warm][slow]
+Personally, I definitely prefer the modern system. <pause:0.8>
+
+It saves time, reduces stress, and makes life much more convenient.

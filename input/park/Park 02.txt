@@ -1,0 +1,35 @@
+[SYSTEM][neutral][slow]
+Tell me about what you usually do at a park.
+
+Who do you go with?
+What activities do you enjoy?
+
+[USER][warm][slow]
+I usually visit the park after work or on weekends. <pause:0.8>
+
+It's one of my favorite places to relax and get some fresh air. <pause:0.8>
+
+Most of the time, I go there with my colleagues. <pause:0.8>
+
+[USER][happy][slow]
+When we arrive, we normally walk around the lake and chat about our day. <pause:0.8>
+
+Sometimes we jog together for exercise. <pause:0.8>
+
+I usually complete two laps around the lake. <pause:0.8>
+
+The exercise helps me stay healthy and reduces stress from work. <pause:0.8>
+
+[USER][calm][slow]
+Occasionally, I wear headphones and listen to music while walking. <pause:0.8>
+
+It helps me clear my mind and relax. <pause:0.8>
+
+I also enjoy watching people exercise, play sports, or spend time with their families. <pause:0.8>
+
+[USER][warm][slow]
+Even though the activities are simple, I always enjoy my time there. <pause:0.8>
+
+The peaceful atmosphere makes me feel refreshed and energized. <pause:0.8>
+
+It's a great way to recharge after a busy day.

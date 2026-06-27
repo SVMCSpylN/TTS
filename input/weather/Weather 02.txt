@@ -1,0 +1,30 @@
+[SYSTEM][neutral][slow]
+What is your favorite kind of weather?
+
+Why do you like it?
+
+[USER][happy][slow]
+My favorite kind of weather is cool and sunny weather. <pause:0.8>
+
+It's neither too hot nor too cold, which makes it perfect for outdoor activities. <pause:0.8>
+
+The temperature is comfortable, and the sunshine makes everything feel brighter and more pleasant. <pause:0.8>
+
+[USER][happy][slow]
+Whenever the weather is like that, I enjoy going for a walk or jogging in the park. <pause:0.8>
+
+I also feel more energetic and productive throughout the day. <pause:0.8>
+
+It's much easier to stay active when the weather is comfortable. <pause:0.8>
+
+[USER][calm][slow]
+Another reason I like this type of weather is that it makes traveling and sightseeing more enjoyable. <pause:0.8>
+
+People can spend more time outdoors without worrying about extreme heat, heavy rain, or cold temperatures. <pause:0.8>
+
+[USER][warm][slow]
+For me, pleasant weather can instantly improve my mood and make the day feel better. <pause:0.8>
+
+Whenever the weather is cool and sunny, I naturally feel more relaxed and optimistic. <pause:0.8>
+
+That's why it's my favorite type of weather.

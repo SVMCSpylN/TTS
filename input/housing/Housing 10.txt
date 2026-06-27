@@ -1,0 +1,38 @@
+[SYSTEM][neutral][slow]
+There is a problem in your home.
+
+Call a repair service and explain the situation.
+
+[USER][concerned][slow]
+Hello. <pause:0.5>
+
+I'm calling because I need help with a problem in my house. <pause:0.8>
+
+One of my windows is no longer opening properly. <pause:0.8>
+
+The problem started a few days ago and seems to be getting worse. <pause:0.8>
+
+[USER][worried][slow]
+I've tried checking it myself, but I haven't been able to fix the issue. <pause:0.8>
+
+The window feels stuck, and I'm worried that forcing it open might cause more damage. <pause:0.8>
+
+The problem is becoming quite inconvenient because I use that window every day. <pause:0.8>
+
+[USER][polite][slow]
+Could you send a technician to inspect it? <pause:0.8>
+
+I'd also like to know when someone would be available to come by. <pause:0.8>
+
+Oh, I see. <pause:0.5>
+
+Could you give me an estimate of the repair cost as well? <pause:0.8>
+
+[USER][warm][slow]
+That sounds reasonable. <pause:0.5>
+
+Thank you very much for your assistance. <pause:0.8>
+
+I appreciate your help and look forward to hearing from the technician soon. <pause:0.8>
+
+Have a nice day.

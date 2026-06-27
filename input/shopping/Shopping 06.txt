@@ -1,0 +1,35 @@
+[SYSTEM][neutral][slow]
+Tell me about something you would like to buy in the future.
+
+What is it?
+Why do you want it?
+
+[USER][excited][slow]
+One thing I'd like to buy in the future is a robot vacuum cleaner. <pause:0.8>
+
+I've been interested in one for quite some time. <pause:0.8>
+
+Several of my friends already own one, and they've had very positive experiences with it. <pause:0.8>
+
+[USER][happy][slow]
+Since both my wife and I have busy work schedules, cleaning can sometimes take a lot of time. <pause:0.8>
+
+A robot vacuum could handle some of that work automatically. <pause:0.8>
+
+That would allow us to spend more time relaxing or doing other activities. <pause:0.8>
+
+[USER][curious][slow]
+I've already researched several models and compared their features. <pause:0.8>
+
+Some of them can even be controlled through smartphone apps. <pause:0.8>
+
+Others can create maps of the house and clean specific areas when needed. <pause:0.8>
+
+I find those smart features very interesting. <pause:0.8>
+
+[USER][warm][slow]
+I think it would make daily life much more convenient. <pause:0.8>
+
+Although it's not something I urgently need, I believe it would be a worthwhile investment. <pause:0.8>
+
+I hope I'll be able to buy one in the near future.

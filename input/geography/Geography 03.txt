@@ -1,0 +1,36 @@
+[SYSTEM][neutral][slow]
+Tell me about a geographical location you enjoy visiting.
+
+Where is it?
+What is it like?
+Why do you enjoy visiting it?
+
+[USER][happy][slow]
+One geographical location I enjoy visiting is Da Nang. <pause:0.8>
+
+I've visited the city several times and always enjoy my trips there. <pause:0.8>
+
+It's one of my favorite destinations in Vietnam. <pause:0.8>
+
+[USER][happy][slow]
+What makes Da Nang special is its beautiful coastline. <pause:0.8>
+
+The city has long sandy beaches and stunning ocean views. <pause:0.8>
+
+In addition, there are mountains and peninsulas nearby, such as Son Tra Peninsula. <pause:0.8>
+
+The combination of beaches, mountains, and modern city life makes the area very attractive. <pause:0.8>
+
+[USER][warm][slow]
+Whenever I visit Da Nang, I enjoy walking along the beach early in the morning. <pause:0.8>
+
+The fresh sea breeze and peaceful atmosphere help me relax completely. <pause:0.8>
+
+I also enjoy trying local seafood and visiting famous attractions around the city. <pause:0.8>
+
+[USER][warm][slow]
+That's why Da Nang remains one of my favorite destinations in Vietnam. <pause:0.8>
+
+Every time I visit, I feel refreshed and energized. <pause:0.8>
+
+I hope to return there again with my wife in the near future.

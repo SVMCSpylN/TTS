@@ -1,0 +1,34 @@
+[SYSTEM][neutral][slow]
+Call a cinema and book movie tickets.
+
+[USER][polite][slow]
+Hello. <pause:0.5>
+
+I'd like to book two tickets for Aquaman this Saturday evening. <pause:0.8>
+
+My friend and I are planning to watch it together. <pause:0.8>
+
+Could you tell me what showtimes are available? <pause:0.8>
+
+[USER][curious][slow]
+I'd prefer seats near the center of the theater if possible. <pause:0.8>
+
+Could you check whether any good seats are still available? <pause:0.8>
+
+Oh, that sounds great. <pause:0.5>
+
+[USER][curious][slow]
+Could you also let me know the ticket price? <pause:0.8>
+
+Are there any discounts or promotions available at the moment? <pause:0.8>
+
+And can I pay online when making the reservation? <pause:0.8>
+
+[USER][warm][slow]
+Perfect. <pause:0.5>
+
+Please reserve the tickets for me. <pause:0.8>
+
+Thank you very much for your help. <pause:0.8>
+
+I'm looking forward to watching the movie this weekend.

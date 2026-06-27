@@ -1,0 +1,33 @@
+[SYSTEM][neutral][slow]
+Tell me about a geographical place you would like to visit in the future.
+
+Where is it?
+Why do you want to visit it?
+
+[USER][excited][slow]
+A geographical destination I'd love to visit in the future is Mount Fuji in Japan. <pause:0.8>
+
+I've seen many photos and videos of it online, and it has always fascinated me. <pause:0.8>
+
+It's one of the most famous natural landmarks in the world. <pause:0.8>
+
+[USER][happy][slow]
+What attracts me most is its beautiful shape and natural surroundings. <pause:0.8>
+
+The mountain looks especially impressive during spring when cherry blossoms are in bloom. <pause:0.8>
+
+The combination of snow-covered peaks and colorful flowers creates an amazing view. <pause:0.8>
+
+[USER][excited][slow]
+I'd like to experience the scenery in person and take photographs. <pause:0.8>
+
+I also want to learn more about Japanese culture while visiting the area. <pause:0.8>
+
+If possible, I'd even like to hike part of the mountain and enjoy the view from a higher elevation. <pause:0.8>
+
+[USER][warm][slow]
+I hope I'll have the opportunity to make that trip someday. <pause:0.8>
+
+I think it would be an unforgettable experience and one of the highlights of my travels. <pause:0.8>
+
+It's definitely one of the destinations on my bucket list.

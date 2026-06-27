@@ -1,0 +1,35 @@
+[SYSTEM][neutral][slow]
+Compare traveling now and traveling in the past.
+
+What differences do you notice?
+
+[USER][calm][slow]
+Traveling today is much easier than it was in the past. <pause:0.8>
+
+Advances in technology and transportation have changed the entire travel experience. <pause:0.8>
+
+[USER][calm][slow]
+Years ago, planning a trip required much more effort. <pause:0.8>
+
+People had limited access to information and often relied on travel agencies. <pause:0.8>
+
+Finding details about destinations, accommodations, or transportation could take a significant amount of time. <pause:0.8>
+
+[USER][happy][slow]
+Today, travelers can book flights, hotels, and transportation online within minutes. <pause:0.8>
+
+Navigation apps also make it much easier to explore unfamiliar places. <pause:0.8>
+
+In addition, people can read reviews, compare prices, and share their experiences through social media. <pause:0.8>
+
+[USER][professional][slow]
+Technology has completely changed the way people travel. <pause:0.8>
+
+It has made travel planning more efficient and reduced many of the uncertainties that travelers used to face. <pause:0.8>
+
+[USER][warm][slow]
+In my opinion, modern travel is much more convenient and enjoyable. <pause:0.8>
+
+Although some destinations have become more crowded, the overall travel experience has improved greatly. <pause:0.8>
+
+That's why I believe today's travelers have far more opportunities than previous generations.

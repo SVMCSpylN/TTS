@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+Ask Eva about technology.
+
+[USER][curious][slow]
+Hello, Eva. <pause:0.5>
+
+I'd like to ask you about technology. <pause:0.8>
+
+What technology device do you use most often? <pause:0.8>
+
+How does it help you in daily life? <pause:0.8>
+
+[USER][curious][slow]
+Are there any new technologies you're excited about? <pause:0.8>
+
+What interests you most about them? <pause:0.8>
+
+Do you think they will change the way people live or work in the future? <pause:0.8>
+
+[USER][curious][slow]
+Do you think technology makes life better? <pause:0.8>
+
+Are there any disadvantages that concern you? <pause:0.8>
+
+[USER][warm][slow]
+One last question. <pause:0.5>
+
+If you could try any new technology today, what would it be and why? <pause:0.8>
+
+I'd love to hear your thoughts. <pause:0.8>
+
+Thank you for sharing.

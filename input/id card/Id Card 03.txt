@@ -1,0 +1,36 @@
+[SYSTEM][neutral][slow]
+Tell me about a memorable experience involving your identification card.
+
+What happened?
+Why was it memorable?
+How did you feel?
+
+[USER][worried][slow]
+One memorable experience happened a few years ago when I thought I had lost my identification card. <pause:0.8>
+
+It was a very stressful situation. <pause:0.8>
+
+At the time, I needed the card for several important tasks, so losing it would have caused many problems. <pause:0.8>
+
+[USER][concerned][slow]
+One evening, I opened my wallet and suddenly realized the card wasn't there. <pause:0.8>
+
+I immediately started searching my house, my office, and even my car. <pause:0.8>
+
+The more I searched, the more worried I became. <pause:0.8>
+
+I even began thinking about the complicated process of replacing it. <pause:0.8>
+
+[USER][relieved][slow]
+Fortunately, after several hours, I found it inside a small compartment in my backpack. <pause:0.8>
+
+I had completely forgotten that I put it there. <pause:0.8>
+
+The moment I saw it, I felt an enormous sense of relief. <pause:0.8>
+
+[USER][warm][slow]
+Looking back, it may seem like a small incident, but it taught me an important lesson. <pause:0.8>
+
+Since then, I've become much more careful with important documents and personal belongings. <pause:0.8>
+
+It's an experience that I still remember very clearly today.

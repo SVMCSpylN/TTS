@@ -1,0 +1,37 @@
+[SYSTEM][neutral][slow]
+You indicated in the survey that you are interested in technology.
+
+Tell me about your interest in technology.
+
+Why are you interested in it?
+How does it affect your life?
+
+[USER][warm][slow]
+Technology has been an important part of my life for many years. <pause:0.8>
+
+As a software engineer, I work with technology every day. <pause:0.8>
+
+Because of my profession, I've naturally developed a strong interest in new technologies and innovations. <pause:0.8>
+
+[USER][happy][slow]
+One reason I enjoy technology is that it's constantly evolving. <pause:0.8>
+
+There is always something new to learn and explore. <pause:0.8>
+
+I enjoy discovering new software, devices, and innovative ideas. <pause:0.8>
+
+I find it exciting to see how technology can solve real-world problems and improve people's lives. <pause:0.8>
+
+[USER][calm][slow]
+Technology also makes daily life much more convenient. <pause:0.8>
+
+It helps me communicate, learn new things, manage tasks, and stay productive. <pause:0.8>
+
+For example, I use various applications for work, online learning, navigation, and entertainment. <pause:0.8>
+
+[USER][warm][slow]
+Overall, technology has had a positive impact on both my personal and professional life. <pause:0.8>
+
+It has opened up many opportunities and allowed me to continuously develop new skills. <pause:0.8>
+
+That's why technology remains one of my strongest interests.

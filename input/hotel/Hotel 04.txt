@@ -1,0 +1,43 @@
+[SYSTEM][neutral][slow]
+Tell me about a memorable hotel experience.
+
+What happened?
+Why was it memorable?
+How did you feel?
+
+[USER][excited][slow]
+One memorable hotel experience happened during a trip to Da Nang. <pause:0.8>
+
+When I arrived at the hotel, I was informed that the room I booked was unavailable due to a maintenance issue. <pause:0.8>
+
+It was completely unexpected because I had made the reservation well in advance. <pause:0.8>
+
+[USER][worried][slow]
+At first, I felt concerned because I thought I might need to find another hotel. <pause:0.8>
+
+That would have been very inconvenient, especially since my wife and I had just arrived after a long trip. <pause:0.8>
+
+I was worried that our vacation might get off to a bad start. <pause:0.8>
+
+[USER][surprised][slow]
+However, the manager apologized sincerely and offered a free room upgrade. <pause:0.8>
+
+The new room was much larger and had an amazing ocean view. <pause:0.8>
+
+It was far better than the room I originally reserved. <pause:0.8>
+
+When we entered the room and saw the view, we were both pleasantly surprised. <pause:0.8>
+
+[USER][happy][slow]
+My wife and I ended up having an even better experience than expected. <pause:0.8>
+
+The upgraded room made the entire trip feel more special and memorable. <pause:0.8>
+
+We enjoyed every moment of our stay there. <pause:0.8>
+
+[USER][warm][slow]
+Looking back, that unexpected situation turned into one of the best hotel experiences I've ever had. <pause:0.8>
+
+It showed me how excellent customer service can completely change a guest's experience. <pause:0.8>
+
+Even today, I still remember that hotel very positively.

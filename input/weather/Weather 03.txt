@@ -1,0 +1,31 @@
+[SYSTEM][neutral][slow]
+Tell me about the weather today.
+
+How is it?
+How does it affect your plans?
+
+[USER][calm][slow]
+The weather today is quite pleasant. <pause:0.8>
+
+The temperature is comfortable, and the sky is mostly clear. <pause:0.8>
+
+There is also a light breeze, which makes being outdoors even more enjoyable. <pause:0.8>
+
+[USER][happy][slow]
+Because the weather is nice, I'm planning to spend some time outdoors after work. <pause:0.8>
+
+I may go for a walk or do some jogging in the park. <pause:0.8>
+
+Good weather always encourages me to be more active and spend less time indoors. <pause:0.8>
+
+[USER][calm][slow]
+When the weather is good, I usually feel more motivated and active. <pause:0.8>
+
+It's easier to focus on work and maintain a positive mood throughout the day. <pause:0.8>
+
+[USER][warm][slow]
+Hopefully, it stays this way for the rest of the day. <pause:0.8>
+
+If the weather remains pleasant, I'll definitely take advantage of it and enjoy some outdoor activities this evening. <pause:0.8>
+
+Days like this are always a welcome change from extremely hot or rainy weather.

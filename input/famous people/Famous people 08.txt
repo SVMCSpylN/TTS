@@ -1,0 +1,36 @@
+[SYSTEM][neutral][slow]
+You want to attend a celebrity event.
+
+Call and ask for information.
+
+[USER][polite][slow]
+Hello. <pause:0.5>
+
+I'm interested in attending the upcoming event featuring Binz. <pause:0.8>
+
+I'd like to ask for some information. <pause:0.8>
+
+Could you tell me when and where the event will take place? <pause:0.8>
+
+Oh, I see. <pause:0.5>
+
+[USER][curious][slow]
+I'd also like to know how much the tickets cost. <pause:0.8>
+
+Are there still seats available? <pause:0.8>
+
+And which seats would you recommend for the best view of the stage? <pause:0.8>
+
+[USER][polite][slow]
+That sounds great. <pause:0.5>
+
+One more thing. <pause:0.8>
+
+Will there be any opportunities to meet the artist or take photos after the event? <pause:0.8>
+
+[USER][warm][slow]
+I understand. <pause:0.5>
+
+Thank you very much for your assistance. <pause:0.8>
+
+I'm really looking forward to the event.

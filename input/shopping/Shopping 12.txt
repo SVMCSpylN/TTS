@@ -1,0 +1,36 @@
+[SYSTEM][neutral][slow]
+You ordered something online, but it has not arrived.
+
+Call customer service and explain the situation.
+
+[USER][concerned][slow]
+Hello. <pause:0.5>
+
+I'm calling about an online order that hasn't arrived yet. <pause:0.8>
+
+According to the tracking information, it was supposed to be delivered two days ago. <pause:0.8>
+
+I was expecting to receive it earlier this week. <pause:0.8>
+
+[USER][worried][slow]
+I've checked the delivery status several times, but there haven't been any updates. <pause:0.8>
+
+I'm concerned that there may be a problem with the shipment. <pause:0.8>
+
+Since the package contains an item that I need soon, the delay is becoming quite inconvenient. <pause:0.8>
+
+[USER][polite][slow]
+Could you please check the status of my order and let me know what's happening? <pause:0.8>
+
+If there has been a delay, I'd appreciate any information about the expected delivery date. <pause:0.8>
+
+I can provide my order number if that would help. <pause:0.8>
+
+[USER][warm][slow]
+I'd really appreciate your assistance. <pause:0.8>
+
+Thank you for taking the time to look into this matter. <pause:0.8>
+
+I look forward to hearing an update soon. <pause:0.8>
+
+Thank you very much.

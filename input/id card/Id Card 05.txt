@@ -1,0 +1,31 @@
+[SYSTEM][neutral][slow]
+Compare identification cards in the past and identification cards nowadays.
+
+What differences do you notice?
+Which do you prefer?
+
+[USER][calm][slow]
+Identification cards today are quite different from those used in the past. <pause:0.8>
+
+Over the years, technology has changed the way personal information is stored and verified. <pause:0.8>
+
+[USER][calm][slow]
+In the past, identification cards mainly contained printed information and a photograph. <pause:0.8>
+
+They were used primarily as proof of identity. <pause:0.8>
+
+If information needed to be updated, the process was often more complicated and time-consuming. <pause:0.8>
+
+[USER][happy][slow]
+Nowadays, many identification cards contain electronic chips and can be integrated with digital services. <pause:0.8>
+
+This makes identity verification faster and more convenient. <pause:0.8>
+
+In some situations, people can even access government services online using information linked to their ID cards. <pause:0.8>
+
+[USER][warm][slow]
+Personally, I prefer modern identification cards because they're more secure and practical. <pause:0.8>
+
+They save time and make many administrative procedures much easier. <pause:0.8>
+
+I think technology has significantly improved the way identification systems work.

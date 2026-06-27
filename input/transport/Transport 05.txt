@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+What transportation would you like to use more often in the future?
+
+Why?
+
+[USER][excited][slow]
+In the future, I'd like to use high-speed rail more often. <pause:0.8>
+
+I've always been interested in fast and efficient public transportation systems. <pause:0.8>
+
+They seem like a great combination of speed, comfort, and convenience. <pause:0.8>
+
+[USER][happy][slow]
+Compared to driving long distances, trains can be more comfortable and relaxing. <pause:0.8>
+
+Passengers can read, work, or simply enjoy the scenery. <pause:0.8>
+
+Unlike driving, there's no need to focus on traffic or road conditions during the journey. <pause:0.8>
+
+[USER][curious][slow]
+I hope transportation infrastructure continues to improve in the future because it can make travel much easier. <pause:0.8>
+
+If high-speed rail networks become more widespread, traveling between cities could become faster and more environmentally friendly. <pause:0.8>
+
+I think that would benefit both travelers and local communities. <pause:0.8>
+
+[USER][warm][slow]
+If high-speed rail becomes more common, I'd definitely like to use it regularly. <pause:0.8>
+
+I believe it would be an excellent option for both business trips and vacations. <pause:0.8>
+
+For me, it represents one of the most promising forms of transportation for the future.

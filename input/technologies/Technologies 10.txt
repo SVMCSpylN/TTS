@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+Call a store and ask about a technology product.
+
+[USER][polite][slow]
+Hello. <pause:0.5>
+
+I'm interested in purchasing a new laptop. <pause:0.8>
+
+Could you tell me which models are currently available? <pause:0.8>
+
+I'd like something suitable for software development and everyday use. <pause:0.8>
+
+[USER][curious][slow]
+Could you recommend any models with a good balance of performance and battery life? <pause:0.8>
+
+I often work with programming tools and keep multiple applications open at the same time. <pause:0.8>
+
+I'd also prefer a laptop that's lightweight and easy to carry. <pause:0.8>
+
+[USER][polite][slow]
+Could you also tell me the price range and warranty options? <pause:0.8>
+
+Do you currently have any promotions or discounts available? <pause:0.8>
+
+[USER][warm][slow]
+Thank you very much for your assistance. <pause:0.8>
+
+Your recommendations will help me narrow down my options before making a decision. <pause:0.8>
+
+I look forward to hearing your suggestions. <pause:0.8>
+
+Thank you.

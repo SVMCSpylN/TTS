@@ -1,0 +1,42 @@
+[SYSTEM][neutral][slow]
+Call a restaurant and ask about a menu item.
+
+[USER][polite][slow]
+Hello. <pause:0.5>
+
+I'm planning to visit your restaurant this weekend and would like some information about the menu. <pause:0.8>
+
+I've heard many good things about your restaurant from friends. <pause:0.8>
+
+Oh, I see. <pause:0.5>
+
+I'm especially interested in seafood dishes. <pause:0.8>
+
+[USER][curious][slow]
+Could you tell me which seafood items are the most popular? <pause:0.8>
+
+That sounds delicious. <pause:0.8>
+
+I'm particularly interested in dishes that feature fresh local seafood. <pause:0.8>
+
+And do you have any special dishes available this week? <pause:0.8>
+
+[USER][curious][slow]
+I'd also like to know whether any of your seafood dishes are suitable for sharing. <pause:0.8>
+
+I'll be dining with my wife, so we're looking for something we can enjoy together. <pause:0.8>
+
+[USER][polite][slow]
+I see. <pause:0.5>
+
+One last question. <pause:0.8>
+
+Would you recommend making a reservation before visiting? <pause:0.8>
+
+Perfect. <pause:0.5>
+
+Thank you very much for your help. <pause:0.8>
+
+I'm looking forward to trying your food. <pause:0.8>
+
+Have a wonderful day.

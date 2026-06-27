@@ -1,0 +1,36 @@
+[SYSTEM][neutral][slow]
+You are planning a trip to a geographical destination.
+
+Call and ask for information.
+
+[USER][polite][slow]
+Hello. <pause:0.5>
+
+I'm interested in visiting Son Tra Peninsula during my upcoming trip to Da Nang. <pause:0.8>
+
+My wife and I are planning to spend a few days there next month. <pause:0.8>
+
+I'd like to ask for some information. <pause:0.8>
+
+[USER][curious][slow]
+Could you tell me the best time to visit? <pause:0.8>
+
+Are there any recommended attractions in the area? <pause:0.8>
+
+Oh, I see. <pause:0.5>
+
+Which places would you recommend for first-time visitors? <pause:0.8>
+
+[USER][curious][slow]
+I'd also like to know about transportation. <pause:0.8>
+
+Is it better to rent a motorbike, hire a taxi, or join a tour? <pause:0.8>
+
+And approximately how much time should I plan to spend there? <pause:0.8>
+
+[USER][warm][slow]
+That sounds great. <pause:0.5>
+
+Thank you very much for your assistance. <pause:0.8>
+
+I'm really looking forward to visiting Son Tra Peninsula and exploring the area.

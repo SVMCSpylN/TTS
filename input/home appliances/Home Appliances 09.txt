@@ -1,0 +1,37 @@
+[SYSTEM][neutral][slow]
+Call an appliance store and ask about a promotion.
+
+Ask about products, prices, and warranty information.
+
+[USER][polite][slow]
+Hello. <pause:0.5>
+
+I'm interested in purchasing an air conditioner. <pause:0.8>
+
+I heard that your store is currently offering promotional discounts. <pause:0.8>
+
+[USER][curious][slow]
+Could you tell me which models are included in the promotion? <pause:0.8>
+
+I'm looking for a model that's suitable for a medium-sized bedroom. <pause:0.8>
+
+Oh, I see. <pause:0.5>
+
+I'd also like to know the current prices. <pause:0.8>
+
+[USER][curious][slow]
+Do the promotional prices include installation fees? <pause:0.8>
+
+And are there any additional discounts available for cash payments or online orders? <pause:0.8>
+
+[USER][polite][slow]
+I'd also like to know about the warranty policy. <pause:0.8>
+
+How long is the warranty period, and what services are covered? <pause:0.8>
+
+[USER][warm][slow]
+That sounds helpful. <pause:0.5>
+
+Thank you very much for your assistance. <pause:0.8>
+
+I'll compare a few options and make a decision soon.

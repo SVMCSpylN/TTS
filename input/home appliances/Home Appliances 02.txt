@@ -1,0 +1,36 @@
+[SYSTEM][neutral][slow]
+Tell me about your favorite home appliance.
+
+What is it?
+Why do you like it?
+How often do you use it?
+
+[USER][warm][slow]
+If I had to choose one home appliance, I'd definitely choose my television. <pause:0.8>
+
+It's one of my favorite devices in the house and something I use almost every day. <pause:0.8>
+
+[USER][happy][slow]
+A few years ago, I replaced my old TV with a modern Samsung smart TV. <pause:0.8>
+
+The screen is large, thin, and has excellent picture quality. <pause:0.8>
+
+It can also connect to the Internet, which allows me to watch streaming services and online videos. <pause:0.8>
+
+Because of that, it serves as both a television and an entertainment center. <pause:0.8>
+
+[USER][happy][slow]
+One feature I really enjoy is voice control. <pause:0.8>
+
+It makes the TV very convenient to use. <pause:0.8>
+
+I probably use it every day after work, especially in the evening. <pause:0.8>
+
+My wife and I often watch movies or TV shows together before going to bed. <pause:0.8>
+
+[USER][warm][slow]
+Whether I'm watching movies, sports, or the news, it always helps me relax. <pause:0.8>
+
+It's a great way to unwind after a busy day. <pause:0.8>
+
+That's why it's my favorite home appliance.

@@ -1,0 +1,36 @@
+[SYSTEM][neutral][slow]
+You lost your identification card.
+
+Call the appropriate office and ask for help.
+
+[USER][worried][slow]
+Hello. <pause:0.5>
+
+I'm calling because I believe I've lost my citizen identification card. <pause:0.8>
+
+I noticed it was missing earlier today when I checked my wallet. <pause:0.8>
+
+Unfortunately, I can't remember exactly where I may have lost it. <pause:0.8>
+
+[USER][concerned][slow]
+I've searched everywhere, but I still can't find it. <pause:0.8>
+
+I've checked my house, my office, and even my car. <pause:0.8>
+
+At this point, I'm quite concerned that it may be permanently lost. <pause:0.8>
+
+[USER][polite][slow]
+I'd like to know what steps I should take next. <pause:0.8>
+
+Could you please tell me what documents are required to apply for a replacement? <pause:0.8>
+
+I'd also like to know how long the process usually takes. <pause:0.8>
+
+[USER][warm][slow]
+I understand. <pause:0.5>
+
+Thank you very much for explaining the procedure. <pause:0.8>
+
+I appreciate your assistance and will begin the replacement process as soon as possible. <pause:0.8>
+
+Have a nice day.

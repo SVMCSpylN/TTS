@@ -1,0 +1,36 @@
+[SYSTEM][neutral][slow]
+You left an item at a hotel after checking out.
+
+Call the hotel and ask for help.
+
+[USER][worried][slow]
+Hello. <pause:0.5>
+
+I recently stayed at your hotel and checked out this morning. <pause:0.8>
+
+Unfortunately, I think I left my laptop charger in the room. <pause:0.8>
+
+I stayed in room 612. <pause:0.8>
+
+[USER][worried][slow]
+I only realized it was missing after I arrived home. <pause:0.8>
+
+I've checked all of my bags several times, but I still can't find it. <pause:0.8>
+
+That's why I believe I may have left it in the room. <pause:0.8>
+
+[USER][polite][slow]
+Could you please check whether it has been found? <pause:0.8>
+
+If so, I'd like to know whether it can be mailed to me or kept at the front desk for pickup. <pause:0.8>
+
+Oh, I see. <pause:0.5>
+
+[USER][warm][slow]
+Thank you very much for checking. <pause:0.8>
+
+I really appreciate your assistance. <pause:0.8>
+
+Please let me know if you need any additional information from me. <pause:0.8>
+
+Thank you again for your help.

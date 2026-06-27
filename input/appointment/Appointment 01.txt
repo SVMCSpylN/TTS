@@ -1,0 +1,30 @@
+[SYSTEM][neutral][slow]
+You indicated in the survey that you make appointments.
+
+Tell me about the kinds of appointments you usually make.
+
+What are they for?
+How often do you make them?
+Why do you make them?
+
+[USER][warm][slow]
+That's an interesting question. <pause:0.3>
+
+I don't make appointments every day, but I do make them quite regularly. <pause:0.8>
+
+[USER][calm][slow]
+Most of my appointments are related to healthcare, work, or personal activities. <pause:0.8>
+
+For example, I occasionally schedule medical checkups, haircuts, and meetings with friends. <pause:0.8>
+
+At work, I also arrange meetings with colleagues when discussing projects. <pause:0.8>
+
+[USER][happy][slow]
+Nowadays, making appointments is very convenient because everything can be done through mobile apps. <pause:0.8>
+
+I usually receive reminders automatically, which helps me avoid forgetting important events. <pause:0.8>
+
+[USER][warm][slow]
+Personally, I think appointments help me manage my time more effectively. <pause:0.8>
+
+Without them, my schedule would probably become quite chaotic.

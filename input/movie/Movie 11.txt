@@ -1,0 +1,34 @@
+[SYSTEM][neutral][slow]
+You bought movie tickets, but there is a problem.
+
+Call the cinema and explain the situation.
+
+[USER][concerned][slow]
+Hello. <pause:0.5>
+
+I purchased movie tickets online earlier today, but I've noticed a problem with my reservation. <pause:0.8>
+
+I only realized the issue after receiving the confirmation email. <pause:0.8>
+
+[USER][worried][slow]
+I intended to buy tickets for the evening show, but the confirmation shows a different time. <pause:0.8>
+
+Unfortunately, I won't be able to attend that screening because I have work commitments during that time. <pause:0.8>
+
+I'm concerned that I may have selected the wrong option by mistake. <pause:0.8>
+
+[USER][polite][slow]
+Would it be possible to change my tickets to another showtime? <pause:0.8>
+
+If there are any additional fees, I'd be happy to pay them. <pause:0.8>
+
+Could you please let me know what options are available? <pause:0.8>
+
+[USER][warm][slow]
+I would really appreciate your assistance. <pause:0.8>
+
+Thank you for taking the time to help me with this issue. <pause:0.8>
+
+I look forward to hearing from you soon. <pause:0.8>
+
+Thank you very much.

@@ -1,0 +1,33 @@
+[SYSTEM][neutral][slow]
+Tell me about a piece of technology you recently bought.
+
+What was it?
+Why did you buy it?
+
+[USER][happy][slow]
+Recently, I bought a new pair of wireless headphones. <pause:0.8>
+
+I decided to replace my old headphones because the battery life had become quite poor. <pause:0.8>
+
+I use headphones almost every day, so having a reliable pair is very important to me. <pause:0.8>
+
+[USER][curious][slow]
+Before making the purchase, I spent several days reading reviews and comparing different models. <pause:0.8>
+
+I wanted to find a product with good sound quality and long battery life. <pause:0.8>
+
+I also compared prices from several online stores to make sure I was getting a good deal. <pause:0.8>
+
+[USER][happy][slow]
+After using them for a while, I can confidently say they were worth the investment. <pause:0.8>
+
+The sound quality is excellent, and they're much more comfortable than my previous pair. <pause:0.8>
+
+The battery lasts for many hours, which is especially convenient when I'm working or traveling. <pause:0.8>
+
+[USER][warm][slow]
+It's a small purchase, but it has improved my daily routine significantly. <pause:0.8>
+
+I use the headphones for listening to music, watching videos, and even taking online meetings. <pause:0.8>
+
+Overall, I'm very satisfied with my decision to buy them.

@@ -1,0 +1,34 @@
+[SYSTEM][neutral][slow]
+You indicated in the survey that you enjoy traveling domestically.
+
+Tell me about places you enjoy visiting.
+
+Why do you like them?
+
+[USER][warm][slow]
+I really enjoy traveling because it gives me an opportunity to relax and explore new places. <pause:0.8>
+
+Traveling also allows me to experience different cultures, foods, and ways of life. <pause:0.8>
+
+[USER][happy][slow]
+One of my favorite destinations is Da Nang. <pause:0.8>
+
+It's a beautiful coastal city located in central Vietnam. <pause:0.8>
+
+The city is famous for its beaches, delicious food, and friendly atmosphere. <pause:0.8>
+
+I especially enjoy the combination of modern facilities and natural scenery. <pause:0.8>
+
+[USER][happy][slow]
+Whenever I visit Da Nang, I enjoy walking along the beach and trying local seafood dishes. <pause:0.8>
+
+The city feels much less crowded than Hanoi, which makes it even more relaxing. <pause:0.8>
+
+I also like visiting nearby attractions such as Ba Na Hills and the Marble Mountains. <pause:0.8>
+
+[USER][warm][slow]
+That's why Da Nang remains one of my favorite travel destinations. <pause:0.8>
+
+Every time I visit, I come back feeling refreshed and energized. <pause:0.8>
+
+It's a place that I would happily return to again and again.

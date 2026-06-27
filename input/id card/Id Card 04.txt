@@ -1,0 +1,33 @@
+[SYSTEM][neutral][slow]
+Tell me about the first time you received your identification card.
+
+How did you get it?
+How did you feel?
+
+[USER][calm][slow]
+I still remember the first time I received my identification card. <pause:0.8>
+
+It happened many years ago when I became eligible to apply for one. <pause:0.8>
+
+At that age, it felt like an important milestone in my life. <pause:0.8>
+
+[USER][happy][slow]
+At the time, I visited the local government office and completed the required paperwork. <pause:0.8>
+
+The process included submitting personal information and having my photograph taken. <pause:0.8>
+
+A few weeks later, I was notified that my card was ready for collection. <pause:0.8>
+
+[USER][warm][slow]
+When I finally received it, I felt surprisingly excited. <pause:0.8>
+
+To me, it felt like an important step toward adulthood and independence. <pause:0.8>
+
+It was the first official document that truly represented my identity as an individual. <pause:0.8>
+
+[USER][warm][slow]
+Even though it happened a long time ago, I still remember that feeling today. <pause:0.8>
+
+Looking back, it was a simple event, but it carried a lot of meaning for me at the time. <pause:0.8>
+
+That's why it remains one of my most memorable experiences involving an identification card.

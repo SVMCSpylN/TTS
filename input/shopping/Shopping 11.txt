@@ -1,0 +1,38 @@
+[SYSTEM][neutral][slow]
+You purchased a product, but there is a problem.
+
+Call the store and explain the situation.
+
+[USER][concerned][slow]
+Hello. <pause:0.5>
+
+I'm calling regarding a product that I purchased recently. <pause:0.8>
+
+Unfortunately, I've encountered a problem with it. <pause:0.8>
+
+I was hoping you could help me resolve the issue. <pause:0.8>
+
+[USER][worried][slow]
+The item arrived yesterday, but it doesn't seem to be functioning properly. <pause:0.8>
+
+I've followed the instructions carefully, but the problem still remains. <pause:0.8>
+
+I even tried restarting it several times, but nothing changed. <pause:0.8>
+
+As a result, I'm unable to use the product as intended. <pause:0.8>
+
+[USER][polite][slow]
+Could you please tell me what options are available? <pause:0.8>
+
+I'd like to know whether a repair, replacement, or refund is possible. <pause:0.8>
+
+If necessary, I can provide my order number and any additional information you need. <pause:0.8>
+
+[USER][warm][slow]
+Thank you very much for your help. <pause:0.8>
+
+I understand that these situations can happen occasionally. <pause:0.8>
+
+I appreciate your assistance and look forward to resolving the issue as soon as possible. <pause:0.8>
+
+Thank you.

@@ -1,0 +1,34 @@
+[SYSTEM][neutral][slow]
+Tell me about the last piece of furniture you bought.
+
+What was it?
+Why did you buy it?
+How did you choose it?
+
+[USER][happy][slow]
+The last piece of furniture I bought was a sofa for my living room. <pause:0.8>
+
+I purchased it a few months ago after my old sofa started showing signs of wear and tear. <pause:0.8>
+
+Some parts were damaged, and it was no longer as comfortable as before. <pause:0.8>
+
+[USER][curious][slow]
+Before buying a new one, I spent quite a bit of time comparing different models online. <pause:0.8>
+
+I checked customer reviews, prices, materials, and designs. <pause:0.8>
+
+I also discussed the options with my wife because we wanted something that matched the style of our living room. <pause:0.8>
+
+[USER][happy][slow]
+Eventually, I found a sofa that met all my requirements. <pause:0.8>
+
+It was modern, comfortable, and reasonably priced. <pause:0.8>
+
+The color matched the rest of the furniture perfectly, which was another reason I chose it. <pause:0.8>
+
+[USER][warm][slow]
+Looking back, I'm very satisfied with my decision. <pause:0.8>
+
+Even today, my wife and I use it every evening while watching TV together. <pause:0.8>
+
+It's become one of our favorite places to relax after a busy day.

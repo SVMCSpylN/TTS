@@ -1,0 +1,36 @@
+[SYSTEM][neutral][slow]
+Tell me about the last time you went to a park.
+
+When did you go?
+Who did you go with?
+What happened?
+
+[USER][happy][slow]
+The last time I went to the park was last weekend. <pause:0.8>
+
+I visited Hoa Binh Park with several colleagues. <pause:0.8>
+
+We had been planning to go there for a few days because the weather forecast looked good. <pause:0.8>
+
+[USER][excited][slow]
+The weather was perfect. <pause:0.8>
+
+There was a cool breeze, and the sky was clear. <pause:0.8>
+
+We walked around the lake, talked about work and daily life, and then did some jogging. <pause:0.8>
+
+The park was busy, but it still felt peaceful and relaxing. <pause:0.8>
+
+[USER][happy][slow]
+After exercising, we bought drinks and sat on a bench overlooking the lake. <pause:0.8>
+
+We spent almost an hour chatting and enjoying the scenery. <pause:0.8>
+
+It was nice to spend time outdoors instead of staying indoors all day. <pause:0.8>
+
+[USER][warm][slow]
+It was a simple outing, but it helped me relax and forget about work for a while. <pause:0.8>
+
+I returned home feeling refreshed and full of energy. <pause:0.8>
+
+Overall, it was a wonderful experience.

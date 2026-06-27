@@ -1,0 +1,35 @@
+[SYSTEM][neutral][slow]
+How did you become interested in going to parks?
+
+When did it start?
+Why do you still enjoy it?
+
+[USER][calm][slow]
+I started going to parks shortly after joining my company. <pause:0.8>
+
+At that time, I spent most of my day sitting in front of a computer. <pause:0.8>
+
+Like many office workers, I didn't get enough physical activity during the day. <pause:0.8>
+
+[USER][concerned][slow]
+As a result, I often felt tired and stressed. <pause:0.8>
+
+One day, some colleagues invited me to walk around Hoa Binh Park after work. <pause:0.8>
+
+At first, I joined them simply because I wanted a break from my usual routine. <pause:0.8>
+
+[USER][happy][slow]
+To my surprise, I really enjoyed it. <pause:0.8>
+
+The fresh air and peaceful atmosphere helped me relax. <pause:0.8>
+
+Over time, it became part of my routine. <pause:0.8>
+
+I gradually started walking and jogging there on a regular basis. <pause:0.8>
+
+[USER][warm][slow]
+Even today, I still visit the park regularly because it helps me maintain a healthy lifestyle and reduce stress. <pause:0.8>
+
+It's a simple activity, but it has a positive impact on both my physical and mental health. <pause:0.8>
+
+That's why I continue to enjoy going to parks whenever I have free time.

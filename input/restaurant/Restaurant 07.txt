@@ -1,0 +1,34 @@
+[SYSTEM][neutral][slow]
+Tell me about your favorite type of food when eating out.
+
+Why do you like it?
+
+[USER][happy][slow]
+When eating out, my favorite type of food is hot pot. <pause:0.8>
+
+It's especially enjoyable when dining with family or friends. <pause:0.8>
+
+In fact, it's usually my first choice whenever we gather for a special occasion. <pause:0.8>
+
+[USER][happy][slow]
+What I like most is the variety. <pause:0.8>
+
+A typical hot pot meal includes meat, seafood, vegetables, and noodles. <pause:0.8>
+
+Everyone can choose the ingredients they like. <pause:0.8>
+
+Because there are so many options, it's easy to satisfy different tastes and preferences. <pause:0.8>
+
+[USER][warm][slow]
+Hot pot meals also create a very social atmosphere. <pause:0.8>
+
+People sit together, cook together, and chat while eating. <pause:0.8>
+
+The experience feels much more interactive than simply ordering individual dishes. <pause:0.8>
+
+[USER][warm][slow]
+For me, it's one of the most enjoyable dining experiences. <pause:0.8>
+
+Not only is the food delicious, but it also brings people closer together. <pause:0.8>
+
+That's why hot pot remains my favorite type of food when eating out.

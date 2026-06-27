@@ -1,0 +1,34 @@
+[SYSTEM][neutral][slow]
+Your holiday plans have changed unexpectedly.
+
+Call your friend and explain the situation.
+
+[USER][concerned][slow]
+Hello, Nam. <pause:0.5>
+
+I'm calling because I need to change our holiday plans. <pause:0.8>
+
+Unfortunately, an urgent project came up at work, and I won't be able to travel on the original dates. <pause:0.8>
+
+[USER][concerned][slow]
+I feel really sorry because we've been planning this trip for quite some time. <pause:0.8>
+
+I was actually looking forward to it because I haven't taken a proper holiday in a while. <pause:0.8>
+
+Oh, I know this is disappointing. <pause:0.8>
+
+[USER][curious][slow]
+Would it be possible to postpone the trip until next month? <pause:0.8>
+
+Do you have any free weekends later that we could consider instead? <pause:0.8>
+
+I really don't want to cancel the trip completely. <pause:0.8>
+
+[USER][grateful][slow]
+Thank you for understanding. <pause:0.8>
+
+I really appreciate your flexibility and patience. <pause:0.8>
+
+I hope we can still enjoy the trip together soon. <pause:0.8>
+
+When this busy period at work is over, I'll make sure we plan something great.

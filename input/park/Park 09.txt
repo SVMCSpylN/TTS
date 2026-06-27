@@ -1,0 +1,33 @@
+[SYSTEM][neutral][slow]
+Call your friend and invite him to go to the park.
+
+Explain your plan.
+
+[USER][warm][slow]
+Hello, Nam. <pause:0.5>
+
+How have you been lately? <pause:0.8>
+
+It's been a while since we last met. <pause:0.8>
+
+I'm planning to visit Hoa Binh Park this evening and was wondering if you'd like to join me. <pause:0.8>
+
+[USER][happy][slow]
+The weather looks great today, and I haven't exercised in several days. <pause:0.8>
+
+I'm thinking about taking a walk and doing a little jogging around the lake. <pause:0.8>
+
+After that, we could sit down for a while and chat. <pause:0.8>
+
+It would also be a good chance for us to catch up and talk about what's been happening recently. <pause:0.8>
+
+[USER][warm][slow]
+I plan to arrive at the park around six o'clock. <pause:0.8>
+
+If you're interested, we can meet at the main entrance. <pause:0.8>
+
+If you're free, I'd love for you to come along. <pause:0.8>
+
+Let me know what you think. <pause:0.8>
+
+I hope to see you there.

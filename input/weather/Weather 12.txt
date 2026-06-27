@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+Call a hotel and ask about the weather at your destination.
+
+[USER][polite][slow]
+Hello. <pause:0.5>
+
+I'm planning to visit Da Nang next week and would like some information about the weather. <pause:0.8>
+
+Could you tell me what the forecast looks like during that period? <pause:0.8>
+
+I'd like to make sure I'm properly prepared before I travel. <pause:0.8>
+
+[USER][curious][slow]
+I'd also like to know whether I should prepare for rain or bring any special clothing. <pause:0.8>
+
+Will the weather be suitable for outdoor activities and sightseeing? <pause:0.8>
+
+I'm especially interested in spending time at the beach. <pause:0.8>
+
+[USER][curious][slow]
+Are there any weather-related recommendations that you usually give to visitors? <pause:0.8>
+
+For example, is there anything I should bring besides the usual travel essentials? <pause:0.8>
+
+[USER][warm][slow]
+Thank you very much for your assistance. <pause:0.8>
+
+Your advice will help me prepare for the trip more effectively. <pause:0.8>
+
+I appreciate your help and look forward to visiting soon. <pause:0.8>
+
+Thank you.

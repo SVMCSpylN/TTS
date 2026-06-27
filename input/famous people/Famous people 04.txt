@@ -1,0 +1,25 @@
+[SYSTEM][neutral][slow]
+Have you heard any recent news about a famous person you like?
+
+What was the news?
+How did you learn about it?
+What did you think?
+
+[USER][calm][slow]
+Yes, I occasionally read news about Binz online. <pause:0.8>
+
+Most of the updates come from social media or entertainment websites. <pause:0.8>
+
+[USER][happy][slow]
+Recently, I read that he was participating in several music projects and live performances. <pause:0.8>
+
+Many fans were excited because they had been waiting for new content from him. <pause:0.8>
+
+I first learned about the news through social media while browsing on my phone. <pause:0.8>
+
+[USER][warm][slow]
+Personally, I'm always happy to hear news about artists I enjoy. <pause:0.8>
+
+It's nice to see that they're continuing to create new work and connect with their audience. <pause:0.8>
+
+I hope I'll have another opportunity to attend one of his live performances in the future.

@@ -1,0 +1,30 @@
+[SYSTEM][neutral][slow]
+Ask Eva about a memorable purchase.
+
+[USER][curious][slow]
+Hello, Eva. <pause:0.5>
+
+I'd like to hear about one of your favorite purchases. <pause:0.8>
+
+What did you buy? <pause:0.8>
+
+Why did you choose it? <pause:0.8>
+
+[USER][curious][slow]
+Did you spend a lot of time researching before making the purchase? <pause:0.8>
+
+What features or qualities convinced you to buy it? <pause:0.8>
+
+[USER][curious][slow]
+Are you still using it today? <pause:0.8>
+
+Has it met your expectations? <pause:0.8>
+
+[USER][warm][slow]
+And would you recommend it to other people? <pause:0.8>
+
+Why or why not? <pause:0.8>
+
+I'd love to hear your experience. <pause:0.8>
+
+Thank you for sharing.

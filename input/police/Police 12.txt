@@ -1,0 +1,36 @@
+[SYSTEM][neutral][slow]
+You need directions while traveling.
+
+Ask a police officer for help.
+
+[USER][polite][slow]
+Excuse me, officer. <pause:0.5>
+
+I'm trying to find a particular address, but I seem to be lost. <pause:0.8>
+
+I'm visiting this area for the first time, so I'm not familiar with the streets here. <pause:0.8>
+
+Could you please tell me how to get to this location? <pause:0.8>
+
+[USER][concerned][slow]
+I've been walking around for quite a while and haven't been able to find it. <pause:0.8>
+
+I tried using my phone, but the battery is almost dead. <pause:0.8>
+
+I'm worried that I might continue going in the wrong direction. <pause:0.8>
+
+[USER][polite][slow]
+Would you be able to point me in the right direction? <pause:0.8>
+
+If it's too far to walk, could you also tell me the best way to get there? <pause:0.8>
+
+I would really appreciate any advice you can provide. <pause:0.8>
+
+[USER][warm][slow]
+Thank you very much for your assistance. <pause:0.8>
+
+I appreciate your help and your time. <pause:0.8>
+
+Have a great day. <pause:0.8>
+
+Thank you.

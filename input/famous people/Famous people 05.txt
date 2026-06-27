@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+Compare famous people in the past and famous people nowadays.
+
+What has changed?
+What are the differences?
+
+[USER][calm][slow]
+I think being famous today is very different from being famous in the past. <pause:0.8>
+
+Years ago, celebrities mainly appeared on television, newspapers, and magazines. <pause:0.8>
+
+As a result, fans had limited access to their daily lives. <pause:0.8>
+
+[USER][calm][slow]
+People usually had to wait for interviews, television programs, or newspaper articles to learn about their favorite celebrities. <pause:0.8>
+
+Because of that, famous people had much more privacy than they do today. <pause:0.8>
+
+[USER][happy][slow]
+Nowadays, social media allows celebrities to communicate directly with their fans. <pause:0.8>
+
+People can follow their activities almost in real time and receive updates instantly. <pause:0.8>
+
+[USER][professional][slow]
+While this creates stronger connections, it also means celebrities receive more public attention and pressure than before. <pause:0.8>
+
+Every action they take can quickly become public news. <pause:0.8>
+
+[USER][warm][slow]
+Overall, I think technology has completely changed the relationship between famous people and their fans. <pause:0.8>
+
+Both celebrities and fans are much more connected than they were in the past.

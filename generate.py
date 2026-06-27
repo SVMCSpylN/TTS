@@ -9,17 +9,32 @@ import tempfile
 from pathlib import Path
 from typing import Any
 
-from audio_utils import AudioProcessingError, concatenate_wavs
-from parser import ScriptParseError, parse_file
+from audio_utils import AudioProcessingError, export_wav_to_mp3
+from parser import SUPPORTED_EMOTIONS, ScriptParseError, parse_file
 from tts_engine import BaseTTSEngine, ChatterboxEngine, TTSError
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent
+INPUT_ROOT = PROJECT_ROOT / "input"
+OUTPUT_ROOT = PROJECT_ROOT / "output"
 DEFAULT_CONFIG = PROJECT_ROOT / "config.yaml"
+SUPPORTED_PACES = {"slow", "medium", "fast"}
 
 
 class ConfigurationError(ValueError):
     """Raised when config.yaml contains invalid settings."""
+
+
+def _parse_bool(value: Any, name: str) -> bool:
+    if isinstance(value, bool):
+        return value
+    if isinstance(value, str):
+        normalized = value.strip().lower()
+        if normalized in {"true", "yes", "1", "on"}:
+            return True
+        if normalized in {"false", "no", "0", "off"}:
+            return False
+    raise ConfigurationError(f"{name} must be true or false.")
 
 
 def load_config(path: Path) -> dict[str, Any]:
@@ -64,7 +79,25 @@ def load_config(path: Path) -> dict[str, Any]:
     raw_config["pause_ms"] = pause_ms
     raw_config["output_format"] = "mp3"
     raw_config["mp3_bitrate"] = str(raw_config.get("mp3_bitrate", "192k"))
-    raw_config["normalize_audio"] = bool(raw_config.get("normalize_audio", True))
+    try:
+        output_sample_rate = int(raw_config.get("output_sample_rate", 44100))
+        output_channels = int(raw_config.get("output_channels", 2))
+    except (TypeError, ValueError) as exc:
+        raise ConfigurationError(
+            "output_sample_rate and output_channels must be integers."
+        ) from exc
+    if output_sample_rate <= 0:
+        raise ConfigurationError("output_sample_rate must be greater than zero.")
+    if output_channels not in (1, 2):
+        raise ConfigurationError("output_channels must be 1 or 2.")
+    raw_config["output_sample_rate"] = output_sample_rate
+    raw_config["output_channels"] = output_channels
+    raw_config["normalize_audio"] = _parse_bool(
+        raw_config.get("normalize_audio", True), "normalize_audio"
+    )
+    raw_config["regenerate_existing"] = _parse_bool(
+        raw_config.get("regenerate_existing", False), "regenerate_existing"
+    )
     raw_config["voices"] = _resolve_voice_paths(raw_config["voices"], path.parent)
     return raw_config
 
@@ -73,7 +106,7 @@ def _resolve_voice_paths(
     voices: dict[str, Any], config_directory: Path
 ) -> dict[str, str | None]:
     resolved: dict[str, str | None] = {}
-    for speaker in ("SYSTEM", "NPC", "USER"):
+    for speaker in ("SYSTEM", "USER"):
         value = voices.get(speaker)
         if value in (None, ""):
             resolved[speaker] = None
@@ -101,14 +134,32 @@ def create_engine(config: dict[str, Any]) -> BaseTTSEngine:
     try:
         max_chunk_chars = int(tts_config.get("max_chunk_chars", 220))
         sentence_pause_ms = int(tts_config.get("sentence_pause_ms", 180))
+        voice_lead_in_ms = int(tts_config.get("voice_lead_in_ms", 45))
+        voice_fade_in_ms = int(tts_config.get("voice_fade_in_ms", 35))
+        chunk_fade_out_ms = int(tts_config.get("chunk_fade_out_ms", 20))
+        user_tail_silence_ms = int(tts_config.get("user_tail_silence_ms", 0))
     except (TypeError, ValueError) as exc:
         raise ConfigurationError(
-            "tts.max_chunk_chars and tts.sentence_pause_ms must be integers."
+            "TTS chunk and voice smoothing settings must be integers."
         ) from exc
     if max_chunk_chars < 40:
         raise ConfigurationError("tts.max_chunk_chars must be at least 40.")
     if sentence_pause_ms < 0:
         raise ConfigurationError("tts.sentence_pause_ms cannot be negative.")
+    if not 0 <= voice_lead_in_ms <= 250:
+        raise ConfigurationError("tts.voice_lead_in_ms must be between 0 and 250.")
+    if not 0 <= voice_fade_in_ms <= 250:
+        raise ConfigurationError("tts.voice_fade_in_ms must be between 0 and 250.")
+    if not 0 <= chunk_fade_out_ms <= 100:
+        raise ConfigurationError("tts.chunk_fade_out_ms must be between 0 and 100.")
+    if not 0 <= user_tail_silence_ms <= 3000:
+        raise ConfigurationError("tts.user_tail_silence_ms must be between 0 and 3000.")
+    pace_override = _optional_string(tts_config.get("pace_override"))
+    if pace_override and pace_override not in SUPPORTED_PACES:
+        raise ConfigurationError(
+            "tts.pace_override must be one of: slow, medium, fast."
+        )
+    emotion_overrides = _emotion_overrides(tts_config.get("emotion_overrides"))
 
     return ChatterboxEngine(
         sample_rate=config["sample_rate"],
@@ -117,7 +168,46 @@ def create_engine(config: dict[str, Any]) -> BaseTTSEngine:
         model_options=model_options,
         max_chunk_chars=max_chunk_chars,
         sentence_pause_ms=sentence_pause_ms,
+        pace_override=pace_override,
+        emotion_overrides=emotion_overrides,
+        voice_lead_in_ms=voice_lead_in_ms,
+        voice_fade_in_ms=voice_fade_in_ms,
+        chunk_fade_out_ms=chunk_fade_out_ms,
     )
+
+
+def _optional_string(value: Any) -> str | None:
+    if value in (None, ""):
+        return None
+    normalized = str(value).strip().lower()
+    return normalized or None
+
+
+def _emotion_overrides(value: Any) -> dict[str, str]:
+    if value in (None, ""):
+        return {}
+    if not isinstance(value, dict):
+        raise ConfigurationError("tts.emotion_overrides must be a YAML mapping.")
+
+    overrides: dict[str, str] = {}
+    for source, target in value.items():
+        source_emotion = _optional_string(source)
+        target_emotion = _optional_string(target)
+        if not source_emotion or not target_emotion:
+            raise ConfigurationError(
+                "tts.emotion_overrides must map emotion names to emotion names."
+            )
+        if source_emotion not in SUPPORTED_EMOTIONS:
+            raise ConfigurationError(
+                f"tts.emotion_overrides contains unknown emotion: {source_emotion}"
+            )
+        if target_emotion not in SUPPORTED_EMOTIONS:
+            raise ConfigurationError(
+                f"tts.emotion_overrides maps {source_emotion} to unknown emotion: "
+                f"{target_emotion}"
+            )
+        overrides[source_emotion] = target_emotion
+    return overrides
 
 
 def discover_inputs(input_path: Path) -> list[Path]:
@@ -126,16 +216,43 @@ def discover_inputs(input_path: Path) -> list[Path]:
     if input_path.is_file():
         if input_path.suffix.lower() != ".txt":
             raise ValueError(f"Input file must have a .txt extension: {input_path}")
+        if input_path.resolve().parent == INPUT_ROOT.resolve():
+            raise ValueError(
+                f"Input file must be inside a category folder under {INPUT_ROOT}: "
+                f"{input_path}"
+            )
         return [input_path]
     if not input_path.is_dir():
         raise ValueError(f"Input path is neither a file nor a folder: {input_path}")
 
     files = sorted(
-        path for path in input_path.iterdir() if path.is_file() and path.suffix.lower() == ".txt"
+        (
+            path
+            for path in input_path.rglob("*")
+            if (
+                path.is_file()
+                and path.suffix.lower() == ".txt"
+                and path.resolve().parent != INPUT_ROOT.resolve()
+            )
+        ),
+        key=lambda path: path.relative_to(input_path).as_posix().lower(),
     )
     if not files:
         raise FileNotFoundError(f"No .txt files found in folder: {input_path}")
     return files
+
+
+def output_path_for(
+    input_file: Path,
+    input_root: Path = INPUT_ROOT,
+    output_root: Path = OUTPUT_ROOT,
+) -> Path:
+    """Map an input TXT to the matching lesson folder under output/."""
+    try:
+        relative_path = input_file.resolve().relative_to(input_root.resolve())
+    except ValueError:
+        relative_path = Path(input_file.name)
+    return (output_root / relative_path).with_suffix("")
 
 
 def generate_file(
@@ -144,29 +261,57 @@ def generate_file(
     config: dict[str, Any],
     output_directory: Path,
     temp_root: Path,
-) -> Path:
+) -> list[Path]:
     segments = parse_file(input_file)
-    output_path = output_directory / f"{input_file.stem}.mp3"
 
     temp_root.mkdir(parents=True, exist_ok=True)
+    output_directory.mkdir(parents=True, exist_ok=True)
+    for stale_mp3 in output_directory.glob("*.mp3"):
+        stale_mp3.unlink()
+
     work_directory = Path(
         tempfile.mkdtemp(prefix=f"{input_file.stem}_", dir=temp_root)
     )
     try:
-        wav_paths: list[Path] = []
-        for index, segment in enumerate(segments, start=1):
-            wav_path = work_directory / f"{index:04d}_{segment['speaker'].lower()}.wav"
-            engine.synthesize(segment["text"], segment["speaker"], wav_path)
-            wav_paths.append(wav_path)
+        generated_paths: list[Path] = []
+        unit_index = 1
+        for segment in segments:
+            speaker = str(segment["speaker"])
+            emotion = segment.get("emotion")
+            pace = segment.get("pace")
+            for unit_text in engine.speech_unit_texts(
+                str(segment["text"]),
+                speaker=speaker,
+                emotion=emotion,
+                pace=pace,
+            ):
+                wav_path = work_directory / f"{unit_index:04d}_{speaker.lower()}.wav"
+                mp3_path = output_directory / f"{unit_index:02d}.mp3"
+                engine.synthesize(
+                    unit_text,
+                    speaker,
+                    wav_path,
+                    emotion=emotion,
+                    pace=pace,
+                )
+                generated_paths.append(
+                    export_wav_to_mp3(
+                        wav_path,
+                        mp3_path,
+                        mp3_bitrate=config.get("mp3_bitrate", "192k"),
+                        normalize_audio=config.get("normalize_audio", True),
+                        output_sample_rate=config.get("output_sample_rate", 44100),
+                        output_channels=config.get("output_channels", 2),
+                        tail_silence_ms=(
+                            (config.get("tts") or {}).get("user_tail_silence_ms", 0)
+                            if speaker.upper() == "USER"
+                            else 0
+                        ),
+                    )
+                )
+                unit_index += 1
 
-        return concatenate_wavs(
-            wav_paths,
-            output_path,
-            pause_ms=config["pause_ms"],
-            output_format=config["output_format"],
-            mp3_bitrate=config.get("mp3_bitrate", "192k"),
-            normalize_audio=config.get("normalize_audio", True),
-        )
+        return generated_paths
     finally:
         shutil.rmtree(work_directory, ignore_errors=True)
 
@@ -179,7 +324,16 @@ def build_argument_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "--config", type=Path, default=DEFAULT_CONFIG, help="Path to config.yaml"
     )
+    parser.add_argument(
+        "--rerun",
+        action="store_true",
+        help="Regenerate MP3 files even when matching outputs already exist",
+    )
     return parser
+
+
+def _has_generated_mp3s(output_directory: Path) -> bool:
+    return output_directory.is_dir() and any(output_directory.glob("*.mp3"))
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -188,17 +342,31 @@ def main(argv: list[str] | None = None) -> int:
         config_path = args.config.expanduser().resolve()
         config = load_config(config_path)
         inputs = discover_inputs(args.input.expanduser().resolve())
-        engine = create_engine(config)
 
-        output_directory = PROJECT_ROOT / "output"
         temp_root = PROJECT_ROOT / "temp"
-        failures = 0
+        regenerate = args.rerun or config["regenerate_existing"]
+        jobs: list[tuple[Path, Path]] = []
         for input_file in inputs:
+            output_directory = output_path_for(input_file)
+            if _has_generated_mp3s(output_directory) and not regenerate:
+                print(f"Skipped existing {output_directory}")
+                continue
+            jobs.append((input_file, output_directory))
+
+        if not jobs:
+            print("No files to generate.")
+            return 0
+
+        engine = create_engine(config)
+        failures = 0
+        for input_file, output_directory in jobs:
             try:
-                output_path = generate_file(
+                generated_path = generate_file(
                     input_file, engine, config, output_directory, temp_root
                 )
-                print(f"Created {output_path}")
+                print(
+                    f"Created {len(generated_path)} MP3 files in {output_directory}"
+                )
             except (ScriptParseError, TTSError, AudioProcessingError, OSError) as exc:
                 failures += 1
                 print(f"Error processing {input_file}: {exc}", file=sys.stderr)

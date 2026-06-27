@@ -1,0 +1,45 @@
+[SYSTEM][neutral][slow]
+Call a travel agency and ask about tickets.
+
+[USER][polite][slow]
+Hello. <pause:0.5>
+
+I'm planning a trip to Da Nang next month and would like some information. <pause:0.8>
+
+Oh, you have several packages available? <pause:0.8>
+
+That's great. <pause:0.8>
+
+Could you tell me which package is the most popular? <pause:0.8>
+
+[USER][curious][slow]
+I see. <pause:0.5>
+
+And does that package include flights and hotel accommodations? <pause:0.8>
+
+What about airport transportation? <pause:0.8>
+
+Are any sightseeing tours included in the package as well? <pause:0.8>
+
+[USER][curious][slow]
+I'd also like to know how many days the package lasts. <pause:0.8>
+
+Are there any optional activities that can be added for an additional fee? <pause:0.8>
+
+[USER][polite][slow]
+Okay, that sounds good. <pause:0.8>
+
+One more thing. Are there any promotions for couples? <pause:0.8>
+
+Do I need to make a reservation far in advance, or are there still plenty of spaces available? <pause:0.8>
+
+[USER][warm][slow]
+Perfect. <pause:0.5>
+
+Thank you very much for your help. <pause:0.8>
+
+I'll discuss it with my wife and contact you again soon. <pause:0.8>
+
+I appreciate your assistance and look forward to speaking with you again. <pause:0.8>
+
+Thank you.

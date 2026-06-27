@@ -1,0 +1,36 @@
+[SYSTEM][neutral][slow]
+You bought concert tickets, but there is a problem.
+
+Call and explain the situation.
+
+[USER][concerned][slow]
+Hello. <pause:0.5>
+
+I'm calling regarding a concert ticket that I purchased online. <pause:0.8>
+
+Unfortunately, I've encountered a problem with my reservation. <pause:0.8>
+
+I completed the purchase earlier today through your website. <pause:0.8>
+
+[USER][worried][slow]
+The payment was completed successfully, but I haven't received the ticket confirmation email yet. <pause:0.8>
+
+I've already checked my inbox and spam folder several times. <pause:0.8>
+
+I'm concerned because the event is approaching soon, and I want to make sure my reservation was processed correctly. <pause:0.8>
+
+[USER][polite][slow]
+Could you please check the status of my order? <pause:0.8>
+
+I can provide my name, email address, or transaction number if necessary. <pause:0.8>
+
+Would it be possible to resend the confirmation email if there was a delivery issue? <pause:0.8>
+
+[USER][warm][slow]
+I'd really appreciate your help. <pause:0.8>
+
+Thank you for taking the time to look into this matter. <pause:0.8>
+
+I look forward to your assistance and hope the issue can be resolved soon. <pause:0.8>
+
+Thank you very much.

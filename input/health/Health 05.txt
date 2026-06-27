@@ -1,0 +1,33 @@
+[SYSTEM][neutral][slow]
+Compare healthy lifestyles in the past and nowadays.
+
+What differences do you notice?
+Which do you prefer?
+
+[USER][calm][slow]
+I think healthy lifestyles have changed quite a lot over time. <pause:0.8>
+
+In the past, people were generally more physically active because daily life involved more manual work. <pause:0.8>
+
+Many people walked long distances, worked outdoors, and spent less time sitting. <pause:0.8>
+
+[USER][calm][slow]
+However, they had less access to health information and medical resources. <pause:0.8>
+
+People didn't have fitness apps, online exercise programs, or easy access to nutritional advice. <pause:0.8>
+
+As a result, they often relied on traditional knowledge and personal experience. <pause:0.8>
+
+[USER][professional][slow]
+Nowadays, many people have sedentary jobs and spend a lot of time sitting in front of computers. <pause:0.8>
+
+On the other hand, we have much more information about nutrition, exercise, and disease prevention. <pause:0.8>
+
+We also have fitness apps, smart watches, and online resources that help us monitor and improve our health. <pause:0.8>
+
+[USER][warm][slow]
+Personally, I prefer modern lifestyles because we have more tools and knowledge to manage our health effectively. <pause:0.8>
+
+Of course, it's important to stay active and avoid becoming too dependent on technology. <pause:0.8>
+
+If we can combine modern knowledge with healthy daily habits, I think we can enjoy the best of both worlds.

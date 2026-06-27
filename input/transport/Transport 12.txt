@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+What transportation problems does your city have?
+
+How could they be improved?
+
+[USER][calm][slow]
+Like many large cities, Hanoi faces several transportation challenges. <pause:0.8>
+
+As the population continues to grow, these issues have become more noticeable in recent years. <pause:0.8>
+
+[USER][concerned][slow]
+Traffic congestion is probably the biggest issue. <pause:0.8>
+
+During rush hour, roads can become extremely crowded, causing delays and frustration. <pause:0.8>
+
+Air pollution is another concern related to transportation. <pause:0.8>
+
+In some areas, finding parking can also be difficult because there are so many vehicles. <pause:0.8>
+
+[USER][professional][slow]
+I believe investing in public transportation systems such as metro lines and modern bus networks could help address these problems. <pause:0.8>
+
+Encouraging people to use public transportation would reduce the number of private vehicles on the road. <pause:0.8>
+
+Improving traffic management and expanding transportation infrastructure could also make a significant difference. <pause:0.8>
+
+[USER][warm][slow]
+Although these issues won't be solved overnight, I think the future of transportation in Hanoi is promising. <pause:0.8>
+
+Several improvement projects are already underway, and I hope they will make traveling easier and more efficient. <pause:0.8>
+
+With continued investment and planning, I believe transportation in Hanoi will gradually improve.

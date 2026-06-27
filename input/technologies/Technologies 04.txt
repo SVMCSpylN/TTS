@@ -1,0 +1,33 @@
+[SYSTEM][neutral][slow]
+Tell me about a memorable experience involving technology.
+
+What happened?
+Why was it memorable?
+
+[USER][excited][slow]
+One memorable experience happened when I bought my first smart TV. <pause:0.8>
+
+Before that, I had only used traditional televisions. <pause:0.8>
+
+Because of that, I wasn't fully prepared for how different the experience would be. <pause:0.8>
+
+[USER][happy][slow]
+After setting it up, I was amazed by how many features it offered. <pause:0.8>
+
+I could access streaming services, browse online content, and even use voice commands. <pause:0.8>
+
+For the first few days, I spent a lot of time exploring all of the functions and settings. <pause:0.8>
+
+[USER][surprised][slow]
+The biggest surprise was how quickly technology had advanced. <pause:0.8>
+
+The experience felt completely different from using older devices. <pause:0.8>
+
+It was impressive to see so many features integrated into a single product. <pause:0.8>
+
+[USER][warm][slow]
+That purchase made me even more interested in consumer technology and smart devices. <pause:0.8>
+
+It showed me how technology can improve convenience and entertainment in everyday life. <pause:0.8>
+
+Even today, I still remember how excited I felt when I used that smart TV for the first time.

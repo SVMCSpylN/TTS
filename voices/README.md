@@ -1,18 +1,14 @@
-# Female OPIC reference voice
+# Female reference voices
 
-`female_opic.wav` is derived from `LJ001-0001.wav` in the LJSpeech 1.1
-dataset. The source recording contains a single female English speaker and is
-in the public domain.
+The user-provided MP3 files are retained as source recordings:
 
-The source WAV was resampled from 22,050 Hz to mono 24,000 Hz PCM for use as a
-Chatterbox voice prompt. No voice conversion or synthetic speech was used to
-create the reference file.
+- `female.mp3` is used for `[SYSTEM]`.
+- `female_2.mp3` is kept as an extra reference sample and is not used by default.
 
-Sources:
+Chatterbox uses the converted mono 24 kHz PCM files:
 
-- https://keithito.com/LJ-Speech-Dataset/
-- https://huggingface.co/datasets/flexthink/ljspeech
+- `female.wav`
+- `female_2.wav`
 
-Original speaker: Linda Johnson
-Original clip: `LJ001-0001.wav`
-License: Public Domain
+Regenerate each WAV from its matching MP3 whenever a source recording is
+replaced.

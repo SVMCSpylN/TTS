@@ -1,0 +1,35 @@
+[SYSTEM][neutral][slow]
+Call a clinic and make an appointment.
+
+Explain why you are calling.
+Ask about available times.
+Request an appointment.
+
+[USER][polite][slow]
+Hello. <pause:0.5>
+
+I'd like to make an appointment for a general health checkup. <pause:0.8>
+
+I've been quite busy recently and haven't had a medical examination for a long time. <pause:0.8>
+
+[USER][curious][slow]
+Oh, I see. <pause:0.5>
+
+Could you tell me what appointment times are available this week? <pause:0.8>
+
+I'd prefer an early morning appointment if possible because I need to go to work afterward. <pause:0.8>
+
+And do I need to fast before the checkup? <pause:0.8>
+
+[USER][polite][slow]
+I understand. <pause:0.5>
+
+In that case, I'd like to book the earliest available appointment. <pause:0.8>
+
+Could you please make the reservation under my name? <pause:0.8>
+
+Great. <pause:0.5>
+
+Thank you very much for your assistance. <pause:0.8>
+
+Have a nice day.

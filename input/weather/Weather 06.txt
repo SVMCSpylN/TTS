@@ -1,0 +1,30 @@
+[SYSTEM][neutral][slow]
+How does weather affect your activities?
+
+Give some examples.
+
+[USER][warm][slow]
+Weather influences many of my daily activities. <pause:0.8>
+
+In fact, it's one of the factors I consider most when making plans. <pause:0.8>
+
+[USER][happy][slow]
+When the weather is pleasant, I enjoy spending time outdoors. <pause:0.8>
+
+I often go jogging, visit parks, or take walks after work. <pause:0.8>
+
+Good weather also makes traveling and sightseeing much more enjoyable. <pause:0.8>
+
+[USER][calm][slow]
+However, when it's extremely hot or raining heavily, I prefer staying indoors. <pause:0.8>
+
+In those situations, I usually watch movies, listen to music, or spend time at home. <pause:0.8>
+
+Bad weather can also affect transportation and cause delays when I'm commuting. <pause:0.8>
+
+[USER][warm][slow]
+Because of that, weather often influences how I spend my free time. <pause:0.8>
+
+It can determine whether I choose outdoor activities or indoor ones. <pause:0.8>
+
+That's why I regularly check the weather forecast before making plans.

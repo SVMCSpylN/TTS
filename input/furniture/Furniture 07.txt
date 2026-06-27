@@ -1,0 +1,38 @@
+[SYSTEM][neutral][slow]
+You bought furniture, but there is a problem.
+
+Call the store.
+Explain the situation.
+Ask for a solution.
+
+[USER][concerned][slow]
+Hello. <pause:0.5>
+
+I'm calling about a sofa that was delivered to my house earlier today. <pause:0.8>
+
+Unfortunately, I noticed a large stain on one side of the sofa. <pause:0.8>
+
+[USER][worried][slow]
+Since the product is brand new, I'm quite disappointed. <pause:0.8>
+
+The stain is very noticeable and doesn't seem removable. <pause:0.8>
+
+My wife noticed it immediately after the delivery team left. <pause:0.8>
+
+Oh, I see. <pause:0.5>
+
+[USER][polite][slow]
+Could you please arrange a replacement or suggest another solution? <pause:0.8>
+
+If necessary, I can send photos showing the problem. <pause:0.8>
+
+And could you tell me how long the replacement process would take? <pause:0.8>
+
+[USER][warm][slow]
+I understand. <pause:0.5>
+
+Thank you for explaining the procedure. <pause:0.8>
+
+I'd really appreciate your assistance in resolving this issue as soon as possible. <pause:0.8>
+
+Thank you very much for your help.

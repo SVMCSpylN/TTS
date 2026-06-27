@@ -1,0 +1,33 @@
+[SYSTEM][neutral][slow]
+Tell me about the weather in your area.
+
+What is it usually like?
+How does it affect your daily life?
+
+[USER][warm][slow]
+I live in Hanoi, where the weather changes significantly throughout the year. <pause:0.8>
+
+We experience four distinct seasons: spring, summer, autumn, and winter. <pause:0.8>
+
+Because of these seasonal changes, the weather can feel very different depending on the time of year. <pause:0.8>
+
+[USER][happy][slow]
+Personally, my favorite season is autumn. <pause:0.8>
+
+The temperature is comfortable, the air is fresh, and the weather is generally pleasant. <pause:0.8>
+
+It's the perfect time for outdoor activities such as walking, exercising, or visiting parks. <pause:0.8>
+
+[USER][calm][slow]
+On the other hand, summers can be extremely hot and humid. <pause:0.8>
+
+During those months, I usually stay indoors more often and use the air conditioner frequently. <pause:0.8>
+
+Heavy rain and occasional storms can also affect transportation and daily schedules. <pause:0.8>
+
+[USER][warm][slow]
+Overall, weather has a big impact on my daily routine and outdoor activities. <pause:0.8>
+
+I often check the weather forecast before making plans, especially if I expect to spend time outside. <pause:0.8>
+
+That's why weather is something I pay attention to almost every day.

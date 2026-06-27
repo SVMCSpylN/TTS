@@ -1,0 +1,35 @@
+[SYSTEM][neutral][slow]
+Compare home appliances in the past and nowadays.
+
+What differences do you notice?
+Which do you prefer?
+
+[USER][calm][slow]
+Home appliances have changed significantly over the years. <pause:0.8>
+
+In the past, appliances mainly focused on basic functionality. <pause:0.8>
+
+Most of them had simple controls and limited features. <pause:0.8>
+
+People often had to do many household tasks manually because appliances were less advanced. <pause:0.8>
+
+[USER][calm][slow]
+Nowadays, many appliances are smart and connected to the Internet. <pause:0.8>
+
+They can often be controlled through mobile apps or voice commands. <pause:0.8>
+
+Many devices are also more energy-efficient and easier to use than older models. <pause:0.8>
+
+[USER][happy][slow]
+For example, modern televisions provide streaming services, and some air conditioners can be controlled remotely. <pause:0.8>
+
+Smart refrigerators, robot vacuum cleaners, and voice assistants have also become increasingly popular. <pause:0.8>
+
+These features make daily life much more convenient and comfortable. <pause:0.8>
+
+[USER][warm][slow]
+Personally, I strongly prefer modern appliances because they save time and improve comfort. <pause:0.8>
+
+They allow me to spend less time on household chores and more time doing things I enjoy. <pause:0.8>
+
+I think technology has greatly improved the quality of life in modern homes.

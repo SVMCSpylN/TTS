@@ -1,0 +1,38 @@
+[SYSTEM][neutral][slow]
+You indicated in the survey that you enjoy holidays.
+
+Tell me about your favorite holiday.
+
+What holiday is it?
+Why do you like it?
+What do you usually do during that holiday?
+
+[USER][warm][slow]
+That's a great question. <pause:0.5>
+
+My favorite holiday is Tet, which is the Lunar New Year in Vietnam. <pause:0.8>
+
+It's the most important holiday of the year for many Vietnamese people. <pause:0.8>
+
+[USER][happy][slow]
+What I like most is that it's a time for family reunions. <pause:0.8>
+
+Everyone takes a break from work and returns home to spend time with their loved ones. <pause:0.8>
+
+I usually travel back to my hometown in Bac Ninh to visit my parents and relatives. <pause:0.8>
+
+It's one of the few times each year when my whole family can gather together. <pause:0.8>
+
+[USER][happy][slow]
+During Tet, we prepare traditional food, visit relatives, and exchange New Year wishes. <pause:0.8>
+
+We also decorate the house, clean everything, and enjoy special meals together. <pause:0.8>
+
+The atmosphere is always joyful, festive, and full of excitement. <pause:0.8>
+
+[USER][warm][slow]
+Looking back, some of my happiest memories were created during Tet holidays. <pause:0.8>
+
+It's a wonderful opportunity to relax, reconnect with family, and start the new year with positive energy. <pause:0.8>
+
+That's why it remains my favorite holiday every year.

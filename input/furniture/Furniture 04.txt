@@ -1,0 +1,43 @@
+[SYSTEM][neutral][slow]
+Tell me about a memorable experience involving furniture.
+
+What happened?
+Why was it memorable?
+How did you feel?
+
+[USER][excited][slow]
+One memorable experience happened when my old sofa suddenly broke. <pause:0.8>
+
+It was a weekend afternoon, and I was relaxing in the living room while watching television. <pause:0.8>
+
+My wife was sitting next to me, and we were enjoying a movie together. <pause:0.8>
+
+[USER][surprised][slow]
+Without warning, one of the sofa legs broke. <pause:0.8>
+
+The sofa tilted to one side, and I nearly fell onto the floor. <pause:0.8>
+
+Everything happened so quickly that I was completely shocked. <pause:0.8>
+
+For a few seconds, neither of us knew what had happened. <pause:0.8>
+
+[USER][worried][slow]
+At first, I was worried because I thought replacing the sofa would be expensive. <pause:0.8>
+
+I contacted a repair shop, but they told me the damage was too serious to fix properly. <pause:0.8>
+
+That meant I needed to buy a new one. <pause:0.8>
+
+[USER][relieved][slow]
+Fortunately, I later found a new sofa that was much better than the old one. <pause:0.8>
+
+It was more comfortable, more durable, and looked much more modern. <pause:0.8>
+
+My wife liked it immediately, which made the decision easier. <pause:0.8>
+
+[USER][warm][slow]
+Although the incident was unexpected, it actually improved my living room. <pause:0.8>
+
+Now it's a funny story that I sometimes tell my friends and family. <pause:0.8>
+
+Looking back, I'm actually glad it happened because it gave us a reason to upgrade our furniture.

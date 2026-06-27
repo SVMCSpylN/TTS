@@ -1,0 +1,30 @@
+[SYSTEM][neutral][slow]
+Ask Eva about a memorable weather experience.
+
+[USER][curious][slow]
+Hello, Eva. <pause:0.5>
+
+Have you ever experienced unusual weather? <pause:0.8>
+
+What happened? <pause:0.8>
+
+How did it affect your plans? <pause:0.8>
+
+[USER][curious][slow]
+Where were you when it happened? <pause:0.8>
+
+How did you react when the weather suddenly changed? <pause:0.8>
+
+[USER][curious][slow]
+Did anyone help you during that situation? <pause:0.8>
+
+Or did you have to handle everything by yourself? <pause:0.8>
+
+[USER][warm][slow]
+And what did you learn from that experience? <pause:0.8>
+
+Has it changed the way you prepare for weather conditions today? <pause:0.8>
+
+Thank you for sharing. <pause:0.8>
+
+I'd love to hear your story.

@@ -1,0 +1,38 @@
+[SYSTEM][neutral][slow]
+Tell me about your favorite hotel.
+
+Where is it located?
+What is it like?
+Why do you like it?
+
+[USER][warm][slow]
+One of my favorite hotels is located near My Khe Beach in Da Nang. <pause:0.8>
+
+I stayed there during a vacation with my wife, and we both had a wonderful experience. <pause:0.8>
+
+It was one of the most comfortable hotels I've ever stayed in. <pause:0.8>
+
+[USER][happy][slow]
+The hotel wasn't extremely expensive, but it offered excellent service. <pause:0.8>
+
+The room was spacious, clean, and had a beautiful sea view. <pause:0.8>
+
+Every morning, I could see the ocean from the balcony and enjoy the fresh sea breeze. <pause:0.8>
+
+The location was also perfect because the beach was only a short walk away. <pause:0.8>
+
+[USER][happy][slow]
+Another thing I enjoyed was the breakfast buffet. <pause:0.8>
+
+There were many delicious dishes to choose from, including both local and international food. <pause:0.8>
+
+The staff were also very friendly and professional. <pause:0.8>
+
+They were always willing to help whenever we needed assistance. <pause:0.8>
+
+[USER][warm][slow]
+Even though I've stayed at several hotels, this one left the strongest impression on me. <pause:0.8>
+
+The combination of great service, a comfortable room, and a beautiful location made the trip unforgettable. <pause:0.8>
+
+I'd definitely stay there again in the future.

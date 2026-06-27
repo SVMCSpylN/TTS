@@ -1,0 +1,34 @@
+[SYSTEM][neutral][slow]
+Please introduce yourself.
+
+[USER][warm][slow]
+Hello. <pause:0.5>
+
+My name is J, and I currently live in Hanoi, Vietnam. <pause:0.8>
+
+I'm a software engineer working for a technology company. <pause:0.8>
+
+I've been working in this field for several years, and I really enjoy solving problems and building useful products. <pause:0.8>
+
+[USER][happy][slow]
+In my free time, I enjoy a variety of activities. <pause:0.8>
+
+I like going to parks, listening to music, watching movies, and traveling whenever I have the opportunity. <pause:0.8>
+
+I also try to exercise regularly by jogging and going to the gym because staying healthy is important to me. <pause:0.8>
+
+[USER][happy][slow]
+Another thing I enjoy is spending time with my wife. <pause:0.8>
+
+We often go out for meals, watch movies together, or plan short trips during holidays. <pause:0.8>
+
+These activities help me relax and maintain a good work-life balance. <pause:0.8>
+
+[USER][warm][slow]
+I'm always interested in learning new things and improving myself. <pause:0.8>
+
+Whether it's related to technology, languages, or personal development, I enjoy challenging myself and gaining new skills. <pause:0.8>
+
+That's a little bit about me, and I'm happy to share my experiences today. <pause:0.8>
+
+Thank you.

@@ -1,0 +1,59 @@
+[SYSTEM][neutral][slow]
+You indicated in the survey that you are interested in home appliances.
+
+Tell me about the home appliances in your home.
+
+What appliances do you have?
+Which ones do you use most often?
+Why are they important?
+
+[USER][warm][medium]
+That's a great question. <pause:0.3>
+
+My home contains many different home appliances that make daily life much more convenient. <pause:0.8>
+
+[USER][happy][medium]
+Some of the main appliances include a television, an air conditioner, a refrigerator, a washing machine, and several speakers. <pause:0.8>
+
+Each of them plays an important role in my daily routine. <pause:0.8>
+
+[USER][calm][medium]
+The appliances I use most often are probably the air conditioner and the television. <pause:0.8>
+
+The weather in Hanoi can be very hot during summer, so the air conditioner is essential. <pause:0.8>
+
+I also use the television almost every evening to watch movies, news, and online content. <pause:0.8>
+
+[USER][warm][slow]
+Looking around my house, I realize how much these appliances improve my quality of life. <pause:0.8>
+
+They save time, reduce effort, and make everyday activities more enjoyable.[SYSTEM][neutral][slow]
+You indicated in the survey that you are interested in home appliances.
+
+Tell me about the home appliances in your home.
+
+What appliances do you have?
+Which ones do you use most often?
+Why are they important?
+
+[USER][warm][medium]
+That's a great question. <pause:0.3>
+
+My home contains many different home appliances that make daily life much more convenient. <pause:0.8>
+
+[USER][happy][medium]
+Some of the main appliances include a television, an air conditioner, a refrigerator, a washing machine, and several speakers. <pause:0.8>
+
+Each of them plays an important role in my daily routine. <pause:0.8>
+
+[USER][calm][medium]
+The appliances I use most often are probably the air conditioner and the television. <pause:0.8>
+
+The weather in Hanoi can be very hot during summer, so the air conditioner is essential. <pause:0.8>
+
+I also use the television almost every evening to watch movies, news, and online content. <pause:0.8>
+
+[USER][warm][slow]
+Looking around my house, I realize how much these appliances improve my quality of life. <pause:0.8>
+
+They save time, reduce effort, and make everyday activities more enjoyable.

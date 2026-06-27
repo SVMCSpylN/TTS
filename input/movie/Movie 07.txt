@@ -1,0 +1,34 @@
+[SYSTEM][neutral][slow]
+Compare movies in the past and movies nowadays.
+
+What differences do you notice?
+
+[USER][calm][slow]
+Movies today are very different from movies in the past. <pause:0.8>
+
+Technology has changed both the way movies are produced and the way people watch them. <pause:0.8>
+
+[USER][calm][slow]
+Modern films often use advanced visual effects and computer-generated imagery. <pause:0.8>
+
+As a result, they can create scenes that were impossible decades ago. <pause:0.8>
+
+Action sequences, fantasy worlds, and special effects are often much more realistic than before. <pause:0.8>
+
+[USER][happy][slow]
+Another major change is accessibility. <pause:0.8>
+
+Nowadays, people can watch movies through streaming services at home. <pause:0.8>
+
+In the past, going to a cinema was often the only option. <pause:0.8>
+
+People can now watch movies anytime and almost anywhere using their phones, tablets, or smart TVs. <pause:0.8>
+
+[USER][warm][slow]
+At the same time, many classic movies are still highly respected because of their storytelling and memorable characters. <pause:0.8>
+
+Personally, I enjoy both modern and classic movies. <pause:0.8>
+
+Each era offers something unique and valuable. <pause:0.8>
+
+That's why I think both old and new movies have their own special appeal.

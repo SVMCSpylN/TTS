@@ -1,0 +1,35 @@
+[SYSTEM][neutral][slow]
+Tell me about a memorable trip you took.
+
+What happened?
+Why was it memorable?
+
+[USER][excited][slow]
+One of my most memorable trips was a visit to Da Nang and Ba Na Hills. <pause:0.8>
+
+I went there with several friends during a long holiday. <pause:0.8>
+
+We had been planning the trip for months, so everyone was excited when the day finally arrived. <pause:0.8>
+
+[USER][happy][slow]
+The weather was perfect, and we visited many famous attractions. <pause:0.8>
+
+The most impressive place was the Golden Bridge at Ba Na Hills. <pause:0.8>
+
+Seeing it in person was even more amazing than I expected. <pause:0.8>
+
+We spent a lot of time taking photos and enjoying the beautiful scenery. <pause:0.8>
+
+[USER][surprised][slow]
+What made the trip even more memorable was the cable car ride. <pause:0.8>
+
+The views of the mountains and forests were breathtaking. <pause:0.8>
+
+At times, it felt as though we were floating above the clouds. <pause:0.8>
+
+[USER][warm][slow]
+Even today, it's one of the best travel experiences I've ever had. <pause:0.8>
+
+The combination of beautiful scenery, good weather, and great company made the trip unforgettable. <pause:0.8>
+
+Whenever I look at the photos from that trip, I remember how much fun we had together.

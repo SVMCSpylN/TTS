@@ -1,0 +1,35 @@
+[SYSTEM][neutral][slow]
+Tell me about how you usually go to the movies.
+
+Who do you go with?
+What do you do before and after the movie?
+
+[USER][warm][slow]
+I usually go to the movies with my friends or my wife on weekends. <pause:0.8>
+
+Watching movies together is one of our favorite leisure activities. <pause:0.8>
+
+It's a great way to relax and spend quality time together. <pause:0.8>
+
+[USER][happy][slow]
+Before going to the cinema, we normally book tickets online using a mobile app. <pause:0.8>
+
+It's fast and convenient. <pause:0.8>
+
+When we arrive at the cinema, we pick up our tickets and buy snacks such as popcorn and drinks. <pause:0.8>
+
+[USER][happy][slow]
+After that, we head to the screening room a few minutes before the movie starts. <pause:0.8>
+
+We enjoy the movie while eating popcorn and relaxing. <pause:0.8>
+
+I especially enjoy watching movies on a large screen because the experience feels much more immersive. <pause:0.8>
+
+[USER][warm][slow]
+After the movie ends, we often walk around the shopping mall or have a meal together. <pause:0.8>
+
+We usually spend some time discussing our favorite scenes and sharing our opinions about the movie. <pause:0.8>
+
+For me, going to the movies is not only about watching a film. <pause:0.8>
+
+It's also a great way to spend quality time with people I care about.

@@ -1,0 +1,35 @@
+[SYSTEM][neutral][slow]
+Tell me about a memorable movie you watched.
+
+What was it about?
+Why was it memorable?
+
+[USER][excited][slow]
+One of the most memorable movies I've ever watched was Aquaman. <pause:0.8>
+
+It's a science fiction and action movie about an underwater kingdom and a hero who must protect it. <pause:0.8>
+
+The story follows Aquaman as he faces various challenges and tries to unite different kingdoms. <pause:0.8>
+
+[USER][happy][slow]
+What impressed me most was the visual quality. <pause:0.8>
+
+The underwater scenes looked absolutely amazing. <pause:0.8>
+
+The action sequences were also very exciting and well produced. <pause:0.8>
+
+I was especially impressed by the special effects and the creative world-building. <pause:0.8>
+
+[USER][warm][slow]
+Another reason it was memorable is that I watched it with one of my best friends. <pause:0.8>
+
+We had a great time together that day. <pause:0.8>
+
+After the movie, we spent hours talking about our favorite characters and scenes. <pause:0.8>
+
+[USER][warm][slow]
+Even years later, I still remember the movie clearly because it combined a great story with wonderful memories. <pause:0.8>
+
+For me, a memorable movie is not only about the film itself but also about the experience of watching it. <pause:0.8>
+
+That's why Aquaman remains one of my favorite movie experiences.

@@ -1,0 +1,38 @@
+[SYSTEM][neutral][slow]
+You purchased a technology product, but there is a problem.
+
+Call customer service and explain the situation.
+
+[USER][concerned][slow]
+Hello. <pause:0.5>
+
+I'm calling regarding a product that I purchased recently. <pause:0.8>
+
+Unfortunately, I'm experiencing a technical problem. <pause:0.8>
+
+I was hoping you could help me determine the best way to resolve it. <pause:0.8>
+
+[USER][worried][slow]
+The device powers on normally, but several important features aren't working correctly. <pause:0.8>
+
+I've already followed the troubleshooting instructions, but the issue remains. <pause:0.8>
+
+I also checked for software updates and restarted the device several times, but nothing seems to help. <pause:0.8>
+
+As a result, I'm unable to use the product as intended. <pause:0.8>
+
+[USER][polite][slow]
+Could you please advise me on the next steps? <pause:0.8>
+
+I'd like to know whether a repair or replacement is possible. <pause:0.8>
+
+If necessary, I can provide my purchase receipt, serial number, and any other information you need. <pause:0.8>
+
+[USER][warm][slow]
+Thank you very much for your help. <pause:0.8>
+
+I understand that technical issues can occur occasionally. <pause:0.8>
+
+I appreciate your assistance and hope the problem can be resolved soon. <pause:0.8>
+
+Thank you.

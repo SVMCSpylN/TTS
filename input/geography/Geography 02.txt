@@ -1,0 +1,33 @@
+[SYSTEM][neutral][slow]
+Tell me about the geographical features of your hometown.
+
+What is it like?
+How is it different from where you live now?
+
+[USER][warm][slow]
+My hometown is in Bac Ninh Province, which is located not far from Hanoi. <pause:0.8>
+
+I was born and raised there, and I spent most of my childhood in that area. <pause:0.8>
+
+[USER][calm][slow]
+Compared with Hanoi, my hometown is much quieter and less crowded. <pause:0.8>
+
+The area is mostly flat and surrounded by farmland. <pause:0.8>
+
+There are many rice fields, small villages, and narrow country roads. <pause:0.8>
+
+The air is also fresher because there are fewer vehicles and less traffic. <pause:0.8>
+
+[USER][happy][slow]
+One thing I really liked when I was young was the open space. <pause:0.8>
+
+I could easily ride my bicycle, play outdoors, and enjoy nature with my friends. <pause:0.8>
+
+During the harvest season, the rice fields looked beautiful and stretched as far as I could see. <pause:0.8>
+
+[USER][warm][slow]
+Today, I live in Hanoi, which is much larger, busier, and more modern. <pause:0.8>
+
+Although the city offers more convenience and opportunities, I sometimes miss the peaceful atmosphere of my hometown. <pause:0.8>
+
+My hometown will always hold a special place in my heart because of all the childhood memories I have there.

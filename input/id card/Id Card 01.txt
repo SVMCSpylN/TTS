@@ -1,0 +1,36 @@
+[SYSTEM][neutral][slow]
+You indicated in the survey that you have an identification card.
+
+Tell me about your identification card.
+
+What is it?
+What information does it contain?
+Why is it important?
+
+[USER][warm][slow]
+That's an interesting question. <pause:0.5>
+
+I'd like to talk about my citizen identification card, which is one of the most important documents I own. <pause:0.8>
+
+It's something I use regularly in many aspects of daily life. <pause:0.8>
+
+[USER][calm][slow]
+The card contains personal information such as my full name, date of birth, photograph, and identification number. <pause:0.8>
+
+Nowadays, it also contains an electronic chip that can be used for various administrative services. <pause:0.8>
+
+This makes many procedures more convenient and efficient than before. <pause:0.8>
+
+[USER][happy][slow]
+I usually keep it in my wallet and carry it with me whenever I leave home. <pause:0.8>
+
+I often need it when dealing with banks, checking into hotels, or taking domestic flights. <pause:0.8>
+
+It's also required for many official transactions and government-related procedures. <pause:0.8>
+
+[USER][warm][slow]
+Although it's a small card, it plays a very important role in daily life. <pause:0.8>
+
+Without it, many everyday tasks would become much more difficult. <pause:0.8>
+
+That's why I always make sure to keep it safe and avoid losing it.

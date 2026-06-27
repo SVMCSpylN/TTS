@@ -1,0 +1,33 @@
+[SYSTEM][neutral][slow]
+Compare your current home with the home where you grew up.
+
+What are the differences?
+Which one do you prefer?
+
+[USER][calm][slow]
+My current home is quite different from the house where I grew up in Bac Ninh. <pause:0.8>
+
+Both places are special to me, but they offer very different lifestyles. <pause:0.8>
+
+[USER][calm][slow]
+The house in my hometown was surrounded by open space and farmland. <pause:0.8>
+
+Life there was much quieter and slower. <pause:0.8>
+
+As a child, I spent a lot of time playing outdoors, riding my bicycle, and enjoying nature. <pause:0.8>
+
+[USER][calm][slow]
+My current home in Hanoi is more modern and convenient. <pause:0.8>
+
+It's closer to work, restaurants, shopping centers, and public services. <pause:0.8>
+
+Living in the city makes daily life much easier and saves a lot of time. <pause:0.8>
+
+[USER][warm][slow]
+Even though I enjoy the convenience of city life, I still miss some aspects of my childhood home. <pause:0.8>
+
+The peaceful environment and the memories I created there are irreplaceable. <pause:0.8>
+
+If I could, I'd like to combine the best parts of both places. <pause:0.8>
+
+That would give me the convenience of the city and the tranquility of the countryside.

@@ -1,0 +1,31 @@
+[SYSTEM][neutral][slow]
+Ask Eva about doctor appointments.
+
+[USER][curious][slow]
+Hello, Eva. <pause:0.5>
+
+I heard that you recently visited a doctor. <pause:0.8>
+
+I'd like to ask you a few questions about that experience. <pause:0.8>
+
+How did you make the appointment? <pause:0.8>
+
+Did you book it online, by phone, or in person? <pause:0.8>
+
+[USER][curious][slow]
+I see. <pause:0.5>
+
+How long did you have to wait before seeing the doctor? <pause:0.8>
+
+Was the appointment process smooth and convenient? <pause:0.8>
+
+[USER][curious][slow]
+And how was the doctor? <pause:0.8>
+
+Did the doctor explain everything clearly and answer your questions? <pause:0.8>
+
+Would you recommend that clinic to other people? <pause:0.8>
+
+And would you visit the same clinic again in the future? <pause:0.8>
+
+I'd love to hear about your experience.

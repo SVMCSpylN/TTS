@@ -1,0 +1,33 @@
+[SYSTEM][neutral][slow]
+Tell me about a technology you would like to use in the future.
+
+What is it?
+Why are you interested in it?
+
+[USER][excited][slow]
+One technology I'm particularly interested in is artificial intelligence. <pause:0.8>
+
+AI has developed incredibly quickly in recent years. <pause:0.8>
+
+It's one of the most exciting technological advancements I've ever seen. <pause:0.8>
+
+[USER][happy][slow]
+I'm interested in how AI can help people become more productive and creative. <pause:0.8>
+
+It can assist with learning, writing, programming, and many other tasks. <pause:0.8>
+
+In some cases, it can even automate repetitive work and help people focus on more important activities. <pause:0.8>
+
+[USER][curious][slow]
+As someone who works in technology, I'm excited to see how AI will continue to evolve in the future. <pause:0.8>
+
+I believe it will transform many industries. <pause:0.8>
+
+I'm especially interested in how AI can improve software development and everyday problem-solving. <pause:0.8>
+
+[USER][warm][slow]
+I'm looking forward to seeing what becomes possible in the next few years. <pause:0.8>
+
+Although AI already has impressive capabilities, I think we're only beginning to see its full potential. <pause:0.8>
+
+That's why it's the technology I'm most excited about for the future.

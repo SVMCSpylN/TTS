@@ -1,0 +1,33 @@
+[SYSTEM][neutral][slow]
+How often do you eat at restaurants?
+
+Who do you usually go with?
+What do you usually eat?
+
+[USER][warm][slow]
+I eat at restaurants quite regularly, usually once or twice a week. <pause:0.8>
+
+It's a nice way to take a break from cooking and enjoy different kinds of food. <pause:0.8>
+
+Most of the time, I go with my wife, friends, or colleagues. <pause:0.8>
+
+[USER][happy][slow]
+The type of food depends on the occasion. <pause:0.8>
+
+Sometimes we choose Vietnamese food, while other times we enjoy barbecue, hot pot, or seafood. <pause:0.8>
+
+When dining with colleagues, we often choose restaurants that are suitable for larger groups. <pause:0.8>
+
+[USER][calm][slow]
+One thing I enjoy about restaurants is that I can relax and focus on the meal without worrying about cooking or cleaning afterward. <pause:0.8>
+
+It's also a great opportunity to have conversations and spend time with people. <pause:0.8>
+
+The overall dining experience is just as important as the food itself. <pause:0.8>
+
+[USER][warm][slow]
+For me, eating out is not only about food. <pause:0.8>
+
+It's also about spending quality time with other people. <pause:0.8>
+
+That's why I always look forward to restaurant outings with family and friends.

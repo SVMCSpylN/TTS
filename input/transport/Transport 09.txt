@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+Ask Eva about a memorable trip.
+
+[USER][curious][slow]
+Hello, Eva. <pause:0.5>
+
+I heard that you recently took a trip. <pause:0.8>
+
+How did you travel there? <pause:0.8>
+
+What transportation did you use during the trip? <pause:0.8>
+
+Did everything go smoothly? <pause:0.8>
+
+[USER][curious][slow]
+Was there anything unexpected that happened during the journey? <pause:0.8>
+
+How did you deal with it? <pause:0.8>
+
+[USER][curious][slow]
+What places did you visit after arriving? <pause:0.8>
+
+Which part of the trip did you enjoy the most? <pause:0.8>
+
+[USER][warm][slow]
+And what was the most memorable part of the journey? <pause:0.8>
+
+Would you like to take a similar trip again in the future? <pause:0.8>
+
+Thank you for sharing. <pause:0.8>
+
+I'd love to hear your story.

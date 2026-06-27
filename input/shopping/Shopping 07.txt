@@ -1,0 +1,35 @@
+[SYSTEM][neutral][slow]
+Compare shopping nowadays and shopping in the past.
+
+What differences do you notice?
+
+[USER][calm][slow]
+Shopping has changed dramatically over the years. <pause:0.8>
+
+The way people buy products today is very different from how they did in the past. <pause:0.8>
+
+[USER][calm][slow]
+In the past, people had to visit physical stores to see products and make purchases. <pause:0.8>
+
+Choices were often limited. <pause:0.8>
+
+If a particular item wasn't available locally, customers sometimes had to wait a long time or travel to another area to find it. <pause:0.8>
+
+[USER][happy][slow]
+Today, online shopping allows customers to access products from all over the country and even internationally. <pause:0.8>
+
+Deliveries are faster, and payment options are much more convenient. <pause:0.8>
+
+People can compare prices, read reviews, and place orders within minutes using a smartphone. <pause:0.8>
+
+[USER][professional][slow]
+Technology has made shopping easier, but it has also encouraged people to spend more impulsively. <pause:0.8>
+
+Because buying products is so convenient, some people purchase things they don't really need. <pause:0.8>
+
+[USER][warm][slow]
+Overall, I think modern shopping is far more convenient than before. <pause:0.8>
+
+While there are some drawbacks, the benefits of convenience, variety, and accessibility are difficult to ignore. <pause:0.8>
+
+That's why I prefer the shopping experience available today.

@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+Tell me about a place you would like to visit in the future.
+
+Why do you want to go there?
+
+[USER][excited][slow]
+One place I'd really like to visit in the future is Japan. <pause:0.8>
+
+I've been interested in Japanese culture for a long time. <pause:0.8>
+
+It's a country that has fascinated me for many years. <pause:0.8>
+
+[USER][happy][slow]
+I'd like to explore famous cities such as Tokyo and Kyoto. <pause:0.8>
+
+I'm also interested in Japanese food, technology, and historical sites. <pause:0.8>
+
+I think it would be exciting to experience the contrast between modern cities and traditional cultural landmarks. <pause:0.8>
+
+[USER][curious][slow]
+Another reason I'd like to visit is the transportation system. <pause:0.8>
+
+I've heard that Japanese trains are incredibly efficient and convenient. <pause:0.8>
+
+As someone who is interested in technology, I'd love to experience the Shinkansen and other advanced transportation systems firsthand. <pause:0.8>
+
+[USER][warm][slow]
+I hope I'll have the opportunity to visit Japan someday. <pause:0.8>
+
+I believe it would be both an enjoyable vacation and a valuable learning experience. <pause:0.8>
+
+Visiting Japan is definitely one of my long-term travel goals.

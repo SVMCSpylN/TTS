@@ -1,0 +1,34 @@
+[SYSTEM][neutral][slow]
+You need to renew your identification card.
+
+Call and ask for information.
+
+[USER][polite][slow]
+Hello. <pause:0.5>
+
+My identification card will expire in the near future, and I'd like to renew it. <pause:0.8>
+
+I want to make sure I complete the process before the expiration date. <pause:0.8>
+
+[USER][curious][slow]
+Could you tell me what documents I need to bring? <pause:0.8>
+
+Do I need to bring my current identification card as well? <pause:0.8>
+
+And do I need to schedule an appointment in advance? <pause:0.8>
+
+[USER][curious][slow]
+I'd also like to know how long the renewal process usually takes. <pause:0.8>
+
+Will I receive the new card on the same day, or will it be mailed to me later? <pause:0.8>
+
+Is there any renewal fee that I should be aware of? <pause:0.8>
+
+[USER][warm][slow]
+I understand. <pause:0.5>
+
+Thank you very much for providing the information. <pause:0.8>
+
+I appreciate your assistance and will prepare the necessary documents. <pause:0.8>
+
+Have a nice day.

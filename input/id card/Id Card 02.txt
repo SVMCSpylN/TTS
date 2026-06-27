@@ -1,0 +1,31 @@
+[SYSTEM][neutral][slow]
+Tell me about when you usually use your identification card.
+
+What situations require it?
+How often do you use it?
+
+[USER][warm][slow]
+I don't use my identification card every day, but I use it fairly often. <pause:0.8>
+
+It's one of those important items that I always keep in my wallet just in case I need it. <pause:0.8>
+
+[USER][calm][slow]
+Most commonly, I use it when dealing with banks or government services. <pause:0.8>
+
+It's also required when checking into hotels or boarding domestic flights. <pause:0.8>
+
+Sometimes I need it when verifying my identity for official documents or administrative procedures. <pause:0.8>
+
+[USER][happy][slow]
+In recent years, many services have become digital, but identification is still necessary. <pause:0.8>
+
+For example, some online services require identity verification before they can be used. <pause:0.8>
+
+As a result, my ID card remains one of the most important items in my wallet. <pause:0.8>
+
+[USER][warm][slow]
+Even though I don't use it daily, it's something I never leave home without. <pause:0.8>
+
+Having it with me gives me peace of mind because I know I'm prepared for any situation that may require identification. <pause:0.8>
+
+That's why I always make sure to keep it safe and easily accessible.

@@ -1,0 +1,34 @@
+[SYSTEM][neutral][slow]
+Tell me about the last home appliance you purchased.
+
+What did you buy?
+Why did you buy it?
+How satisfied are you with it?
+
+[USER][happy][slow]
+The last home appliance I purchased was a smart television. <pause:0.8>
+
+I bought it because my old TV had become outdated and occasionally stopped working. <pause:0.8>
+
+It was becoming unreliable, so I decided it was time for an upgrade. <pause:0.8>
+
+[USER][curious][slow]
+Before making the purchase, I spent quite a lot of time comparing different models online. <pause:0.8>
+
+I looked at reviews, prices, screen quality, and technical specifications. <pause:0.8>
+
+Since I work in technology, I enjoy researching products carefully before buying them. <pause:0.8>
+
+[USER][happy][slow]
+Eventually, I found a model that fit my needs perfectly. <pause:0.8>
+
+The image quality is excellent, and the smart features work very smoothly. <pause:0.8>
+
+It also connects easily to streaming services, which makes it very convenient to use. <pause:0.8>
+
+[USER][warm][slow]
+Looking back, I think it was a great purchase. <pause:0.8>
+
+My wife and I use it almost every day, and we've had no problems with it so far. <pause:0.8>
+
+Even today, I'm very satisfied with it and would definitely recommend it to others.

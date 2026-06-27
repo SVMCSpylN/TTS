@@ -1,0 +1,25 @@
+[SYSTEM][neutral][slow]
+Tell me about a time when you missed an appointment.
+
+Why did you miss it?
+What happened afterward?
+
+[USER][embarrassed][slow]
+Unfortunately, I once missed an important appointment because of work. <pause:0.8>
+
+A few years ago, I scheduled a haircut appointment after work. <pause:0.8>
+
+[USER][worried][slow]
+However, an urgent issue came up at the office, and I had to stay late to finish it. <pause:0.8>
+
+I became so focused on work that I completely forgot about the appointment. <pause:0.8>
+
+[USER][embarrassed][slow]
+Later that evening, the salon called me to ask whether I was still coming. <pause:0.8>
+
+I felt quite embarrassed because I had forgotten to notify them. <pause:0.8>
+
+[USER][warm][slow]
+Since then, I've relied more on calendar reminders. <pause:0.8>
+
+That experience taught me the importance of managing my schedule carefully.

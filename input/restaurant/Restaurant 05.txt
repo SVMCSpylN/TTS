@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+Tell me about the restaurant you would like to visit in the future.
+
+Why do you want to go there?
+
+[USER][excited][slow]
+One restaurant I'd love to visit in the future is an authentic Japanese restaurant in Tokyo. <pause:0.8>
+
+I've always been interested in Japanese cuisine and culture. <pause:0.8>
+
+Visiting a restaurant in Japan has been one of my travel goals for a long time. <pause:0.8>
+
+[USER][happy][slow]
+I'd like to try sushi, ramen, and other traditional dishes prepared by experienced chefs. <pause:0.8>
+
+I think the food would taste very different from what I've tried in Vietnam. <pause:0.8>
+
+I'd also like to learn more about the ingredients and cooking techniques used in Japanese cuisine. <pause:0.8>
+
+[USER][excited][slow]
+It would also be interesting to experience Japanese dining culture firsthand. <pause:0.8>
+
+I've heard that customer service and attention to detail are exceptional in many Japanese restaurants. <pause:0.8>
+
+I think the overall experience would be just as memorable as the food itself. <pause:0.8>
+
+[USER][warm][slow]
+I hope I'll have the opportunity to visit someday because it sounds like a wonderful experience. <pause:0.8>
+
+It would combine two things I enjoy: traveling and trying new foods. <pause:0.8>
+
+I'm sure it would become one of the highlights of my trip to Japan.

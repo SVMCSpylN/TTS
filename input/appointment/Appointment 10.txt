@@ -1,0 +1,31 @@
+[SYSTEM][neutral][slow]
+You want to know about Eva's appointments.
+
+Ask her several questions.
+
+[USER][curious][slow]
+Hello, Eva. <pause:0.5>
+
+I'd like to ask you a few questions about appointments. <pause:0.8>
+
+Do you often make appointments in advance, or do you usually decide at the last minute? <pause:0.8>
+
+What kinds of appointments do you make most frequently? <pause:0.8>
+
+[USER][curious][slow]
+I see. <pause:0.5>
+
+And how do you keep track of your appointments? <pause:0.8>
+
+Do you use a calendar app or write them down somewhere? <pause:0.8>
+
+[USER][curious][slow]
+One more thing. <pause:0.5>
+
+Have you ever forgotten an important appointment? <pause:0.8>
+
+If so, what happened? <pause:0.8>
+
+And what's the most important appointment you've ever had? <pause:0.8>
+
+I'd love to hear about your experience.

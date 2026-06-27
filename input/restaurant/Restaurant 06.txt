@@ -1,0 +1,37 @@
+[SYSTEM][neutral][slow]
+Compare restaurants nowadays and restaurants in the past.
+
+What differences do you notice?
+
+[USER][calm][slow]
+Restaurants today are very different from those in the past. <pause:0.8>
+
+Technology and changing lifestyles have had a major impact on the restaurant industry. <pause:0.8>
+
+[USER][calm][slow]
+Years ago, people usually learned about restaurants through friends and family. <pause:0.8>
+
+There were fewer choices available. <pause:0.8>
+
+In many cases, customers had to visit a restaurant in person to see the menu or check the prices. <pause:0.8>
+
+[USER][happy][slow]
+Nowadays, customers can easily search online, read reviews, and make reservations through mobile apps. <pause:0.8>
+
+Restaurants also offer delivery services and digital payments. <pause:0.8>
+
+As a result, dining has become much more convenient than before. <pause:0.8>
+
+[USER][professional][slow]
+Another noticeable difference is the variety of food available today. <pause:0.8>
+
+People can enjoy cuisines from many different countries without traveling abroad. <pause:0.8>
+
+I think these changes have made dining much more convenient and accessible. <pause:0.8>
+
+[USER][warm][slow]
+Personally, I prefer modern restaurants because they provide better convenience and more options. <pause:0.8>
+
+At the same time, I still appreciate traditional restaurants that preserve local culture and recipes. <pause:0.8>
+
+Both have their own unique charm, but modern restaurants fit my lifestyle better.

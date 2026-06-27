@@ -1,0 +1,37 @@
+[SYSTEM][neutral][slow]
+Compare urban and rural geographical areas.
+
+What are the differences?
+Which do you prefer?
+
+[USER][calm][slow]
+Urban and rural areas are quite different in many ways. <pause:0.8>
+
+Cities usually have better infrastructure, transportation systems, and job opportunities. <pause:0.8>
+
+There are also more shopping centers, restaurants, hospitals, and entertainment facilities. <pause:0.8>
+
+[USER][calm][slow]
+However, cities are often crowded, noisy, and stressful. <pause:0.8>
+
+Traffic congestion can be a serious problem, especially during rush hour. <pause:0.8>
+
+In contrast, rural areas tend to be quieter and much closer to nature. <pause:0.8>
+
+The air is usually cleaner, and life moves at a slower pace. <pause:0.8>
+
+[USER][professional][slow]
+Personally, I think both environments have their own advantages. <pause:0.8>
+
+For work, education, and convenience, I prefer living in the city. <pause:0.8>
+
+That's one of the reasons I currently live in Hanoi. <pause:0.8>
+
+At the same time, I still enjoy visiting rural areas whenever I have the chance. <pause:0.8>
+
+[USER][warm][slow]
+When I visit my hometown in Bac Ninh, I always appreciate the peaceful atmosphere and open spaces. <pause:0.8>
+
+Ideally, I'd like to enjoy the benefits of both environments. <pause:0.8>
+
+I think having a balance between urban convenience and rural tranquility is the best option.

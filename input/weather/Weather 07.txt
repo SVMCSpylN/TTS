@@ -1,0 +1,30 @@
+[SYSTEM][neutral][slow]
+Compare weather now and weather in the past.
+
+What differences do you notice?
+
+[USER][calm][slow]
+I think the weather has become more unpredictable in recent years. <pause:0.8>
+
+Compared to the past, sudden weather changes seem to occur more often. <pause:0.8>
+
+[USER][concerned][slow]
+For example, summers seem hotter than before, and heavy rainstorms occur more frequently. <pause:0.8>
+
+Extreme weather events also appear to be more common. <pause:0.8>
+
+In some cases, weather forecasts are more difficult to predict because conditions can change very quickly. <pause:0.8>
+
+[USER][professional][slow]
+Many people believe climate change is contributing to these changes. <pause:0.8>
+
+Although I'm not an expert, I do think weather patterns have become less stable. <pause:0.8>
+
+As a result, people often need to be more flexible and prepared for unexpected weather conditions. <pause:0.8>
+
+[USER][warm][slow]
+As a result, people need to pay more attention to weather forecasts than they did in the past. <pause:0.8>
+
+Weather now has a greater impact on transportation, outdoor activities, and travel plans. <pause:0.8>
+
+In my opinion, adapting to these changes has become an important part of everyday life.

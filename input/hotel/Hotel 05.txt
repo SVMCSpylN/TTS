@@ -1,0 +1,35 @@
+[SYSTEM][neutral][slow]
+Compare hotels nowadays and hotels in the past.
+
+What differences do you notice?
+Which do you prefer?
+
+[USER][calm][slow]
+Hotels today are very different from hotels in the past. <pause:0.8>
+
+Years ago, booking a hotel usually required calling directly or using a travel agency. <pause:0.8>
+
+There was limited information available before arrival. <pause:0.8>
+
+Travelers often had to rely on recommendations from friends or guidebooks. <pause:0.8>
+
+[USER][calm][slow]
+Nowadays, travelers can easily compare hotels online. <pause:0.8>
+
+We can read reviews, view photos, compare prices, and make reservations within minutes. <pause:0.8>
+
+This makes planning a trip much faster and more convenient. <pause:0.8>
+
+[USER][happy][slow]
+Modern hotels also provide better facilities such as high-speed Internet, smart TVs, and online check-in services. <pause:0.8>
+
+Many hotels now offer mobile apps that allow guests to manage reservations and request services easily. <pause:0.8>
+
+These improvements make travel much more comfortable and enjoyable. <pause:0.8>
+
+[USER][warm][slow]
+Personally, I definitely prefer modern hotels because they offer a better overall experience. <pause:0.8>
+
+The combination of technology, convenience, and improved service makes traveling much easier than before. <pause:0.8>
+
+I think modern hotels have greatly improved the way people travel and enjoy their vacations.

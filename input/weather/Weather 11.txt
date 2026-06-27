@@ -1,0 +1,34 @@
+[SYSTEM][neutral][slow]
+Call your friend and cancel an outdoor activity because of the weather.
+
+[USER][concerned][slow]
+Hello, Nam. <pause:0.5>
+
+I'm sorry, but I don't think we should go to the park this evening. <pause:0.8>
+
+The weather forecast says there's going to be heavy rain and strong winds. <pause:0.8>
+
+I checked the forecast a few minutes ago, and the conditions look much worse than expected. <pause:0.8>
+
+[USER][concerned][slow]
+I don't think it would be safe or enjoyable to stay outdoors under those conditions. <pause:0.8>
+
+There's also a chance of thunderstorms later this evening. <pause:0.8>
+
+I'd rather avoid taking any unnecessary risks. <pause:0.8>
+
+[USER][polite][slow]
+Would it be okay if we postponed our plan until the weekend instead? <pause:0.8>
+
+The weather is supposed to be much better then. <pause:0.8>
+
+We could still go to the park or find another outdoor activity to enjoy together. <pause:0.8>
+
+[USER][warm][slow]
+I'm sorry for the inconvenience, and I hope you understand. <pause:0.8>
+
+Thank you for being flexible. <pause:0.8>
+
+Let's stay in touch and decide on a new time once the weather improves. <pause:0.8>
+
+Talk to you soon.

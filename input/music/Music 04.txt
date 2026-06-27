@@ -1,0 +1,33 @@
+[SYSTEM][neutral][slow]
+Tell me about the last time you listened to music.
+
+Where were you?
+What were you doing?
+
+[USER][happy][slow]
+The last time I listened to music was this morning. <pause:0.8>
+
+I was walking in the park before starting my day. <pause:0.8>
+
+It's one of my favorite ways to begin the morning. <pause:0.8>
+
+[USER][happy][slow]
+I put on my headphones and played some of my favorite songs. <pause:0.8>
+
+The weather was pleasant, and the music made the walk even more enjoyable. <pause:0.8>
+
+The combination of fresh air and good music created a very relaxing atmosphere. <pause:0.8>
+
+[USER][calm][slow]
+Listening to music while exercising helps me stay motivated. <pause:0.8>
+
+It also makes the time pass much faster. <pause:0.8>
+
+Instead of focusing on physical fatigue, I can simply enjoy the rhythm and keep moving. <pause:0.8>
+
+[USER][warm][slow]
+It was a simple moment, but it helped me start the day feeling positive and energetic. <pause:0.8>
+
+By the time I finished my walk, I felt refreshed and ready for work. <pause:0.8>
+
+That's one reason why music plays such an important role in my daily life.

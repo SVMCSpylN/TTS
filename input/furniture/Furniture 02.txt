@@ -1,0 +1,36 @@
+[SYSTEM][neutral][slow]
+Tell me about the furniture in your home.
+
+What kinds of furniture do you have?
+Which one do you use the most?
+Why?
+
+[USER][warm][slow]
+My house contains many different types of furniture. <pause:0.8>
+
+For example, we have beds, sofas, bookshelves, tables, wardrobes, and dining chairs. <pause:0.8>
+
+Each piece serves a different purpose in daily life. <pause:0.8>
+
+[USER][happy][slow]
+The furniture I use most frequently is probably my bed. <pause:0.8>
+
+Since I spend many hours sleeping and resting there, it naturally becomes the most important one. <pause:0.8>
+
+I also use the sofa quite often when spending time with my wife in the living room. <pause:0.8>
+
+We usually sit there to watch TV, chat, or simply relax after work. <pause:0.8>
+
+[USER][calm][slow]
+Another piece of furniture I use regularly is my desk. <pause:0.8>
+
+I often use it when working on my computer or studying at home. <pause:0.8>
+
+Without it, it would be difficult to stay organized and productive. <pause:0.8>
+
+[USER][warm][slow]
+Looking around my home, I realize how important furniture is. <pause:0.8>
+
+It makes daily life much more comfortable and convenient. <pause:0.8>
+
+I honestly can't imagine living in a house without it.

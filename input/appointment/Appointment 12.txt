@@ -1,0 +1,38 @@
+[SYSTEM][neutral][slow]
+Ask Eva about a salon appointment.
+
+[USER][curious][slow]
+Hello, Eva. <pause:0.5>
+
+I heard that you recently visited a hair salon. <pause:0.8>
+
+I'd like to know more about your experience. <pause:0.8>
+
+How did you make the appointment? <pause:0.8>
+
+Did you book it online, by phone, or through a mobile app? <pause:0.8>
+
+[USER][curious][slow]
+I see. <pause:0.5>
+
+How long did you have to wait before your appointment started? <pause:0.8>
+
+And what service did you get? <pause:0.8>
+
+Was it a haircut, hair coloring, or something else? <pause:0.8>
+
+[USER][curious][slow]
+How satisfied were you with the service? <pause:0.8>
+
+Did the stylist understand exactly what you wanted? <pause:0.8>
+
+And how long did the whole appointment take? <pause:0.8>
+
+[USER][warm][slow]
+One last question. <pause:0.5>
+
+Would you go back to that salon in the future? <pause:0.8>
+
+And would you recommend it to your friends? <pause:0.8>
+
+I'd love to hear your opinion.

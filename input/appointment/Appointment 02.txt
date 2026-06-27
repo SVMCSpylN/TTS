@@ -1,0 +1,26 @@
+[SYSTEM][neutral][slow]
+Tell me about the last appointment you had.
+
+What was it for?
+Where did you go?
+How did it go?
+
+[USER][happy][slow]
+The last appointment I had was a dental checkup. <pause:0.8>
+
+I scheduled it about a week in advance because I wanted to have my teeth examined. <pause:0.8>
+
+[USER][calm][slow]
+On the appointment day, I arrived at the clinic about fifteen minutes early. <pause:0.8>
+
+The staff were friendly and the process was very organized. <pause:0.8>
+
+After a short wait, the dentist examined my teeth and gave me some advice on oral care. <pause:0.8>
+
+[USER][relieved][slow]
+Fortunately, everything looked fine and I didn't need any treatment. <pause:0.8>
+
+I felt relieved because I had been a little worried beforehand. <pause:0.8>
+
+[USER][warm][slow]
+Looking back, it was a simple appointment, but it reminded me how important regular health checkups are.

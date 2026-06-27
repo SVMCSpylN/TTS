@@ -1,0 +1,35 @@
+[SYSTEM][neutral][slow]
+Compare furniture nowadays and furniture in the past.
+
+What differences do you notice?
+Which do you prefer?
+
+[USER][calm][slow]
+Furniture today is quite different from furniture in the past. <pause:0.8>
+
+Years ago, furniture was mainly designed for basic functionality. <pause:0.8>
+
+The designs were usually simple, heavy, and traditional. <pause:0.8>
+
+People focused more on durability than appearance. <pause:0.8>
+
+[USER][calm][slow]
+Nowadays, furniture is often more stylish and multifunctional. <pause:0.8>
+
+Many modern products are designed to save space and improve convenience. <pause:0.8>
+
+This is especially important because many people now live in apartments rather than large houses. <pause:0.8>
+
+[USER][happy][slow]
+For example, some beds include built-in storage compartments, and some tables can be folded when not in use. <pause:0.8>
+
+There are also smart furniture products that include lighting, charging ports, or other useful features. <pause:0.8>
+
+These innovations make everyday life much more convenient. <pause:0.8>
+
+[USER][warm][slow]
+Personally, I prefer modern furniture because it's more practical, comfortable, and attractive. <pause:0.8>
+
+I think it suits today's lifestyle much better. <pause:0.8>
+
+If I have the opportunity to buy new furniture in the future, I'll definitely choose modern designs.

@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+Ask Eva about a recent technology purchase.
+
+[USER][curious][slow]
+Hello, Eva. <pause:0.5>
+
+I heard that you recently bought a new technology device. <pause:0.8>
+
+What did you buy? <pause:0.8>
+
+Why did you choose that product? <pause:0.8>
+
+[USER][curious][slow]
+Did you spend much time researching before purchasing it? <pause:0.8>
+
+What features were most important to you? <pause:0.8>
+
+[USER][curious][slow]
+Are you satisfied with it? <pause:0.8>
+
+Has it performed as well as you expected? <pause:0.8>
+
+Do you use it frequently in your daily life? <pause:0.8>
+
+[USER][warm][slow]
+And would you recommend it to other people? <pause:0.8>
+
+Why or why not? <pause:0.8>
+
+I'd love to hear about your experience. <pause:0.8>
+
+Thank you for sharing.

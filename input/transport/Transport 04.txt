@@ -1,0 +1,33 @@
+[SYSTEM][neutral][slow]
+Tell me about a memorable transportation experience.
+
+What happened?
+Why was it memorable?
+
+[USER][excited][slow]
+One memorable transportation experience happened a few years ago during a heavy rainstorm in Hanoi. <pause:0.8>
+
+I was riding my motorbike home after work. <pause:0.8>
+
+At first, I expected the trip to be completely normal. <pause:0.8>
+
+[USER][worried][slow]
+Unfortunately, traffic became extremely congested. <pause:0.8>
+
+The roads were crowded, and vehicles were barely moving. <pause:0.8>
+
+I ended up spending more than two hours on a trip that normally takes less than forty minutes. <pause:0.8>
+
+To make matters worse, the rain continued throughout most of the journey. <pause:0.8>
+
+[USER][relieved][slow]
+Although it was frustrating at the time, I eventually arrived home safely. <pause:0.8>
+
+By the time I got home, I was exhausted but relieved that the trip was finally over. <pause:0.8>
+
+[USER][warm][slow]
+Looking back, it was a memorable reminder of how unpredictable transportation can be in a large city. <pause:0.8>
+
+It also taught me the importance of checking weather conditions before traveling. <pause:0.8>
+
+Even today, I still remember that unusually long trip whenever heavy rain causes traffic problems in Hanoi.

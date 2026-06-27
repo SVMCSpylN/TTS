@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+Ask Eva about a memorable holiday.
+
+[USER][curious][slow]
+Hello, Eva. <pause:0.5>
+
+I heard that you recently had a wonderful holiday. <pause:0.8>
+
+Where did you go? <pause:0.8>
+
+Who did you travel with? <pause:0.8>
+
+[USER][curious][slow]
+I see. <pause:0.5>
+
+What activities did you enjoy the most during the trip? <pause:0.8>
+
+Did you visit any famous attractions or try any local food? <pause:0.8>
+
+[USER][curious][slow]
+What was the most memorable moment of the holiday? <pause:0.8>
+
+Was there anything unexpected that happened during the trip? <pause:0.8>
+
+[USER][warm][slow]
+One last question. <pause:0.5>
+
+What made the holiday so special compared to your other trips? <pause:0.8>
+
+And would you like to visit that place again in the future? <pause:0.8>
+
+Thank you for sharing your experience.

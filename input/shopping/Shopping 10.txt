@@ -1,0 +1,36 @@
+[SYSTEM][neutral][slow]
+Call a store and ask about a product.
+
+Ask about the price, features, and availability.
+
+[USER][polite][slow]
+Hello. <pause:0.5>
+
+I'm interested in purchasing a robot vacuum cleaner. <pause:0.8>
+
+I've been considering buying one for my home for quite some time. <pause:0.8>
+
+Could you tell me which models are currently available? <pause:0.8>
+
+[USER][curious][slow]
+I'd also like to know the price range and the main features. <pause:0.8>
+
+I'm particularly interested in models that can be controlled through a smartphone app. <pause:0.8>
+
+Do any of your products offer automatic mapping or scheduled cleaning functions? <pause:0.8>
+
+[USER][curious][slow]
+Could you also tell me about the battery life and warranty coverage? <pause:0.8>
+
+Those factors are quite important to me. <pause:0.8>
+
+Do you currently have any promotions or discounts? <pause:0.8>
+
+[USER][warm][slow]
+Thank you very much for your assistance. <pause:0.8>
+
+Your information will help me compare different options before making a decision. <pause:0.8>
+
+I look forward to hearing your recommendations. <pause:0.8>
+
+Thank you.

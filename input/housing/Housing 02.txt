@@ -1,0 +1,34 @@
+[SYSTEM][neutral][slow]
+Tell me about your favorite room in your home.
+
+Which room is it?
+What does it look like?
+Why do you like it?
+
+[USER][warm][slow]
+My favorite room is definitely the living room. <pause:0.8>
+
+It's the place where my wife and I spend most of our free time together. <pause:0.8>
+
+It's also the first room people see when they visit our home. <pause:0.8>
+
+[USER][happy][slow]
+The room contains a comfortable sofa, a television, and several decorative items. <pause:0.8>
+
+It's bright and receives plenty of natural light during the day. <pause:0.8>
+
+The overall atmosphere is warm, cozy, and very relaxing. <pause:0.8>
+
+[USER][happy][slow]
+In the evening, we usually watch TV, talk about our day, or simply relax there. <pause:0.8>
+
+Sometimes we enjoy snacks while watching movies together. <pause:0.8>
+
+It's a very comfortable and welcoming space where we can unwind after work. <pause:0.8>
+
+[USER][warm][slow]
+Whenever I think about home, the living room is the first place that comes to mind. <pause:0.8>
+
+It's where many of my daily memories are created. <pause:0.8>
+
+That's why it's my favorite room in the house.

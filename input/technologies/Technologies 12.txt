@@ -1,0 +1,30 @@
+[SYSTEM][neutral][slow]
+What impact has technology had on society?
+
+[USER][calm][slow]
+I believe technology has transformed society in many positive ways. <pause:0.8>
+
+Its influence can be seen in almost every aspect of modern life. <pause:0.8>
+
+[USER][calm][slow]
+It has improved communication, education, healthcare, transportation, and business. <pause:0.8>
+
+People can access information instantly and connect with others regardless of location. <pause:0.8>
+
+Tasks that once required a great deal of time and effort can now be completed much more efficiently. <pause:0.8>
+
+[USER][professional][slow]
+Technology has also created new opportunities for learning and employment. <pause:0.8>
+
+For example, online education and remote work have become much more common in recent years. <pause:0.8>
+
+Of course, technology also presents challenges such as privacy concerns and excessive screen time. <pause:0.8>
+
+However, I think responsible use can minimize these issues. <pause:0.8>
+
+[USER][warm][slow]
+Overall, technology has made the world more connected and efficient, and I expect its influence to continue growing in the future. <pause:0.8>
+
+While no technology is perfect, its benefits have had a significant positive impact on society. <pause:0.8>
+
+That's why I believe technology will continue to play an important role in shaping our future.
