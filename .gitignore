@@ -1,7 +1,10 @@
 __pycache__/
 *.py[cod]
 .venv/
-# output/*
-!output/.gitkeep
+# Uncomment these rules if generated MP3 files should no longer be tracked.
+# IH/output/*
+!IH/output/.gitkeep
+# IM/output/*
+!IM/output/.gitkeep
 temp/*
 !temp/.gitkeep

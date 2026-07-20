@@ -15,8 +15,7 @@ from tts_engine import BaseTTSEngine, ChatterboxEngine, TTSError
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent
-INPUT_ROOT = PROJECT_ROOT / "input"
-OUTPUT_ROOT = PROJECT_ROOT / "output"
+VERSION_NAMES = ("IH", "IM")
 DEFAULT_CONFIG = PROJECT_ROOT / "config.yaml"
 SUPPORTED_PACES = {"slow", "medium", "fast"}
 
@@ -210,33 +209,77 @@ def _emotion_overrides(value: Any) -> dict[str, str]:
     return overrides
 
 
+def _version_input_root(path: Path) -> Path | None:
+    """Return the IH/input or IM/input ancestor for a path."""
+    resolved = path.resolve()
+    for candidate in (resolved, *resolved.parents):
+        if (
+            candidate.name == "input"
+            and candidate.parent.name.upper() in VERSION_NAMES
+        ):
+            return candidate
+    return None
+
+
+def _input_scopes(input_path: Path) -> list[tuple[Path, Path]]:
+    """Resolve a CLI path to one or more (search path, input root) pairs."""
+    resolved = input_path.resolve()
+    if resolved == PROJECT_ROOT:
+        scopes = [
+            (version_root, version_root)
+            for name in VERSION_NAMES
+            if (version_root := PROJECT_ROOT / name / "input").is_dir()
+        ]
+        if scopes:
+            return scopes
+
+    if (
+        resolved.is_dir()
+        and resolved.name.upper() in VERSION_NAMES
+        and (resolved / "input").is_dir()
+    ):
+        return [(resolved / "input", resolved / "input")]
+
+    input_root = _version_input_root(resolved)
+    if input_root is None:
+        raise ValueError(
+            f"Input path must be inside IH/input or IM/input: {input_path}"
+        )
+    return [(resolved, input_root)]
+
+
 def discover_inputs(input_path: Path) -> list[Path]:
     if not input_path.exists():
         raise FileNotFoundError(f"Input path does not exist: {input_path}")
     if input_path.is_file():
         if input_path.suffix.lower() != ".txt":
             raise ValueError(f"Input file must have a .txt extension: {input_path}")
-        if input_path.resolve().parent == INPUT_ROOT.resolve():
+        input_root = _version_input_root(input_path)
+        if input_root is None:
             raise ValueError(
-                f"Input file must be inside a category folder under {INPUT_ROOT}: "
+                f"Input file must be inside IH/input or IM/input: {input_path}"
+            )
+        if input_path.resolve().parent == input_root:
+            raise ValueError(
+                f"Input file must be inside a category folder under {input_root}: "
                 f"{input_path}"
             )
         return [input_path]
     if not input_path.is_dir():
         raise ValueError(f"Input path is neither a file nor a folder: {input_path}")
 
-    files = sorted(
-        (
+    files: list[Path] = []
+    for search_path, input_root in _input_scopes(input_path):
+        files.extend(
             path
-            for path in input_path.rglob("*")
+            for path in search_path.rglob("*")
             if (
                 path.is_file()
                 and path.suffix.lower() == ".txt"
-                and path.resolve().parent != INPUT_ROOT.resolve()
+                and path.resolve().parent != input_root.resolve()
             )
-        ),
-        key=lambda path: path.relative_to(input_path).as_posix().lower(),
-    )
+        )
+    files.sort(key=lambda path: path.resolve().as_posix().lower())
     if not files:
         raise FileNotFoundError(f"No .txt files found in folder: {input_path}")
     return files
@@ -244,14 +287,22 @@ def discover_inputs(input_path: Path) -> list[Path]:
 
 def output_path_for(
     input_file: Path,
-    input_root: Path = INPUT_ROOT,
-    output_root: Path = OUTPUT_ROOT,
+    input_root: Path | None = None,
+    output_root: Path | None = None,
 ) -> Path:
-    """Map an input TXT to the matching lesson folder under output/."""
+    """Map a versioned input TXT to its matching IH/output or IM/output folder."""
+    if input_root is None:
+        input_root = _version_input_root(input_file)
+        if input_root is None:
+            raise ValueError(
+                f"Input file must be inside IH/input or IM/input: {input_file}"
+            )
+    if output_root is None:
+        output_root = input_root.parent / "output"
     try:
         relative_path = input_file.resolve().relative_to(input_root.resolve())
-    except ValueError:
-        relative_path = Path(input_file.name)
+    except ValueError as exc:
+        raise ValueError(f"{input_file} is not inside input root {input_root}") from exc
     return (output_root / relative_path).with_suffix("")
 
 

@@ -16,8 +16,12 @@ của bài.
 ├── tts_engine.py     # Giao diện TTS và ChatterboxEngine
 ├── audio_utils.py    # Xử lý WAV và xuất MP3
 ├── config.yaml       # Cấu hình âm thanh, TTS và giọng đọc
-├── input/            # Tệp văn bản đầu vào
-├── output/           # Folder MP3 đầu ra theo category và bài
+├── IH/               # Version text IH
+│   ├── input/        # Tệp TXT theo category
+│   └── output/       # MP3 được tạo từ IH/input
+├── IM/               # Version text IM
+│   ├── input/        # Tệp TXT theo category
+│   └── output/       # MP3 được tạo từ IM/input
 ├── voices/           # Tệp WAV giọng mẫu (không bắt buộc)
 ├── temp/             # Tệp WAV tạm thời
 └── tests/            # Unit test
@@ -243,42 +247,52 @@ Giá trị `null` sử dụng giọng mặc định của Chatterbox.
 Tạo MP3 từ một tệp:
 
 ```bash
-python3 generate.py input/Q23.txt
+python3 generate.py "IH/input/park/Park 01.txt"
 ```
 
 Tạo MP3 cho tất cả tệp `.txt` trong một thư mục và các thư mục con:
 
 ```bash
-python3 generate.py input/
+python3 generate.py IH/input/
 ```
 
-Các file `.txt` nằm trực tiếp trong `input/` sẽ bị bỏ qua. Chỉ những file nằm
-trong category, ví dụ `input/music/Q32.txt`, mới được tạo MP3.
+Để tạo version IM, dùng cùng lệnh và đổi `IH` thành `IM`:
+
+```bash
+python3 generate.py IM/input/
+```
+
+Cũng có thể truyền `IH/`, `IM/`, hoặc `.`. Khi truyền `.`, chương trình quét cả
+`IH/input` và `IM/input`, sau đó đưa kết quả vào đúng output của từng version.
+
+Các file `.txt` nằm trực tiếp trong `IH/input/` hoặc `IM/input/` sẽ bị bỏ qua.
+Chỉ những file nằm trong category, ví dụ `IH/input/music/Music 01.txt`, mới
+được tạo MP3.
 
 Mặc định chương trình chỉ tạo các bài chưa có output. Nếu folder output của bài
 đã có MP3 thì sẽ bị bỏ qua. Để ép tạo lại:
 
 ```bash
-python3 generate.py input/ --rerun
+python3 generate.py IH/input/ --rerun
 ```
 
 Sử dụng tệp cấu hình khác:
 
 ```bash
-python3 generate.py input/Q23.txt --config path/to/config.yaml
+python3 generate.py "IM/input/park/Park 01.txt" --config path/to/config.yaml
 ```
 
-Kết quả giữ nguyên cấu trúc category của `input/`, nhưng mỗi bài là một folder
+Kết quả giữ nguyên version và category của input, nhưng mỗi bài là một folder
 và mỗi câu là một MP3 riêng:
 
 ```text
-input/park/Park 01.txt            -> output/park/Park 01/01.mp3
-                                      output/park/Park 01/02.mp3
-                                      output/park/Park 01/03.mp3
+IH/input/park/Park 01.txt         -> IH/output/park/Park 01/01.mp3
+                                      IH/output/park/Park 01/02.mp3
+                                      IH/output/park/Park 01/03.mp3
 
-input/famous people/Famous people 01.txt
-                                  -> output/famous people/Famous people 01/01.mp3
-                                     output/famous people/Famous people 01/02.mp3
+IM/input/famous people/Famous people 01.txt
+                                  -> IM/output/famous people/Famous people 01/01.mp3
+                                     IM/output/famous people/Famous people 01/02.mp3
 ```
 
 Các tệp WAV trung gian được tạo trong `temp/` và tự động xóa sau khi xử lý

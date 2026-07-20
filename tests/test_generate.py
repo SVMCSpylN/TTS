@@ -55,28 +55,32 @@ class GenerateTests(unittest.TestCase):
     def test_discovers_sorted_txt_files_recursively(self) -> None:
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)
-            (root / "root-file.txt").touch()
-            (root / "housing").mkdir()
-            (root / "housing" / "B.txt").touch()
-            (root / "housing" / "A.TXT").touch()
-            (root / "housing" / "Q1.txt").touch()
-            (root / "ignored.md").touch()
+            input_root = root / "IH" / "input"
+            input_root.mkdir(parents=True)
+            (input_root / "root-file.txt").touch()
+            (input_root / "housing").mkdir()
+            (input_root / "housing" / "B.txt").touch()
+            (input_root / "housing" / "A.TXT").touch()
+            (input_root / "housing" / "Q1.txt").touch()
+            (input_root / "ignored.md").touch()
 
-            with patch("generate.INPUT_ROOT", root):
-                self.assertEqual(
-                    [path.relative_to(root).as_posix() for path in discover_inputs(root)],
-                    ["housing/A.TXT", "housing/B.txt", "housing/Q1.txt"],
-                )
+            self.assertEqual(
+                [
+                    path.relative_to(input_root).as_posix()
+                    for path in discover_inputs(input_root)
+                ],
+                ["housing/A.TXT", "housing/B.txt", "housing/Q1.txt"],
+            )
 
     def test_rejects_txt_directly_under_input_root(self) -> None:
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)
-            input_file = root / "Q38.txt"
+            input_file = root / "IH" / "input" / "Q38.txt"
+            input_file.parent.mkdir(parents=True)
             input_file.touch()
 
-            with patch("generate.INPUT_ROOT", root):
-                with self.assertRaisesRegex(ValueError, "category folder"):
-                    discover_inputs(input_file)
+            with self.assertRaisesRegex(ValueError, "category folder"):
+                discover_inputs(input_file)
 
     def test_loads_and_resolves_config(self) -> None:
         with tempfile.TemporaryDirectory() as directory:
@@ -108,6 +112,29 @@ class GenerateTests(unittest.TestCase):
                 output_path_for(input_file, root / "input", root / "output"),
                 root / "output" / "home appliances" / "Q24",
             )
+
+    def test_infers_output_root_for_each_text_version(self) -> None:
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            for version in ("IH", "IM"):
+                input_file = root / version / "input" / "park" / "Park 01.txt"
+                self.assertEqual(
+                    output_path_for(input_file),
+                    root / version / "output" / "park" / "Park 01",
+                )
+
+    def test_version_folder_discovers_only_its_own_input(self) -> None:
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            ih_file = root / "IH" / "input" / "park" / "IH.txt"
+            im_file = root / "IM" / "input" / "park" / "IM.txt"
+            ih_file.parent.mkdir(parents=True)
+            im_file.parent.mkdir(parents=True)
+            ih_file.touch()
+            im_file.touch()
+
+            self.assertEqual(discover_inputs(root / "IH"), [ih_file])
+            self.assertEqual(discover_inputs(root / "IM"), [im_file])
 
     def test_rejects_non_mp3_output(self) -> None:
         with tempfile.TemporaryDirectory() as directory:
