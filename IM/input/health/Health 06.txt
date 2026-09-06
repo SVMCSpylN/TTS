@@ -1,0 +1,21 @@
+[SYSTEM][neutral][slow]
+Tell me about healthy food.
+
+What kinds of healthy food do you eat?
+Why do you choose them?
+
+[USER][happy][slow]
+I try to eat healthy food every day because it helps me stay healthy and feel more energetic. <pause:0.8>
+
+[USER][calm][slow]
+I usually eat plenty of vegetables, fruit, eggs, fish, and lean meat, and I drink plenty of water. <pause:0.8>
+
+I also try to avoid too much fast food, fried food, and sugary drinks. <pause:0.8>
+
+[USER][happy][slow]
+Whenever I have time, I like cooking simple meals at home because it's easier to control the ingredients. <pause:0.8>
+
+[USER][warm][slow]
+I think eating healthy is just as important as exercising regularly. <pause:0.8>
+
+Together, they help me stay healthy and reduce stress. <pause:0.8>

@@ -1,0 +1,28 @@
+[SYSTEM][neutral][slow]
+Ask Eva about her health habits.
+
+[USER][curious][slow]
+Hello, Eva. <pause:0.5>
+
+Can I ask you a few questions about your health habits? <pause:0.8>
+
+What do you usually do to stay healthy? <pause:0.8>
+
+How often do you exercise? <pause:0.8>
+
+[USER][curious][slow]
+What kind of exercise do you enjoy most? <pause:0.8>
+
+Do you follow any special diet? <pause:0.8>
+
+Are there any foods you try to avoid? <pause:0.8>
+
+[USER][curious][slow]
+What healthy habit is the most important to you? <pause:0.8>
+
+What advice would you give someone who wants to live a healthier life? <pause:0.8>
+
+What's the biggest challenge for you? <pause:0.8>
+
+[USER][warm][slow]
+Thanks for sharing. <pause:0.8>

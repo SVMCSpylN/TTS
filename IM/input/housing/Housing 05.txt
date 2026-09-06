@@ -1,0 +1,33 @@
+[SYSTEM][neutral][slow]
+Tell me about a problem you had at home.
+
+What happened?
+How did you solve it?
+
+[USER][worried][slow]
+A few years ago, I had a problem with one of the windows in my house. <pause:0.8>
+
+It suddenly became difficult to open and close properly. <pause:0.8>
+
+At first, I thought it was just a minor issue that would be easy to fix. <pause:0.8>
+
+[USER][concerned][slow]
+However, the problem gradually became worse over time. <pause:0.8>
+
+I tried fixing it myself, but I quickly realized I didn't have the right tools or experience. <pause:0.8>
+
+The situation became increasingly inconvenient because I used that window every day. <pause:0.8>
+
+[USER][relieved][slow]
+Eventually, I contacted a repair service. <pause:0.8>
+
+A technician came to inspect the window and fixed it within a few hours. <pause:0.8>
+
+Fortunately, the repair was straightforward and didn't cost too much money. <pause:0.8>
+
+[USER][warm][slow]
+After the repair, the window worked perfectly again. <pause:0.8>
+
+I felt relieved because the problem was solved quickly and professionally. <pause:0.8>
+
+That experience taught me that it's sometimes better to ask professionals for help instead of trying to do everything myself.

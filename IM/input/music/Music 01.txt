@@ -1,0 +1,25 @@
+[SYSTEM][neutral][slow]
+You indicated in the survey that you enjoy listening to music.
+
+What kind of music do you like?
+Why do you like it?
+
+[USER][warm][slow]
+I listen to music almost every day, especially after work. <pause:0.8>
+
+My favorite type of music is ballad music. <pause:0.8>
+
+[USER][happy][slow]
+I like ballads because they have gentle melodies and emotional lyrics. <pause:0.8>
+
+Many songs also tell meaningful stories that I can relate to. <pause:0.8>
+
+[USER][calm][slow]
+Whenever I feel tired or stressed, listening to ballads helps me relax and clear my mind. <pause:0.8>
+
+I usually listen to them while driving or resting at home. <pause:0.8>
+
+[USER][warm][slow]
+Even though I sometimes listen to other kinds of music, ballads are still my favorite. <pause:0.8>
+
+They always help me feel calm and relaxed. <pause:0.8>

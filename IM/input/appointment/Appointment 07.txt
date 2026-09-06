@@ -1,0 +1,18 @@
+[SYSTEM][neutral][slow]
+Compare making appointments in the past and today.
+
+How has it changed?
+
+[USER][calm][slow]
+Making appointments is much easier today than it was in the past. <pause:0.8>
+
+Back then, people usually had to call or visit in person, and changing an appointment wasn't easy either. <pause:0.8>
+
+[USER][calm][slow]
+They also had to ask what times were available, and the whole process usually took longer. <pause:0.8>
+
+[USER][happy][slow]
+Now, most places have websites or apps, so you can book, change, or cancel an appointment in just a few minutes. <pause:0.8>
+
+[USER][warm][slow]
+I usually book appointments online because it's quick and easy, but I still call if I have any questions. <pause:0.8>

@@ -1,0 +1,28 @@
+[SYSTEM][neutral][slow]
+Compare walking in a park and exercising in a gym.
+
+Which do you prefer?
+
+[USER][calm][medium]
+Walking in a park and working out at the gym are both good for my health. <pause:0.8>
+
+But they're very different. <pause:0.8>
+
+[USER][calm][medium]
+At the gym, I can use different machines and exercise anytime. <pause:0.8>
+
+It's a good place to build muscle and stay in shape. <pause:0.8>
+
+I also don't have to worry about the weather. <pause:0.8>
+
+[USER][happy][medium]
+The park is different because I can enjoy the fresh air and nature. <pause:0.8>
+
+I feel much more relaxed when I walk or jog there. <pause:0.8>
+
+It's a nice way to unwind after work. <pause:0.8>
+
+[USER][warm][slow]
+I like both, but I usually choose the park. <pause:0.8>
+
+It helps me relax, and I always feel better afterward. <pause:0.8>

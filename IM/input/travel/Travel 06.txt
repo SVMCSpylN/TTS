@@ -1,0 +1,30 @@
+[SYSTEM][neutral][slow]
+Tell me about how you usually travel.
+
+Who do you travel with?
+How do you plan your trips?
+What do you usually do?
+
+[USER][calm][medium]
+I usually travel with my wife because we enjoy traveling together. <pause:0.8>
+
+If it's far away, we usually fly because it's faster. <pause:0.8>
+
+We like planning our trips ourselves instead of joining a tour. <pause:0.8>
+
+[USER][happy][medium]
+Before the trip, we talk about where we want to go and what we want to eat. <pause:0.8>
+
+Then we book our hotel and tickets online. <pause:0.8>
+
+We don't plan everything, so we can be flexible. <pause:0.8>
+
+[USER][calm][medium]
+When we're there, we usually visit a few famous places and try the local food. <pause:0.8>
+
+We also like walking around and taking lots of photos. <pause:0.8>
+
+[USER][warm][slow]
+That's the kind of trip we enjoy most. <pause:0.8>
+
+We always have a good time together. <pause:0.8>

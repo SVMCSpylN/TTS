@@ -1,0 +1,28 @@
+[SYSTEM][neutral][slow]
+You indicated in the survey that you are interested in health.
+
+Tell me about what you do to stay healthy.
+
+What activities do you do?
+How often do you do them?
+Why are they important to you?
+
+[USER][warm][slow]
+That's a great question. <pause:0.5>
+
+Staying healthy is important to me because I spend most of my day sitting in front of a computer. <pause:0.8>
+
+[USER][happy][slow]
+I usually go jogging at Hoa Binh Park several times a week and go to the gym about three times a week. <pause:0.8>
+
+I also try to eat balanced meals with plenty of vegetables and protein. <pause:0.8>
+
+[USER][calm][slow]
+Another habit is getting enough sleep and drinking plenty of water. <pause:0.8>
+
+These habits help me feel more energetic and focused during the day. <pause:0.8>
+
+[USER][warm][slow]
+They also reduce my stress and help me maintain a good work-life balance. <pause:0.8>
+
+That's why I try to follow them every day. <pause:0.8>

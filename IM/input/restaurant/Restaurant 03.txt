@@ -1,0 +1,26 @@
+[SYSTEM][neutral][slow]
+Tell me about the last time you ate at a restaurant.
+
+Where did you go?
+Who were you with?
+What happened?
+
+[USER][happy][slow]
+The last time I ate at a restaurant was last weekend. <pause:0.8>
+
+My wife and I went to a small Italian restaurant after watching a movie. <pause:0.8>
+
+[USER][excited][slow]
+The restaurant was in a shopping mall, and it had a cozy atmosphere. <pause:0.8>
+
+We ordered pizza, pasta, and some drinks. <pause:0.8>
+
+[USER][happy][slow]
+The food was delicious, and the service was great. <pause:0.8>
+
+We spent about two hours eating, chatting, and talking about the movie. <pause:0.8>
+
+[USER][warm][slow]
+It was a simple evening, but we really enjoyed spending time together. <pause:0.8>
+
+I'd definitely like to go back there again. <pause:0.8>

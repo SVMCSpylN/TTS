@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+Ask Eva about her favorite room.
+
+[USER][curious][slow]
+Hello, Eva. <pause:0.5>
+
+I'd like to know more about your favorite room. <pause:0.8>
+
+Which room do you spend the most time in? <pause:0.8>
+
+Why do you like it? <pause:0.8>
+
+[USER][curious][slow]
+I see. <pause:0.5>
+
+What activities do you usually do there? <pause:0.8>
+
+Do you use that room mostly for relaxing, working, or spending time with your family? <pause:0.8>
+
+[USER][curious][slow]
+What does the room look like? <pause:0.8>
+
+Is there any furniture or decoration that you especially like? <pause:0.8>
+
+[USER][warm][slow]
+One last question. <pause:0.5>
+
+What makes that room special to you? <pause:0.8>
+
+Do you have any memorable experiences related to it? <pause:0.8>
+
+Thank you for sharing.

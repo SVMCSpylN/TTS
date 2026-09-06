@@ -1,0 +1,28 @@
+[SYSTEM][neutral][slow]
+Ask Eva about her favorite holiday.
+
+[USER][curious][slow]
+Hello, Eva. <pause:0.5>
+
+Can I ask you a few questions about your favorite holiday? <pause:0.8>
+
+What holiday do you enjoy the most? <pause:0.8>
+
+Why do you like it so much? <pause:0.8>
+
+[USER][curious][slow]
+How do you usually spend that holiday? <pause:0.8>
+
+Do you usually travel somewhere or stay at home? <pause:0.8>
+
+Who do you usually celebrate it with? <pause:0.8>
+
+[USER][curious][slow]
+What's your favorite part of that holiday? <pause:0.8>
+
+Do you have any special memories related to it? <pause:0.8>
+
+Would you like to celebrate it differently in the future? <pause:0.8>
+
+[USER][warm][slow]
+Thanks for sharing. <pause:0.8>

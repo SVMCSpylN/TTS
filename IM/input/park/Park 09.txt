@@ -1,0 +1,34 @@
+[SYSTEM][neutral][slow]
+Call your friend and invite him to go to the park.
+
+Explain your plan.
+
+[USER][warm][medium]
+Hello, Nam. <pause:0.5>
+
+How are you doing? <pause:0.8>
+
+I'm thinking about going to Hoa Binh Park this evening. <pause:0.8>
+
+Do you want to come with me? <pause:0.8>
+
+[USER][happy][medium]
+Great! <pause:0.5>
+
+The weather is really nice today. <pause:0.8>
+
+We can walk around the lake and go for a jog. <pause:0.8>
+
+Then we can grab a drink and sit by the lake. <pause:0.8>
+
+[USER][warm][medium]
+How about meeting at the main entrance at six? <pause:0.8>
+
+Does that work for you? <pause:0.8>
+
+Perfect. <pause:0.5>
+
+[USER][warm][slow]
+It'll be nice to catch up. <pause:0.8>
+
+See you this evening. <pause:0.8>

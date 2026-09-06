@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+Ask Eva about her favorite season and outdoor activities.
+
+[USER][curious][medium]
+Hello, Eva. <pause:0.5>
+
+Can I ask you a few questions about your favorite season? <pause:0.8>
+
+Which season do you like the most? <pause:0.8>
+
+Why do you like it? <pause:0.8>
+
+[USER][curious][medium]
+What's the weather usually like then? <pause:0.8>
+
+Do you like warm weather or cool weather? <pause:0.8>
+
+What do you usually wear during that season? <pause:0.8>
+
+[USER][curious][medium]
+What do you usually like to do then? <pause:0.8>
+
+Do you spend more time outside with your friends or family? <pause:0.8>
+
+Is there anything you look forward to every year? <pause:0.8>
+
+[USER][warm][slow]
+One last question. <pause:0.5>
+
+Would you recommend visiting your city during that season? <pause:0.8>
+
+Thanks for sharing. <pause:0.8>

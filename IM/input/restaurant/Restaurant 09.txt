@@ -1,0 +1,28 @@
+[SYSTEM][neutral][slow]
+Ask Eva about eating out.
+
+[USER][curious][slow]
+Hello. <pause:0.5>
+
+Can I ask you a few questions about eating out? <pause:0.8>
+
+How often do you eat at restaurants? <pause:0.8>
+
+Who do you usually go with? <pause:0.8>
+
+[USER][curious][slow]
+What kind of food do you usually order? <pause:0.8>
+
+What's your favorite type of food? <pause:0.8>
+
+Do you have a restaurant that you visit regularly? <pause:0.8>
+
+[USER][curious][slow]
+What's most important to you when choosing a restaurant? <pause:0.8>
+
+Do you prefer eating out or eating at home? <pause:0.8>
+
+Why do you prefer it? <pause:0.8>
+
+[USER][warm][slow]
+Thanks for sharing. <pause:0.8>

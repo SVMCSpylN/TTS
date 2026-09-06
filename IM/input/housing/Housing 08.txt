@@ -1,0 +1,34 @@
+[SYSTEM][neutral][slow]
+Ask Eva about her home.
+
+[USER][curious][slow]
+Hello, Eva. <pause:0.5>
+
+I'd like to ask you about your home. <pause:0.8>
+
+What kind of home do you live in? <pause:0.8>
+
+Who do you live with? <pause:0.8>
+
+[USER][curious][slow]
+I see. <pause:0.5>
+
+What do you like most about your home? <pause:0.8>
+
+Is there a particular room that you spend most of your time in? <pause:0.8>
+
+Why do you enjoy that space so much? <pause:0.8>
+
+[USER][curious][slow]
+How long have you lived there? <pause:0.8>
+
+And do you think your home suits your lifestyle well? <pause:0.8>
+
+[USER][warm][slow]
+One last question. <pause:0.5>
+
+If you could change one thing about your home, what would it be? <pause:0.8>
+
+And what would your dream home look like? <pause:0.8>
+
+I'd love to hear your answer.

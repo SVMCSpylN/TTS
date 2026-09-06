@@ -1,0 +1,33 @@
+[SYSTEM][neutral][slow]
+Tell me about the furniture and appliances in your home.
+
+What do you have?
+Which ones do you use the most?
+
+[USER][warm][slow]
+My house contains a variety of furniture and home appliances. <pause:0.8>
+
+They help make daily life much more comfortable and convenient. <pause:0.8>
+
+We use them every day without even thinking about it. <pause:0.8>
+
+[USER][happy][slow]
+For furniture, we have beds, sofas, tables, chairs, and bookshelves. <pause:0.8>
+
+For appliances, we have a television, air conditioner, refrigerator, washing machine, and speakers. <pause:0.8>
+
+Each item serves a different purpose and helps us manage our daily routines more efficiently. <pause:0.8>
+
+[USER][calm][slow]
+The items I use most often are probably the television and the air conditioner. <pause:0.8>
+
+I watch TV almost every evening, and the air conditioner is essential during the summer because Hanoi can be extremely hot. <pause:0.8>
+
+I also use the refrigerator every day since it helps keep our food fresh. <pause:0.8>
+
+[USER][warm][slow]
+All of these things make daily life much more convenient and comfortable. <pause:0.8>
+
+They save time, reduce effort, and improve our quality of life. <pause:0.8>
+
+It's hard to imagine living without them nowadays.

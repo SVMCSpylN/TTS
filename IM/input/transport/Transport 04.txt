@@ -1,0 +1,24 @@
+[SYSTEM][neutral][slow]
+Compare transportation in the past and transportation nowadays.
+
+What differences do you notice?
+
+[USER][calm][slow]
+Transportation today is quite different from transportation in the past. <pause:0.8>
+
+In the past, people had fewer ways to travel. <pause:0.8>
+
+Public transportation was also less convenient than it is today. <pause:0.8>
+
+[USER][happy][slow]
+Nowadays, we have more choices, such as buses, taxis, and ride-hailing services. <pause:0.8>
+
+We can also use our phones to book a ride or check the traffic. <pause:0.8>
+
+[USER][calm][slow]
+Another big difference is convenience. <pause:0.8>
+
+Technology makes it much easier to plan a trip and find the best route. <pause:0.8>
+
+[USER][warm][slow]
+I think traveling today is much easier and more convenient than it was in the past. <pause:0.8>

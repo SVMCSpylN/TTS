@@ -1,0 +1,28 @@
+[SYSTEM][neutral][slow]
+Ask Eva about exercise.
+
+[USER][curious][slow]
+Hello, Eva. <pause:0.5>
+
+Can I ask you a few questions about exercise? <pause:0.8>
+
+What kind of exercise do you enjoy most? <pause:0.8>
+
+How often do you work out? <pause:0.8>
+
+[USER][curious][slow]
+How long do you usually work out? <pause:0.8>
+
+Do you usually exercise alone or with friends? <pause:0.8>
+
+What's your favorite place to exercise? <pause:0.8>
+
+[USER][curious][slow]
+What benefits have you noticed from exercising? <pause:0.8>
+
+How do you stay motivated to exercise regularly? <pause:0.8>
+
+Would you recommend your exercise routine to other people? <pause:0.8>
+
+[USER][warm][slow]
+Thanks for sharing. <pause:0.8>

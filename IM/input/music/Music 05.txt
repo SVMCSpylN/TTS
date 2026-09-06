@@ -1,0 +1,24 @@
+[SYSTEM][neutral][slow]
+When and where do you usually listen to music?
+
+How do you enjoy music?
+
+[USER][warm][slow]
+I listen to music almost every day. <pause:0.8>
+
+I usually listen to it at home or when I'm outside. <pause:0.8>
+
+[USER][happy][slow]
+At home, I often listen to music through speakers while relaxing or doing household chores. <pause:0.8>
+
+It makes boring tasks more enjoyable and helps me relax. <pause:0.8>
+
+[USER][happy][slow]
+I also listen to music when I go walking or jogging in the park. <pause:0.8>
+
+I usually wear headphones and play some of my favorite songs. <pause:0.8>
+
+Music helps me stay motivated and makes exercise feel less tiring. <pause:0.8>
+
+[USER][warm][slow]
+For me, listening to music is a simple way to relax and enjoy my free time. <pause:0.8>

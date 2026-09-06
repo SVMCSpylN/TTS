@@ -1,0 +1,30 @@
+[SYSTEM][neutral][slow]
+You have to cancel an outdoor plan because of bad weather.
+
+Call your friend and explain the situation.
+
+[USER][concerned][medium]
+Hello, Nam. <pause:0.5>
+
+I'm calling about our plan to go to Hoa Binh Park this afternoon. <pause:0.8>
+
+I don't think we can go today. <pause:0.8>
+
+[USER][worried][medium]
+I just checked the weather, and there's going to be a heavy storm. <pause:0.8>
+
+It's going to rain a lot, and it'll be too dangerous to be outside. <pause:0.8>
+
+[USER][polite][medium]
+How about going on Sunday morning instead? <pause:0.8>
+
+The weather should be much better then. <pause:0.8>
+
+Does that work for you? <pause:0.8>
+
+[USER][warm][slow]
+Great. <pause:0.5>
+
+Sorry about the change. <pause:0.8>
+
+See you on Sunday. <pause:0.8>

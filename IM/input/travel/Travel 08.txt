@@ -1,0 +1,30 @@
+[SYSTEM][neutral][slow]
+Compare traveling in the past and traveling today.
+
+How has it changed?
+
+[USER][calm][medium]
+Traveling today is much easier than it was in the past. <pause:0.8>
+
+In the past, people didn't have as many travel options. <pause:0.8>
+
+They usually had to book everything in person or through a travel agency. <pause:0.8>
+
+[USER][calm][medium]
+It was also harder to find travel information. <pause:0.8>
+
+People used maps, guidebooks, or asked their friends for advice. <pause:0.8>
+
+Planning a trip took a lot longer. <pause:0.8>
+
+[USER][happy][medium]
+Now, we can book flights and hotels online in just a few minutes. <pause:0.8>
+
+We can also use our phones to check maps, read reviews, and find good places to eat. <pause:0.8>
+
+That makes traveling much easier. <pause:0.8>
+
+[USER][warm][slow]
+I think traveling is a lot more convenient today. <pause:0.8>
+
+But I still like to plan my trips before I leave. <pause:0.8>

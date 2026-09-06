@@ -1,0 +1,30 @@
+[SYSTEM][neutral][slow]
+Call a travel agency and ask about tickets.
+
+[USER][polite][medium]
+Hello. <pause:0.5>
+
+I'm planning a trip to Da Nang with my wife. <pause:0.8>
+
+I'd like to ask about your travel packages. <pause:0.8>
+
+Which package do you recommend for a couple? <pause:0.8>
+
+[USER][curious][medium]
+Does it include round-trip flights and a hotel? <pause:0.8>
+
+How many days is the trip? <pause:0.8>
+
+Is the hotel near My Khe Beach? <pause:0.8>
+
+[USER][curious][medium]
+Do you also offer tours to Son Tra Peninsula or Ba Na Hills? <pause:0.8>
+
+Is airport pickup included? <pause:0.8>
+
+Do you have any discounts for couples? <pause:0.8>
+
+[USER][warm][slow]
+Thanks for the information. <pause:0.8>
+
+I'll talk to my wife and get back to you soon. <pause:0.8>

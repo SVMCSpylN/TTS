@@ -1,0 +1,29 @@
+[SYSTEM][neutral][slow]
+How did you become interested in traveling?
+
+When did it start?
+Why do you still enjoy it?
+
+[USER][calm][medium]
+I started enjoying traveling after my first trip to Da Nang. <pause:0.8>
+
+Before that, I usually stayed home during my vacations. <pause:0.8>
+
+I didn't think traveling was worth the time. <pause:0.8>
+
+[USER][happy][medium]
+But that trip changed my mind. <pause:0.8>
+
+I had a great time trying local food and walking along the beach. <pause:0.8>
+
+When I got back home, I wanted to travel more. <pause:0.8>
+
+[USER][calm][medium]
+Since then, I've tried to take a trip whenever I have time. <pause:0.8>
+
+I usually choose places with good food and nice views. <pause:0.8>
+
+[USER][warm][slow]
+I still enjoy traveling because it's a great way to take a break from work. <pause:0.8>
+
+Every trip gives me something new to remember. <pause:0.8>

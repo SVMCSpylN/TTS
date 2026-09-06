@@ -1,0 +1,22 @@
+[SYSTEM][neutral][slow]
+Compare restaurants nowadays and restaurants in the past.
+
+What differences do you notice?
+
+[USER][calm][slow]
+Restaurants today are quite different from those in the past. <pause:0.8>
+
+In the past, people usually learned about restaurants from friends or family, and there were fewer choices. <pause:0.8>
+
+[USER][happy][slow]
+Nowadays, we can easily search for restaurants, read reviews, and make reservations online. <pause:0.8>
+
+Many restaurants also offer food delivery and online payment. <pause:0.8>
+
+[USER][calm][slow]
+Another big difference is the variety of food. <pause:0.8>
+
+Today, we can easily find food from many different countries, such as Korean, Japanese, or Italian food. <pause:0.8>
+
+[USER][warm][slow]
+Overall, eating at restaurants is much easier and more convenient than it was in the past. <pause:0.8>

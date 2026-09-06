@@ -1,0 +1,30 @@
+[SYSTEM][neutral][slow]
+Have you ever traveled abroad?
+
+Where would you like to go in the future?
+
+[USER][calm][medium]
+I haven't traveled abroad yet. <pause:0.8>
+
+Most of my trips have been in Vietnam because it's easier and cheaper. <pause:0.8>
+
+It's also easier because I know the language and the culture. <pause:0.8>
+
+[USER][excited][medium]
+But I'd really like to visit Japan someday. <pause:0.8>
+
+I want to try the local food and visit some famous places. <pause:0.8>
+
+Tokyo, Kyoto, and Osaka are at the top of my list. <pause:0.8>
+
+[USER][calm][medium]
+I know traveling abroad takes more planning. <pause:0.8>
+
+I'd need to get my passport ready, exchange some money, and learn a little Japanese. <pause:0.8>
+
+I'd also need to save some money for the trip. <pause:0.8>
+
+[USER][warm][slow]
+I think it would be an amazing experience. <pause:0.8>
+
+I really hope I can go there with my wife someday. <pause:0.8>

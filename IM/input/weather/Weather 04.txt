@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+Tell me about a memorable experience related to the weather.
+
+What happened?
+How did you deal with it?
+Why was it memorable?
+
+[USER][calm][medium]
+One time, I got caught in a heavy rainstorm after work. <pause:0.8>
+
+I was riding home when it suddenly started getting dark. <pause:0.8>
+
+A few minutes later, it started raining really hard. <pause:0.8>
+
+[USER][surprised][medium]
+I didn't bring a raincoat because the weather was nice that morning. <pause:0.8>
+
+So I stopped at a convenience store and waited for the rain to slow down. <pause:0.8>
+
+A lot of people were waiting there too. <pause:0.8>
+
+[USER][worried][medium]
+The rain lasted for almost an hour. <pause:0.8>
+
+By the time I got home, my shoes and clothes were still wet. <pause:0.8>
+
+It took me much longer than usual to get home. <pause:0.8>
+
+[USER][warm][slow]
+I still remember that day because it happened so suddenly. <pause:0.8>
+
+Since then, I always check the weather before I leave home. <pause:0.8>

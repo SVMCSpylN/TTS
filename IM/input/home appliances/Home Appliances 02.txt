@@ -1,0 +1,26 @@
+[SYSTEM][neutral][slow]
+Tell me about your favorite home appliance.
+
+What is it?
+Why do you like it?
+How often do you use it?
+
+[USER][warm][slow]
+My favorite home appliance is my Samsung smart TV. <pause:0.8>
+
+I use it almost every day after work. <pause:0.8>
+
+[USER][happy][slow]
+A few years ago, I replaced my old TV with this one. <pause:0.8>
+
+It has a large screen, excellent picture quality, and Internet access for streaming movies and videos. <pause:0.8>
+
+[USER][happy][slow]
+My wife and I usually watch movies or TV shows together in the evening. <pause:0.8>
+
+It's a great way for us to relax after a busy day. <pause:0.8>
+
+[USER][warm][slow]
+That's why it's my favorite home appliance. <pause:0.8>
+
+I can't imagine my home without it. <pause:0.8>

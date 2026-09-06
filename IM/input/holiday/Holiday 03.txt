@@ -1,0 +1,27 @@
+[SYSTEM][neutral][slow]
+Tell me about your last holiday.
+
+Where did you go?
+Who did you go with?
+What did you do?
+How was it?
+
+[USER][happy][slow]
+My last holiday was a trip to Da Nang with my wife. <pause:0.8>
+
+We stayed there for a few days and really enjoyed our time together. <pause:0.8>
+
+[USER][excited][slow]
+We visited My Khe Beach, explored some local attractions, and ate lots of fresh seafood. <pause:0.8>
+
+One of my favorite moments was walking along the beach early in the morning because the weather was cool and the sea breeze felt great. <pause:0.8>
+
+[USER][happy][slow]
+In the evenings, we watched the sunset, tried different local restaurants, and took lots of photos. <pause:0.8>
+
+Everything was relaxing, and I really loved the peaceful atmosphere. <pause:0.8>
+
+[USER][warm][slow]
+It was a wonderful holiday because I could spend quality time with my wife and forget about work for a while. <pause:0.8>
+
+I came home feeling refreshed and ready to get back to work. <pause:0.8>

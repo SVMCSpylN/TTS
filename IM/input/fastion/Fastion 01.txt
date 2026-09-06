@@ -1,0 +1,26 @@
+[SYSTEM][neutral][slow]
+Tell me about the clothes you usually wear.
+
+What kind of clothes do you like?
+When do you wear them?
+Why do you like them?
+
+[USER][warm][slow]
+I usually prefer simple and comfortable clothes. <pause:0.8>
+
+On weekdays, I normally wear a T-shirt or shirt with jeans or casual pants. <pause:0.8>
+
+[USER][calm][slow]
+Since I work in an office, I want to look neat, but I don't need to dress too formally. <pause:0.8>
+
+Comfort is also important because I spend a lot of time sitting in front of a computer. <pause:0.8>
+
+[USER][happy][slow]
+On weekends, I usually wear T-shirts, shorts, and sneakers. <pause:0.8>
+
+They're comfortable and perfect for going out or walking around. <pause:0.8>
+
+[USER][warm][slow]
+I don't really follow fashion trends. <pause:0.8>
+
+I just choose clothes that look good, feel comfortable, and fit me well. <pause:0.8>

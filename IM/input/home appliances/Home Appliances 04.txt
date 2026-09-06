@@ -1,0 +1,26 @@
+[SYSTEM][neutral][slow]
+Tell me about a memorable experience involving a home appliance.
+
+What happened?
+Why was it memorable?
+How did you feel?
+
+[USER][happy][slow]
+One memorable experience involved my washing machine. <pause:0.8>
+
+It suddenly stopped working one weekend when I had a lot of laundry to do. <pause:0.8>
+
+[USER][surprised][slow]
+I contacted a repair service, but they couldn't come for two days. <pause:0.8>
+
+During that time, I had to wash some clothes by hand, which was really inconvenient. <pause:0.8>
+
+[USER][relieved][slow]
+Fortunately, the technician fixed the machine, and it worked perfectly again. <pause:0.8>
+
+Although the repair wasn't cheap, I was happy everything was back to normal. <pause:0.8>
+
+[USER][warm][slow]
+That experience made me realize how much I rely on my washing machine. <pause:0.8>
+
+Since then, I've taken better care of it. <pause:0.8>

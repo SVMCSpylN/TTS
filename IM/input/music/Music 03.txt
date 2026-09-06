@@ -1,0 +1,29 @@
+[SYSTEM][neutral][slow]
+How did your interest in music develop?
+
+When did it begin?
+What kind of music did you like at first?
+
+[USER][calm][slow]
+My interest in music began when I was in high school. <pause:0.8>
+
+At that time, many of my friends were interested in hip-hop music. <pause:0.8>
+
+They often shared their favorite songs with me, so I started listening to hip-hop too. <pause:0.8>
+
+[USER][happy][slow]
+I really liked the fast rhythm and energetic sound. <pause:0.8>
+
+It made me feel excited and motivated. <pause:0.8>
+
+After that, listening to music became part of my daily life. <pause:0.8>
+
+[USER][calm][slow]
+As I got older, however, my taste in music gradually changed. <pause:0.8>
+
+Nowadays, I prefer slower and more emotional music like ballads. <pause:0.8>
+
+[USER][warm][slow]
+Ballads help me relax, especially after a busy day at work. <pause:0.8>
+
+My taste has changed over time, but I still enjoy listening to music every day. <pause:0.8>

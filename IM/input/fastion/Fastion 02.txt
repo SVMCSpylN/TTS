@@ -1,0 +1,26 @@
+[SYSTEM][neutral][slow]
+Tell me about the last time you bought clothes.
+
+What did you buy?
+Where did you buy them?
+How was the experience?
+
+[USER][happy][slow]
+The last time I bought clothes was a few weeks ago. <pause:0.8>
+
+I went to a shopping mall with my wife on the weekend. <pause:0.8>
+
+[USER][calm][slow]
+I was looking for a new T-shirt and a pair of jeans. <pause:0.8>
+
+I tried on a few different styles and sizes before choosing the ones I liked. <pause:0.8>
+
+[USER][happy][slow]
+Luckily, the store was having a promotion, so I got a good discount. <pause:0.8>
+
+The clothes fit me well, and the price was reasonable. <pause:0.8>
+
+[USER][warm][slow]
+After shopping, my wife and I had dinner at the mall. <pause:0.8>
+
+Overall, it was a simple but enjoyable shopping experience. <pause:0.8>

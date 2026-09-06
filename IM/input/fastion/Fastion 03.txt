@@ -1,0 +1,25 @@
+[SYSTEM][neutral][slow]
+Tell me about a memorable experience you had while shopping for clothes.
+
+What happened?
+Why was it memorable?
+
+[USER][happy][slow]
+One memorable shopping experience happened a few years ago. <pause:0.8>
+
+I went shopping with my wife because I needed a new jacket. <pause:0.8>
+
+[USER][surprised][slow]
+I found one that I really liked, but it was quite expensive. <pause:0.8>
+
+I was about to leave the store when a staff member told me it was on sale. <pause:0.8>
+
+[USER][excited][slow]
+The jacket was almost half price, so I decided to buy it. <pause:0.8>
+
+It fit me perfectly, and I was really happy with the deal. <pause:0.8>
+
+[USER][warm][slow]
+I still wear that jacket today. <pause:0.8>
+
+Whenever I wear it, I remember how lucky I was to find such a good deal. <pause:0.8>

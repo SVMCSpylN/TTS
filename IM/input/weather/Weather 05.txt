@@ -1,0 +1,31 @@
+[SYSTEM][neutral][slow]
+How do you check the weather?
+
+When do you check it?
+How does the forecast help you?
+
+[USER][calm][medium]
+I usually check the weather on my phone. <pause:0.8>
+
+I use a weather app because it's quick and easy. <pause:0.8>
+
+I can see the temperature and whether it's going to rain. <pause:0.8>
+
+[USER][calm][medium]
+I usually check it before I leave for work. <pause:0.8>
+
+I also check it before I go to the park or take a trip. <pause:0.8>
+
+It only takes a few seconds. <pause:0.8>
+
+[USER][happy][medium]
+If it's going to rain, I take a raincoat or an umbrella. <pause:0.8>
+
+If it's cold, I wear a warm jacket. <pause:0.8>
+
+It also helps me decide whether to go for a walk or stay indoors. <pause:0.8>
+
+[USER][warm][slow]
+The forecast isn't always right, but it's usually good enough. <pause:0.8>
+
+It helps me get ready before I leave home. <pause:0.8>

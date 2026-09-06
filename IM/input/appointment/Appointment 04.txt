@@ -1,0 +1,23 @@
+[SYSTEM][neutral][slow]
+Tell me about a memorable experience related to an appointment.
+
+What happened?
+Why was it memorable?
+
+[USER][calm][slow]
+One time, I forgot about a dental appointment I had made for a Saturday morning. <pause:0.8>
+
+I was really busy that week, so it completely slipped my mind. <pause:0.8>
+
+[USER][surprised][slow]
+The clinic called me while I was having breakfast and asked if I was still coming. <pause:0.8>
+
+That's when I remembered, and I felt really embarrassed. <pause:0.8>
+
+[USER][worried][slow]
+I apologized and asked if I could come later that day. <pause:0.8>
+
+Luckily, they had another opening that afternoon, so everything worked out fine. <pause:0.8>
+
+[USER][warm][slow]
+Since then, I've always set reminders on my phone, and I haven't missed an appointment since. <pause:0.8>

@@ -1,0 +1,26 @@
+[SYSTEM][neutral][slow]
+Tell me about a time when you decided to improve your health.
+
+Why did you make the decision?
+What did you do?
+What was the result?
+
+[USER][calm][slow]
+A few years ago, I realized I wasn't taking good care of my health because I spent most of my day sitting in front of a computer. <pause:0.8>
+
+I often felt tired and didn't have much energy. <pause:0.8>
+
+[USER][concerned][slow]
+So I decided to make some changes. <pause:0.8>
+
+I started jogging, joined a gym, and paid more attention to my diet. <pause:0.8>
+
+[USER][happy][slow]
+At first, it wasn't easy, but after a few months I felt healthier, more energetic, and less stressed. <pause:0.8>
+
+I also started sleeping better and could focus more at work. <pause:0.8>
+
+[USER][warm][slow]
+Looking back, it was one of the best decisions I've ever made. <pause:0.8>
+
+Since then, I've tried to keep those healthy habits in my daily life. <pause:0.8>

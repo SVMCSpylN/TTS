@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+Call a hotel and ask about room availability.
+
+Ask about room types, prices, and facilities.
+
+[USER][polite][slow]
+Hello. <pause:0.5>
+
+I'm planning a trip to Da Nang next month. <pause:0.8>
+
+I'd like to ask about your room availability. <pause:0.8>
+
+[USER][curious][slow]
+What room types do you have available? <pause:0.8>
+
+How much is a room for two people? <pause:0.8>
+
+Does the price include breakfast? <pause:0.8>
+
+[USER][curious][slow]
+Do you have any rooms with a sea view? <pause:0.8>
+
+What facilities does the hotel offer? <pause:0.8>
+
+Do you have a swimming pool or a fitness center? <pause:0.8>
+
+[USER][warm][slow]
+That sounds great. <pause:0.5>
+
+Thanks for your help. <pause:0.8>
+
+I'll discuss it with my wife and book a room soon. <pause:0.8>

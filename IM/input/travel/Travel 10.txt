@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+Ask Eva about traveling.
+
+[USER][curious][medium]
+Hello, Eva. <pause:0.5>
+
+Can I ask you a few questions about traveling? <pause:0.8>
+
+Do you enjoy traveling? <pause:0.8>
+
+Where do you usually go on vacation? <pause:0.8>
+
+[USER][curious][medium]
+Who do you usually travel with? <pause:0.8>
+
+Do you like traveling with your family, your friends, or by yourself? <pause:0.8>
+
+How do you usually plan your trips? <pause:0.8>
+
+[USER][curious][medium]
+What do you usually like to do when you travel? <pause:0.8>
+
+Do you like sightseeing, trying local food, or just relaxing? <pause:0.8>
+
+What's the best place you've ever been to? <pause:0.8>
+
+[USER][warm][slow]
+One last question. <pause:0.5>
+
+Where would you like to go next? <pause:0.8>
+
+Thanks for sharing. <pause:0.8>

@@ -1,0 +1,38 @@
+[SYSTEM][neutral][slow]
+You indicated in the survey that you live in a house.
+
+Tell me about your home.
+
+What kind of home do you live in?
+Who lives there with you?
+What do you like most about it?
+
+[USER][warm][slow]
+That's a great question. <pause:0.5>
+
+I'd like to talk about my home in Hanoi. <pause:0.8>
+
+I live in a private house with my wife. <pause:0.8>
+
+We've been living there for a while, and it's a place where I feel very comfortable. <pause:0.8>
+
+[USER][happy][slow]
+The house is fairly spacious and has several rooms, including a living room, a kitchen, and a few bedrooms. <pause:0.8>
+
+We spend most of our time in the living room when we're at home. <pause:0.8>
+
+It's where we watch TV, chat with each other, and relax after work. <pause:0.8>
+
+[USER][calm][slow]
+One thing I really like is the quiet atmosphere. <pause:0.8>
+
+Even though Hanoi can be quite busy, my neighborhood is relatively peaceful. <pause:0.8>
+
+After a stressful day at work, it's nice to come home and relax in a calm environment. <pause:0.8>
+
+[USER][warm][slow]
+To me, home is much more than just a place to live. <pause:0.8>
+
+It's where I can spend time with my family and recharge for the next day. <pause:0.8>
+
+No matter where I go, I'm always happy to return home at the end of the day.

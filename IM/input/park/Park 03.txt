@@ -1,0 +1,30 @@
+[SYSTEM][neutral][slow]
+Tell me about the last time you went to a park.
+
+When did you go?
+Who did you go with?
+What happened?
+
+[USER][happy][medium]
+The last time I went to a park was last weekend. <pause:0.8>
+
+I went to Hoa Binh Park with a few coworkers. <pause:0.8>
+
+The weather was nice, so we decided to go there. <pause:0.8>
+
+[USER][excited][medium]
+We walked around the lake and chatted for a while. <pause:0.8>
+
+Then we went jogging for about thirty minutes. <pause:0.8>
+
+Even though the park was a little busy, we had a great time. <pause:0.8>
+
+[USER][happy][medium]
+After that, we bought some drinks and sat by the lake. <pause:0.8>
+
+We talked and relaxed before heading home. <pause:0.8>
+
+[USER][warm][slow]
+It was a simple day, but I really enjoyed it. <pause:0.8>
+
+I went home feeling relaxed and refreshed. <pause:0.8>

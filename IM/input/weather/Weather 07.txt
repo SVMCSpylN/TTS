@@ -1,0 +1,30 @@
+[SYSTEM][neutral][slow]
+Compare the weather in the past and today.
+
+How has it changed?
+
+[USER][calm][medium]
+I think the weather has changed a lot over the years. <pause:0.8>
+
+When I was younger, the seasons in Hanoi were more predictable. <pause:0.8>
+
+You could tell when one season ended and another began. <pause:0.8>
+
+[USER][calm][medium]
+Summer was still hot, but it didn't feel as hot as it does now. <pause:0.8>
+
+Winter was colder and seemed to last longer. <pause:0.8>
+
+The weather didn't change so quickly. <pause:0.8>
+
+[USER][concerned][medium]
+Now the weather can change from one day to the next. <pause:0.8>
+
+Some summer days are extremely hot, and heavy rain is more common. <pause:0.8>
+
+Sometimes it even feels warm in the middle of winter. <pause:0.8>
+
+[USER][warm][slow]
+Because of that, I always check the weather before I make plans. <pause:0.8>
+
+It helps me avoid surprises. <pause:0.8>

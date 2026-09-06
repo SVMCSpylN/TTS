@@ -1,0 +1,25 @@
+[SYSTEM][neutral][slow]
+Tell me about the last time you listened to music.
+
+Where were you?
+What were you doing?
+
+[USER][happy][slow]
+The last time I listened to music was this morning. <pause:0.8>
+
+I was walking in a park near my home before going to work. <pause:0.8>
+
+[USER][happy][slow]
+I put on my headphones and played some of my favorite songs. <pause:0.8>
+
+The weather was nice, so I really enjoyed walking and listening to music at the same time. <pause:0.8>
+
+[USER][calm][slow]
+Music made the walk more enjoyable and helped me forget how tired I was. <pause:0.8>
+
+It also made the time pass much faster. <pause:0.8>
+
+[USER][warm][slow]
+After walking for a while, I felt a little tired but very refreshed. <pause:0.8>
+
+It was a simple but relaxing way to start my day. <pause:0.8>

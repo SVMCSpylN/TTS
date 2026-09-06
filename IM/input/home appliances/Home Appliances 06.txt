@@ -1,0 +1,23 @@
+[SYSTEM][neutral][slow]
+Tell me about an appliance you would like to buy in the future.
+
+What is it?
+Why do you want it?
+How would it help you?
+
+[USER][excited][slow]
+One appliance I'd like to buy in the future is a robot vacuum cleaner. <pause:0.8>
+
+Because my wife and I are both busy with work, it would help us save a lot of time. <pause:0.8>
+
+[USER][happy][slow]
+It could clean the floor automatically while we're doing other things. <pause:0.8>
+
+I also like that many models can be controlled with a smartphone app. <pause:0.8>
+
+[USER][warm][slow]
+I think it would make household chores much easier and help keep our home clean every day. <pause:0.8>
+
+That would give us more time to relax together after work. <pause:0.8>
+
+That's why it's at the top of my shopping list. <pause:0.8>

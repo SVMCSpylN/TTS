@@ -1,0 +1,28 @@
+[SYSTEM][neutral][slow]
+Ask Eva about a home appliance she recently bought.
+
+[USER][curious][slow]
+Hello. <pause:0.5>
+
+Can I ask you a few questions about the home appliance you recently bought? <pause:0.8>
+
+What did you buy? <pause:0.8>
+
+Why did you choose it? <pause:0.8>
+
+[USER][curious][slow]
+How did you decide which model to buy? <pause:0.8>
+
+Did you compare different brands or read online reviews? <pause:0.8>
+
+Are you satisfied with it so far? <pause:0.8>
+
+[USER][curious][slow]
+What feature do you like the most? <pause:0.8>
+
+Has it made your daily life more convenient? <pause:0.8>
+
+Would you recommend it to other people? <pause:0.8>
+
+[USER][warm][slow]
+Thanks for sharing. <pause:0.8>

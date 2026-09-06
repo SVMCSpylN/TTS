@@ -1,0 +1,31 @@
+[SYSTEM][neutral][slow]
+Is there any kind of weather you would like to experience?
+
+What is it?
+Why do you want to experience it?
+
+[USER][excited][medium]
+I'd really like to see snow someday. <pause:0.8>
+
+It almost never snows in Hanoi, so I've never seen it in real life. <pause:0.8>
+
+I've only seen it in movies and online. <pause:0.8>
+
+[USER][happy][medium]
+I think everything would look beautiful covered in snow. <pause:0.8>
+
+I'd love to walk in the snow, take some pictures, and build a snowman. <pause:0.8>
+
+A snowball fight would be fun too. <pause:0.8>
+
+[USER][calm][medium]
+I know snow can make traveling more difficult. <pause:0.8>
+
+The roads can get slippery, so I'd have to be careful. <pause:0.8>
+
+I'd also need to wear warm clothes. <pause:0.8>
+
+[USER][warm][slow]
+I hope I get the chance to see snow one day. <pause:0.8>
+
+I'm sure it would be an unforgettable experience. <pause:0.8>

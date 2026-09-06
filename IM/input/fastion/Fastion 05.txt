@@ -1,0 +1,28 @@
+[SYSTEM][neutral][slow]
+Ask Eva about her fashion preferences.
+
+[USER][curious][slow]
+Hello. <pause:0.5>
+
+Can I ask you a few questions about fashion? <pause:0.8>
+
+What kind of clothes do you usually wear? <pause:0.8>
+
+What's your favorite style? <pause:0.8>
+
+[USER][curious][slow]
+Where do you usually buy your clothes? <pause:0.8>
+
+How often do you go shopping for clothes? <pause:0.8>
+
+Do you prefer shopping online or at a store? <pause:0.8>
+
+[USER][curious][slow]
+What's most important to you when choosing clothes? <pause:0.8>
+
+Do you usually follow fashion trends? <pause:0.8>
+
+Do you have a favorite clothing brand? <pause:0.8>
+
+[USER][warm][slow]
+Thanks for sharing. <pause:0.8>

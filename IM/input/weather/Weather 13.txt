@@ -1,0 +1,30 @@
+[SYSTEM][neutral][slow]
+How does the weather affect people and society?
+
+Give me some examples.
+
+[USER][calm][medium]
+The weather affects everyone's daily life. <pause:0.8>
+
+It can change the way people travel, work, and spend their free time. <pause:0.8>
+
+When the weather is nice, everything is a little easier. <pause:0.8>
+
+[USER][concerned][medium]
+For example, heavy rain can cause traffic jams and flooding. <pause:0.8>
+
+Strong storms can damage homes and knock down trees. <pause:0.8>
+
+Sometimes flights are delayed because of bad weather. <pause:0.8>
+
+[USER][calm][medium]
+Very hot weather can make people tired and use more electricity. <pause:0.8>
+
+Bad weather can also make life harder for farmers. <pause:0.8>
+
+That's why many people check the weather every day. <pause:0.8>
+
+[USER][warm][slow]
+I think checking the weather has become part of our daily routine. <pause:0.8>
+
+It helps us plan our day and stay safe. <pause:0.8>

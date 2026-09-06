@@ -1,0 +1,31 @@
+[SYSTEM][neutral][slow]
+You have a transportation problem.
+
+Call a repair shop and explain the situation.
+Ask for help.
+
+[USER][concerned][slow]
+Hello. <pause:0.5>
+
+I'm calling because I'm having a problem with my motorbike. <pause:0.8>
+
+I tried to start it this morning, but it wouldn't start. <pause:0.8>
+
+[USER][worried][slow]
+I checked it a few times, but I couldn't find the problem. <pause:0.8>
+
+I need the motorbike to get to work, so I'd like to have it fixed as soon as possible. <pause:0.8>
+
+Could you take a look at it today? <pause:0.8>
+
+[USER][curious][slow]
+You can check it this afternoon? <pause:0.5>
+
+That works for me. <pause:0.8>
+
+How long do you think the repair will take? <pause:0.8>
+
+[USER][relieved][slow]
+Okay. I'll bring the motorbike to your shop this afternoon. <pause:0.8>
+
+Thanks for your help. <pause:0.8>

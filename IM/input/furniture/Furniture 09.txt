@@ -1,0 +1,30 @@
+[SYSTEM][neutral][slow]
+Ask Eva about furniture shopping.
+
+[USER][curious][slow]
+Hello, Eva. <pause:0.5>
+
+Can I ask you a few questions about the furniture you bought? <pause:0.8>
+
+What did you buy? <pause:0.8>
+
+Why did you choose it? <pause:0.8>
+
+[USER][curious][slow]
+Where did you buy it? <pause:0.8>
+
+Did you compare different stores or look online first? <pause:0.8>
+
+Was it expensive? <pause:0.8>
+
+[USER][curious][slow]
+Did you get a discount? <pause:0.8>
+
+How was the delivery service? <pause:0.8>
+
+Are you happy with your purchase? <pause:0.8>
+
+[USER][warm][slow]
+Would you recommend that store to your friends? <pause:0.8>
+
+Thanks for sharing. <pause:0.8>

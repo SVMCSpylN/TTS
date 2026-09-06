@@ -1,0 +1,25 @@
+[SYSTEM][neutral][slow]
+Tell me about how you usually go to the movies.
+
+Who do you go with?
+What do you do before and after the movie?
+
+[USER][warm][slow]
+I usually go to the movies with my wife or friends on weekends. <pause:0.8>
+
+It's one of my favorite ways to relax and spend time with them. <pause:0.8>
+
+[USER][happy][slow]
+Before going to the cinema, we usually book our tickets online. <pause:0.8>
+
+When we get there, we buy some popcorn and drinks before the movie starts. <pause:0.8>
+
+[USER][happy][slow]
+After the movie, we often walk around the shopping mall or have a meal together. <pause:0.8>
+
+We usually talk about the movie and share our favorite scenes. <pause:0.8>
+
+[USER][warm][slow]
+I really enjoy these little routines. <pause:0.8>
+
+They make going to the movies more fun than just watching a movie at home. <pause:0.8>

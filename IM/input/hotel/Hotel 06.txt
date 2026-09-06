@@ -1,0 +1,25 @@
+[SYSTEM][neutral][slow]
+Tell me about a hotel you would like to stay at in the future.
+
+Where is it?
+Why do you want to stay there?
+
+[USER][excited][slow]
+I'd love to stay at a traditional hotel in Japan someday. <pause:0.8>
+
+I've always wanted to visit Japan, especially during the cherry blossom season. <pause:0.8>
+
+[USER][happy][slow]
+I like the idea of staying in a hotel with hot spring facilities and traditional Japanese-style rooms. <pause:0.8>
+
+I think it would be a unique and relaxing experience. <pause:0.8>
+
+[USER][excited][slow]
+I'd love to stay there with my wife, enjoy the hot springs, try local food, and explore nearby attractions. <pause:0.8>
+
+It would be a perfect break from my busy work schedule. <pause:0.8>
+
+[USER][warm][slow]
+I hope I'll have the chance to stay there someday. <pause:0.8>
+
+I think it would be one of the most memorable trips of my life. <pause:0.8>

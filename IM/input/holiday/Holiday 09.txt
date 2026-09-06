@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+Call a travel agency and ask about a holiday package.
+
+Ask about destinations, prices, and services.
+
+[USER][polite][slow]
+Hello. <pause:0.5>
+
+I'd like to ask about your holiday packages for next month. <pause:0.8>
+
+My wife and I are planning a short vacation. <pause:0.8>
+
+[USER][curious][slow]
+What destinations do you have available? <pause:0.8>
+
+I'm interested in beach destinations like Da Nang or Nha Trang. <pause:0.8>
+
+How much do those packages cost? <pause:0.8>
+
+[USER][curious][slow]
+What services are included? <pause:0.8>
+
+Do the packages include flights, hotels, and airport transfers? <pause:0.8>
+
+Are any sightseeing tours included? <pause:0.8>
+
+[USER][warm][slow]
+That sounds great. <pause:0.5>
+
+Thanks for your help. <pause:0.8>
+
+I'll discuss it with my wife and get back to you soon. <pause:0.8>

@@ -1,0 +1,30 @@
+[SYSTEM][neutral][slow]
+Call a restaurant and ask about a menu item.
+
+[USER][polite][slow]
+Hello. <pause:0.5>
+
+I'm planning to visit your restaurant this weekend. <pause:0.8>
+
+I'd like to ask about your seafood menu. <pause:0.8>
+
+[USER][curious][slow]
+What seafood dish would you recommend? <pause:0.8>
+
+Do you use fresh local seafood? <pause:0.8>
+
+Do you have any special seafood dishes this week? <pause:0.8>
+
+[USER][curious][slow]
+That sounds good. <pause:0.5>
+
+Is that dish large enough for two people to share? <pause:0.8>
+
+And how much does it cost? <pause:0.8>
+
+[USER][warm][slow]
+Great. <pause:0.5>
+
+Thanks for your help. <pause:0.8>
+
+I'm looking forward to trying it this weekend. <pause:0.8>

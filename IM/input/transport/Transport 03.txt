@@ -1,0 +1,25 @@
+[SYSTEM][neutral][slow]
+Tell me about a memorable transportation experience.
+
+What happened?
+Why was it memorable?
+
+[USER][calm][slow]
+One memorable transportation experience happened on my way to work. <pause:0.8>
+
+I left home at the usual time and rode my motorbike to the office. <pause:0.8>
+
+[USER][surprised][slow]
+Suddenly, I got stuck in a huge traffic jam. <pause:0.8>
+
+There had been an accident, so the road was almost completely blocked. <pause:0.8>
+
+[USER][worried][slow]
+I was worried because I had an important meeting that morning. <pause:0.8>
+
+Luckily, I found another route on my phone and managed to get to work just in time. <pause:0.8>
+
+[USER][relieved][slow]
+I was really relieved when I finally arrived at the office. <pause:0.8>
+
+Since then, I always check the traffic before leaving home. <pause:0.8>

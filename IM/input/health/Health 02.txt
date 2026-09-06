@@ -1,0 +1,22 @@
+[SYSTEM][neutral][slow]
+Tell me about the last time you exercised.
+
+What did you do?
+Where did you do it?
+How did you feel?
+
+[USER][happy][slow]
+The last time I exercised was last weekend, when I went jogging at Hoa Binh Park with a few colleagues. <pause:0.8>
+
+We had been planning it for a few days, so I was really looking forward to it. <pause:0.8>
+
+[USER][happy][slow]
+The weather was cool and sunny, so we jogged around the lake for about forty minutes while chatting. <pause:0.8>
+
+Afterward, we sat down for a while, had some drinks, and talked before heading home. <pause:0.8>
+
+[USER][relieved][slow]
+I was a little tired, but I felt refreshed and forgot about all the stress from work. <pause:0.8>
+
+[USER][warm][slow]
+That's why I enjoy exercising outdoors and try to do it every week. <pause:0.8>

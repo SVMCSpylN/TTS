@@ -1,0 +1,35 @@
+[SYSTEM][neutral][slow]
+Call a clothing store and ask about an item you want to buy.
+
+Ask about the size, color, and price.
+
+[USER][polite][slow]
+Hello. <pause:0.5>
+
+I'm interested in buying a jacket from your store. <pause:0.8>
+
+Do you have it in a medium size? <pause:0.8>
+
+[USER][curious][slow]
+Great. <pause:0.5>
+
+What colors do you have available? <pause:0.8>
+
+Do you have it in black? <pause:0.8>
+
+[USER][curious][slow]
+That sounds good. <pause:0.5>
+
+How much is the jacket? <pause:0.8>
+
+Are there any discounts or promotions available? <pause:0.8>
+
+[USER][polite][slow]
+Can I come to the store and try it on? <pause:0.8>
+
+Could you keep the black one for me until this evening? <pause:0.8>
+
+[USER][warm][slow]
+Perfect. <pause:0.5>
+
+Thanks for your help. <pause:0.8>

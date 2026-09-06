@@ -1,0 +1,26 @@
+[SYSTEM][neutral][slow]
+Tell me about a holiday you would like to have in the future.
+
+Where would you like to go?
+What would you do there?
+Why do you want to go?
+
+[USER][excited][slow]
+I'd love to spend a holiday in Japan someday. <pause:0.8>
+
+I've wanted to visit it for many years because of its beautiful scenery, unique culture, and amazing food. <pause:0.8>
+
+[USER][happy][slow]
+I'd like to visit Tokyo, Kyoto, and Mount Fuji. <pause:0.8>
+
+I also want to try authentic Japanese food and experience local traditions. <pause:0.8>
+
+[USER][excited][slow]
+If possible, I'd love to see the cherry blossoms in spring and walk through the parks with my wife. <pause:0.8>
+
+I think it would be a beautiful and unforgettable experience. <pause:0.8>
+
+[USER][warm][slow]
+I hope I can make that trip someday. <pause:0.8>
+
+I'm sure it would become one of the most memorable holidays of my life. <pause:0.8>

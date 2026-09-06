@@ -1,0 +1,26 @@
+[SYSTEM][neutral][slow]
+You indicated in the survey that you are interested in home appliances.
+
+Tell me about the home appliances in your home.
+
+What appliances do you have?
+Which ones do you use most often?
+Why are they important?
+
+[USER][warm][medium]
+That's a great question. <pause:0.3>
+
+I have many home appliances that make my daily life much more convenient. <pause:0.8>
+
+[USER][happy][medium]
+Some of the main ones are a TV, an air conditioner, a refrigerator, a washing machine, and several speakers. <pause:0.8>
+
+I use the air conditioner and the TV the most. <pause:0.8>
+
+[USER][calm][medium]
+The air conditioner is essential because summers in Hanoi are very hot. <pause:0.8>
+
+I also watch TV almost every evening to enjoy movies or the news. <pause:0.8>
+
+[USER][warm][slow]
+These appliances save me time and make my daily life much more comfortable. <pause:0.8>

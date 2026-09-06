@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+You bought movie tickets, but there is a problem.
+
+Call the cinema and explain the situation.
+
+[USER][concerned][slow]
+Hello. <pause:0.5>
+
+I bought two movie tickets online earlier today, but there's a problem with my reservation. <pause:0.8>
+
+I wanted tickets for the evening show, but I accidentally booked the afternoon show. <pause:0.8>
+
+[USER][worried][slow]
+Unfortunately, I have to work in the afternoon, so I can't make it. <pause:0.8>
+
+Could I change my tickets to an evening show instead? <pause:0.8>
+
+[USER][curious][slow]
+Seven o'clock is available? <pause:0.5>
+
+That works perfectly for me. <pause:0.8>
+
+Is there any extra fee for changing the tickets? <pause:0.8>
+
+[USER][relieved][slow]
+No extra fee? <pause:0.5>
+
+That's great. <pause:0.8>
+
+Please change my tickets to the seven o'clock show. <pause:0.8>
+
+Thanks for your help. <pause:0.8>

@@ -1,0 +1,31 @@
+[SYSTEM][neutral][slow]
+Tell me about what you usually do at a park.
+
+Who do you go with?
+What activities do you enjoy?
+
+[USER][warm][medium]
+I usually go to Hoa Binh Park after work or on weekends. <pause:0.8>
+
+I usually go there with my coworkers. <pause:0.8>
+
+We like to exercise and relax together. <pause:0.8>
+
+[USER][happy][medium]
+We usually walk around the lake and chat for a while. <pause:0.8>
+
+Sometimes we go jogging together. <pause:0.8>
+
+I usually jog two laps around the lake. <pause:0.8>
+
+[USER][calm][medium]
+Sometimes I go by myself. <pause:0.8>
+
+I listen to music and enjoy the fresh air. <pause:0.8>
+
+It helps me relax after work. <pause:0.8>
+
+[USER][warm][slow]
+I really enjoy spending time at the park. <pause:0.8>
+
+I always go home feeling relaxed and refreshed. <pause:0.8>

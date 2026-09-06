@@ -1,0 +1,26 @@
+[SYSTEM][neutral][slow]
+Tell me about your most recent appointment.
+
+What was it for?
+When was it?
+What happened?
+
+[USER][calm][slow]
+My most recent appointment was a health check at a clinic last Saturday morning. <pause:0.8>
+
+I made the appointment a few days earlier. <pause:0.8>
+
+[USER][calm][slow]
+I arrived about fifteen minutes early, and a nurse checked my height, weight, and blood pressure. <pause:0.8>
+
+Then I waited to see the doctor. <pause:0.8>
+
+[USER][happy][slow]
+The doctor asked me a few questions and gave me some advice about eating healthy, exercising, and getting enough sleep. <pause:0.8>
+
+Everything looked fine, so I was relieved. <pause:0.8>
+
+[USER][warm][slow]
+The whole visit took about an hour, and everything went smoothly. <pause:0.8>
+
+I was really happy with the service. <pause:0.8>

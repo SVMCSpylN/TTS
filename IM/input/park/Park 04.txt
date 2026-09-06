@@ -1,0 +1,33 @@
+[SYSTEM][neutral][slow]
+Tell me about a memorable experience you had at a park.
+
+What happened?
+Why was it memorable?
+
+[USER][calm][medium]
+One time, I had an accident at Hoa Binh Park. <pause:0.8>
+
+I was jogging there with a few coworkers one weekend morning. <pause:0.8>
+
+Everything was going well at first. <pause:0.8>
+
+[USER][surprised][medium]
+Then I tripped over a small stone and fell down. <pause:0.8>
+
+It happened so fast that everyone was surprised. <pause:0.8>
+
+I scratched my leg, and it was bleeding a little. <pause:0.8>
+
+[USER][worried][medium]
+Luckily, it wasn't too serious. <pause:0.8>
+
+My coworkers helped me up, cleaned the cut, and gave me some water. <pause:0.8>
+
+After that, they took me home. <pause:0.8>
+
+[USER][warm][slow]
+I felt much better after about a week. <pause:0.8>
+
+I still remember that day because my coworkers were so kind and helpful. <pause:0.8>
+
+Since then, I've been more careful when I go jogging. <pause:0.8>

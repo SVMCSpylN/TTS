@@ -1,0 +1,34 @@
+[SYSTEM][neutral][slow]
+Your trip has been delayed.
+
+Call your friend and explain the situation.
+
+[USER][concerned][medium]
+Hello, Nam. <pause:0.5>
+
+I'm calling about our trip to Da Nang. <pause:0.8>
+
+Our flight has been delayed because of the weather. <pause:0.8>
+
+Now it's leaving this afternoon instead of this morning. <pause:0.8>
+
+[USER][worried][medium]
+I know this changes our plan for today. <pause:0.8>
+
+We probably won't have time to visit Son Tra Peninsula. <pause:0.8>
+
+I hope the flight isn't delayed again. <pause:0.8>
+
+[USER][cooperative][medium]
+The airline said they'll give us another update soon. <pause:0.8>
+
+Let's wait until we hear from them. <pause:0.8>
+
+How about going to Son Tra Peninsula tomorrow instead? <pause:0.8>
+
+[USER][warm][slow]
+That sounds good. <pause:0.5>
+
+Thanks for understanding. <pause:0.8>
+
+I'll let you know as soon as I hear anything. <pause:0.8>

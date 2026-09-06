@@ -1,0 +1,28 @@
+[SYSTEM][neutral][slow]
+Ask Eva about her favorite hotel.
+
+[USER][curious][slow]
+Hello. <pause:0.5>
+
+Can I ask you a few questions about your favorite hotel? <pause:0.8>
+
+Where is it located? <pause:0.8>
+
+What do you like most about it? <pause:0.8>
+
+[USER][curious][slow]
+What facilities does it offer? <pause:0.8>
+
+Does it have a swimming pool, a fitness center, or a restaurant? <pause:0.8>
+
+How was the service there? <pause:0.8>
+
+[USER][curious][slow]
+What was your favorite part of staying there? <pause:0.8>
+
+Would you stay there again? <pause:0.8>
+
+Would you recommend it to your friends or family? <pause:0.8>
+
+[USER][warm][slow]
+Thanks for sharing. <pause:0.8>

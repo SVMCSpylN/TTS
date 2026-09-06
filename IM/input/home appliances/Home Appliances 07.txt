@@ -1,0 +1,28 @@
+[SYSTEM][neutral][slow]
+Ask Eva about her favorite home appliance.
+
+[USER][curious][slow]
+Hello. <pause:0.5>
+
+Can I ask you a few questions about your favorite home appliance? <pause:0.8>
+
+Which appliance do you use most often? <pause:0.8>
+
+Why do you like it so much? <pause:0.8>
+
+[USER][curious][slow]
+How often do you use it? <pause:0.8>
+
+What do you usually use it for? <pause:0.8>
+
+Does anyone else in your family use it? <pause:0.8>
+
+[USER][curious][slow]
+Has it changed your daily life in any way? <pause:0.8>
+
+What would you do if it suddenly stopped working? <pause:0.8>
+
+Would you repair it or buy a new one? <pause:0.8>
+
+[USER][warm][slow]
+Thanks for sharing. <pause:0.8>

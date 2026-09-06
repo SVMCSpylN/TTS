@@ -1,0 +1,26 @@
+[SYSTEM][neutral][slow]
+Tell me about your daily commute.
+
+How do you get to work?
+How long does it take?
+What is the trip like?
+
+[USER][calm][slow]
+I usually go to work by motorbike on weekdays. <pause:0.8>
+
+It normally takes me about thirty minutes to get there. <pause:0.8>
+
+[USER][happy][slow]
+Before I leave, I usually check the traffic on my phone. <pause:0.8>
+
+If there is heavy traffic, I take a different route to save time. <pause:0.8>
+
+[USER][concerned][slow]
+Traffic in Hanoi can be really bad during rush hour. <pause:0.8>
+
+Sometimes the roads are crowded, and I have to move very slowly. <pause:0.8>
+
+[USER][warm][slow]
+Even though commuting can be tiring, I'm used to it now. <pause:0.8>
+
+I just try to leave home early and avoid the busiest roads. <pause:0.8>

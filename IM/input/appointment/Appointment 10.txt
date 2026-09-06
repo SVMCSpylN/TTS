@@ -1,0 +1,34 @@
+[SYSTEM][neutral][slow]
+Call a clinic and make an appointment.
+
+Ask several questions and choose a suitable time.
+
+[USER][polite][slow]
+Hello. <pause:0.5>
+
+I'd like to make an appointment for a health check. <pause:0.8>
+
+Do you have any openings this Saturday? <pause:0.8>
+
+[USER][curious][slow]
+Saturday morning is full? <pause:0.5>
+
+What about the afternoon? <pause:0.8>
+
+Is two o'clock available? <pause:0.8>
+
+[USER][polite][slow]
+That works for me. <pause:0.5>
+
+I'd like to book that time, please. <pause:0.8>
+
+My name is J, and here's my phone number. <pause:0.8>
+
+Do I need to bring anything? <pause:0.8>
+
+[USER][warm][slow]
+Okay. I'll bring my ID and arrive a little early. <pause:0.8>
+
+Thanks for your help. <pause:0.8>
+
+See you on Saturday. <pause:0.8>

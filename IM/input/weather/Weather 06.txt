@@ -1,0 +1,30 @@
+[SYSTEM][neutral][slow]
+How does the weather affect your daily activities?
+
+Give me some examples.
+
+[USER][calm][medium]
+The weather affects what I do every day. <pause:0.8>
+
+It changes what I wear and what I do after work. <pause:0.8>
+
+That's why I usually check the weather before I leave home. <pause:0.8>
+
+[USER][happy][medium]
+When the weather is cool and sunny, I like being outside. <pause:0.8>
+
+I usually go to Hoa Binh Park to walk or go for a jog. <pause:0.8>
+
+Sometimes I also meet my friends or go shopping with my wife. <pause:0.8>
+
+[USER][calm][medium]
+If it's very hot or raining, I usually stay indoors. <pause:0.8>
+
+I watch TV, listen to music, or go to the gym instead. <pause:0.8>
+
+Heavy rain can also make it take much longer to get to work. <pause:0.8>
+
+[USER][warm][slow]
+I can't change the weather, but I can change my plans. <pause:0.8>
+
+That makes my day a lot easier. <pause:0.8>

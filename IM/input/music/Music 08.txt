@@ -1,0 +1,28 @@
+[SYSTEM][neutral][slow]
+Ask Eva about her favorite music.
+
+[USER][curious][slow]
+Hello. <pause:0.5>
+
+Can I ask you a few questions about music? <pause:0.8>
+
+What kind of music do you like? <pause:0.8>
+
+Who is your favorite singer? <pause:0.8>
+
+[USER][curious][slow]
+How often do you listen to music? <pause:0.8>
+
+When do you usually listen to it? <pause:0.8>
+
+Where do you usually listen to music? <pause:0.8>
+
+[USER][curious][slow]
+Do you have a favorite song? <pause:0.8>
+
+Why do you like it so much? <pause:0.8>
+
+Why do you enjoy listening to music? <pause:0.8>
+
+[USER][warm][slow]
+Thanks for sharing. <pause:0.8>

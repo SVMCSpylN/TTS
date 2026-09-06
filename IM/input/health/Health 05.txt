@@ -1,0 +1,21 @@
+[SYSTEM][neutral][slow]
+Compare healthy lifestyles in the past and nowadays.
+
+What differences do you notice?
+Which do you prefer?
+
+[USER][calm][slow]
+I think people live healthier lives in some ways today, but things were different in the past. <pause:0.8>
+
+In the past, people were more active because they walked more and did more physical work. <pause:0.8>
+
+[USER][calm][slow]
+Today, many people spend most of the day sitting at work. <pause:0.8>
+
+However, it's much easier to find information about healthy food and exercise online. <pause:0.8>
+
+[USER][happy][slow]
+We also have fitness apps and smart watches that help us keep track of our health. <pause:0.8>
+
+[USER][warm][slow]
+Personally, I prefer today's lifestyle because we have more useful tools to stay healthy, as long as we remember to exercise regularly. <pause:0.8>

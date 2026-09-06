@@ -1,0 +1,29 @@
+[SYSTEM][neutral][slow]
+Tell me about a memorable music experience.
+
+What happened?
+Why was it memorable?
+
+[USER][excited][slow]
+One of my most memorable music experiences happened several years ago. <pause:0.8>
+
+My company organized a large event for new employees. <pause:0.8>
+
+Several famous singers were invited to perform, including my favorite artist, Binz. <pause:0.8>
+
+[USER][excited][slow]
+I had listened to his music for years, so I was really excited to see him perform in person. <pause:0.8>
+
+The performance was amazing, and everyone was singing along and having a great time. <pause:0.8>
+
+[USER][surprised][slow]
+The best part came after the show. <pause:0.8>
+
+I was lucky enough to take a photo with Binz. <pause:0.8>
+
+I never expected that to happen, so I was really surprised and happy. <pause:0.8>
+
+[USER][warm][slow]
+Even today, I still remember that experience clearly. <pause:0.8>
+
+That's why it's one of my favorite memories involving music. <pause:0.8>

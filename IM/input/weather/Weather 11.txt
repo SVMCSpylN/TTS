@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+Call your friend and invite him to do an outdoor activity.
+
+Explain your plan and mention the weather.
+
+[USER][warm][medium]
+Hello, Nam. <pause:0.5>
+
+How are you doing? <pause:0.8>
+
+The weather looks really nice this Saturday. <pause:0.8>
+
+Do you want to go to Hoa Binh Park with me? <pause:0.8>
+
+[USER][happy][medium]
+Great! <pause:0.5>
+
+We can walk around the lake and go for a jog. <pause:0.8>
+
+After that, we can grab a drink and relax for a while. <pause:0.8>
+
+[USER][warm][medium]
+How about meeting at the main entrance at four? <pause:0.8>
+
+It should be cooler then. <pause:0.8>
+
+Does that work for you? <pause:0.8>
+
+[USER][warm][slow]
+Don't forget to bring some water. <pause:0.8>
+
+See you on Saturday. <pause:0.8>

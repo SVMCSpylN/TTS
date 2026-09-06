@@ -1,0 +1,29 @@
+[SYSTEM][neutral][slow]
+You indicated in the survey that you are interested in furniture.
+
+Tell me about your favorite piece of furniture.
+
+What is it?
+Where is it located?
+Why do you like it?
+How often do you use it?
+
+[USER][warm][slow]
+That's a great question. <pause:0.5>
+
+My favorite piece of furniture is my bed, which is in my bedroom on the second floor. <pause:0.8>
+
+[USER][happy][slow]
+It's large, comfortable, and has a soft mattress with comfortable pillows. <pause:0.8>
+
+After a long day at work, I can't wait to lie down and relax. <pause:0.8>
+
+[USER][calm][slow]
+I use it every day, not just for sleeping but also for watching videos, listening to music, or browsing the Internet. <pause:0.8>
+
+It's probably the most comfortable place in my house. <pause:0.8>
+
+[USER][warm][slow]
+A good night's sleep helps me feel ready for the next day. <pause:0.8>
+
+That's why my bed is my favorite piece of furniture. <pause:0.8>

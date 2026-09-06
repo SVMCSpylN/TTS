@@ -1,0 +1,24 @@
+[SYSTEM][neutral][slow]
+Tell me about the kinds of appointments you usually make.
+
+What appointments do you make?
+Who are they with?
+Why do you make them?
+
+[USER][calm][slow]
+I usually make appointments for health care, work, or personal services. <pause:0.8>
+
+For example, I make appointments with my doctor, dentist, or barber. <pause:0.8>
+
+[USER][calm][slow]
+I see my doctor for regular checkups and my dentist when I need my teeth cleaned or have a tooth problem. <pause:0.8>
+
+I also book a haircut every couple of months. <pause:0.8>
+
+[USER][happy][slow]
+At work, I often schedule meetings with my teammates to discuss our projects and solve problems together. <pause:0.8>
+
+I always save my appointments on my phone so I don't forget them. <pause:0.8>
+
+[USER][warm][slow]
+Making appointments helps me save time and stay organized. <pause:0.8>

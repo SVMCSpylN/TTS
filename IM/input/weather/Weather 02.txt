@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+Tell me about the weather where you live.
+
+How many seasons are there?
+What is each season like?
+Which season do you like most?
+
+[USER][calm][medium]
+I live in Hanoi, and we have four seasons every year. <pause:0.8>
+
+They are spring, summer, autumn, and winter. <pause:0.8>
+
+The weather is quite different in each season. <pause:0.8>
+
+[USER][calm][medium]
+Spring is warm, and it rains quite often. <pause:0.8>
+
+Summer is very hot, and we sometimes get heavy rain. <pause:0.8>
+
+Winter is cold, especially in the morning and at night. <pause:0.8>
+
+[USER][happy][medium]
+My favorite season is autumn. <pause:0.8>
+
+The weather is cool and comfortable, so it's nice to be outside. <pause:0.8>
+
+I like going for a walk and enjoying the fresh air. <pause:0.8>
+
+[USER][warm][slow]
+I always look forward to autumn every year. <pause:0.8>
+
+It's my favorite time to spend time outdoors. <pause:0.8>

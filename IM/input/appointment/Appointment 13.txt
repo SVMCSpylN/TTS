@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+You arrive for an appointment, but the staff cannot find your reservation.
+
+Explain the problem and ask for a solution.
+
+[USER][concerned][slow]
+Hello. <pause:0.5>
+
+I'm here for my ten o'clock health check. <pause:0.8>
+
+But you can't seem to find my appointment. <pause:0.8>
+
+I'm sure I booked it earlier this week. <pause:0.8>
+
+[USER][worried][slow]
+I even got a confirmation message yesterday. <pause:0.8>
+
+Could you check again using my phone number? <pause:0.8>
+
+[USER][cooperative][slow]
+You still can't find it? <pause:0.5>
+
+Is there another doctor who can see me this morning? <pause:0.8>
+
+I took the day off for this appointment. <pause:0.8>
+
+[USER][relieved][slow]
+Ten thirty works for me. <pause:0.5>
+
+Thanks for your help. <pause:0.8>
+
+I'll wait here. <pause:0.8>

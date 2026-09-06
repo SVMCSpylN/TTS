@@ -1,0 +1,22 @@
+[SYSTEM][neutral][slow]
+Are you usually on time for appointments?
+
+Why is being on time important?
+
+[USER][calm][slow]
+I usually arrive a little early because I don't like keeping people waiting. <pause:0.8>
+
+I always leave home early, especially if I have an important appointment. <pause:0.8>
+
+[USER][calm][slow]
+I think being on time shows respect for other people's time. <pause:0.8>
+
+If you're late, it can affect other people's schedules too. <pause:0.8>
+
+[USER][concerned][slow]
+Traffic in Hanoi can be really bad, so I always check the traffic before I leave. <pause:0.8>
+
+If I think I'm going to be late, I call them as soon as possible. <pause:0.8>
+
+[USER][warm][slow]
+Of course, unexpected things can happen, but I always try my best to be on time. <pause:0.8>

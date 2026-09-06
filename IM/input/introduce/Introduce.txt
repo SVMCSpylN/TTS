@@ -1,0 +1,25 @@
+[SYSTEM][neutral][slow]
+Please introduce yourself.
+
+[USER][warm][slow]
+Hello. <pause:0.5>
+
+My name is J, and I live in Hanoi, Vietnam. <pause:0.8>
+
+I'm a software engineer, and I've been doing this job for several years. <pause:0.8>
+
+I enjoy my work because I like solving problems. <pause:0.8>
+
+[USER][happy][slow]
+In my free time, I like going to Hoa Binh Park, listening to music, and watching movies. <pause:0.8>
+
+I also enjoy traveling with my wife whenever we have time. <pause:0.8>
+
+I usually go jogging or to the gym to stay healthy. <pause:0.8>
+
+[USER][warm][slow]
+That's a little about me. <pause:0.8>
+
+I'm happy to share my stories with you today. <pause:0.8>
+
+Thank you. <pause:0.8>

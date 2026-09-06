@@ -1,0 +1,28 @@
+[SYSTEM][neutral][slow]
+You are not feeling well.
+
+Call a clinic and explain the situation.
+
+[USER][concerned][slow]
+Hello. <pause:0.5>
+
+I'd like to make an appointment because I haven't been feeling well. <pause:0.8>
+
+I've been feeling very tired and low on energy for the past few days. <pause:0.8>
+
+[USER][worried][slow]
+I've also had trouble concentrating at work. <pause:0.8>
+
+Could you tell me your earliest available appointment? <pause:0.8>
+
+[USER][polite][slow]
+Would it be possible to see a doctor sometime this week? <pause:0.8>
+
+Do I need to prepare anything before I come? <pause:0.8>
+
+[USER][warm][slow]
+That sounds good. <pause:0.5>
+
+Thanks for your help. <pause:0.8>
+
+See you soon. <pause:0.8>

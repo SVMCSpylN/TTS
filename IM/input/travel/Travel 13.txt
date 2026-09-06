@@ -1,0 +1,38 @@
+[SYSTEM][neutral][slow]
+You booked a ticket, but there is a problem.
+
+Call and explain the situation.
+
+[USER][concerned][medium]
+Hello. <pause:0.5>
+
+I'm calling about my flight booking. <pause:0.8>
+
+I booked two tickets from Hanoi to Da Nang for next Saturday. <pause:0.8>
+
+But my confirmation email says Sunday instead. <pause:0.8>
+
+[USER][worried][medium]
+I'm sure I booked the tickets for Saturday. <pause:0.8>
+
+We've already booked our hotel, so this is a big problem. <pause:0.8>
+
+Could you check my booking, please? <pause:0.8>
+
+[USER][cooperative][medium]
+You found it? <pause:0.5>
+
+Great, thanks. <pause:0.8>
+
+Could you change both tickets to Saturday morning? <pause:0.8>
+
+Is there a change fee? <pause:0.8>
+
+[USER][relieved][slow]
+No change fee? <pause:0.5>
+
+That's great. <pause:0.8>
+
+Could you send me a new confirmation email? <pause:0.8>
+
+Thanks for your help. <pause:0.8>

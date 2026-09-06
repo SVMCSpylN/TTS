@@ -1,0 +1,30 @@
+[SYSTEM][neutral][slow]
+Tell me about a place you would like to visit in the future.
+
+Where is it?
+Why do you want to go there?
+What would you like to do?
+
+[USER][excited][medium]
+I'd really like to visit Japan someday. <pause:0.8>
+
+I've always been interested in Japanese food, culture, and technology. <pause:0.8>
+
+That's why it's at the top of my travel list. <pause:0.8>
+
+[USER][happy][medium]
+I'd like to visit Tokyo, Kyoto, and Osaka. <pause:0.8>
+
+I want to walk around the city, visit some famous places, and try the local food. <pause:0.8>
+
+I'd also like to do a little shopping there. <pause:0.8>
+
+[USER][excited][medium]
+If I go in the spring, I'd love to see the cherry blossoms. <pause:0.8>
+
+I think that would be a really special experience. <pause:0.8>
+
+[USER][warm][slow]
+I hope I can visit Japan with my wife someday. <pause:0.8>
+
+I'm sure we'd have a great time together. <pause:0.8>

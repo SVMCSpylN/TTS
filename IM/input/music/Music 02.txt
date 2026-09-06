@@ -1,0 +1,27 @@
+[SYSTEM][neutral][slow]
+Tell me about your favorite singer.
+
+Who is it?
+Why do you like him or her?
+
+[USER][warm][slow]
+My favorite singer is Binz. <pause:0.8>
+
+He's a popular rapper and performer in Vietnam. <pause:0.8>
+
+I've been listening to his music for many years. <pause:0.8>
+
+[USER][happy][slow]
+I first heard his music when some of my friends recommended his songs to me. <pause:0.8>
+
+I really liked his music, so I started listening to more of his songs. <pause:0.8>
+
+[USER][happy][slow]
+What I like most about Binz is his unique voice and style. <pause:0.8>
+
+His songs are creative, and he is also a talented songwriter. <pause:0.8>
+
+[USER][warm][slow]
+Even after many years, I still enjoy listening to his music. <pause:0.8>
+
+That's why Binz is still my favorite singer. <pause:0.8>

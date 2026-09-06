@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+You indicated in the survey that you enjoy traveling domestically.
+
+Tell me about a place you enjoy visiting.
+
+Where is it located?
+What does it look like?
+Why do you like it?
+
+[USER][warm][medium]
+My favorite place to visit in Vietnam is Da Nang. <pause:0.8>
+
+It's a city in central Vietnam by the sea. <pause:0.8>
+
+I've been there a few times, and I always enjoy going back. <pause:0.8>
+
+[USER][happy][medium]
+Da Nang is famous for its beaches and seafood. <pause:0.8>
+
+My Khe Beach is my favorite because it's clean and beautiful. <pause:0.8>
+
+The city is also quieter than Hanoi. <pause:0.8>
+
+[USER][calm][medium]
+When I'm there, I usually walk along the beach and try the local food. <pause:0.8>
+
+I also like visiting Son Tra Peninsula, Linh Ung Pagoda, and the Dragon Bridge. <pause:0.8>
+
+[USER][warm][slow]
+I like Da Nang because it's a great place to relax. <pause:0.8>
+
+I always come back feeling refreshed. <pause:0.8>

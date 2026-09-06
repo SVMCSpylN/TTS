@@ -1,0 +1,24 @@
+[SYSTEM][neutral][slow]
+Compare fashion in the past and fashion nowadays.
+
+What differences do you notice?
+
+[USER][calm][slow]
+Fashion today is quite different from fashion in the past. <pause:0.8>
+
+In the past, people had fewer choices when buying clothes. <pause:0.8>
+
+They usually bought clothes at local stores or markets. <pause:0.8>
+
+[USER][happy][slow]
+Nowadays, there are many more styles and brands to choose from. <pause:0.8>
+
+People can also shop online and buy clothes without leaving home. <pause:0.8>
+
+[USER][calm][slow]
+Another big difference is that fashion trends change much faster today. <pause:0.8>
+
+People can easily see new styles on the Internet and social media. <pause:0.8>
+
+[USER][warm][slow]
+I think buying clothes today is much easier and more convenient than it was in the past. <pause:0.8>

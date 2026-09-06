@@ -1,0 +1,27 @@
+[SYSTEM][neutral][slow]
+Compare furniture nowadays and furniture in the past.
+
+What differences do you notice?
+Which do you prefer?
+
+[USER][calm][slow]
+I think furniture today is quite different from the furniture people used in the past. <pause:0.8>
+
+In the past, most furniture was simple, heavy, and made to last a long time. <pause:0.8>
+
+People didn't care as much about the design. <pause:0.8>
+
+[USER][calm][slow]
+These days, furniture looks much more modern and is designed to save space. <pause:0.8>
+
+For example, some beds have storage under them, and some tables can be folded when you're not using them. <pause:0.8>
+
+[USER][happy][slow]
+I think that's really useful, especially for people who live in apartments. <pause:0.8>
+
+Modern furniture is also more comfortable and looks nicer. <pause:0.8>
+
+[USER][warm][slow]
+Personally, I prefer modern furniture because it's practical and fits my lifestyle better. <pause:0.8>
+
+If I buy new furniture in the future, I'll definitely choose a modern style. <pause:0.8>

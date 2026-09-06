@@ -1,0 +1,22 @@
+[SYSTEM][neutral][slow]
+How do you usually make an appointment?
+
+Describe the process in detail.
+
+[USER][calm][slow]
+I usually make appointments by phone or through an app. <pause:0.8>
+
+If it's a hospital or clinic, I usually call and ask what times are available. <pause:0.8>
+
+[USER][calm][slow]
+After I choose a time, I give them my name and phone number. <pause:0.8>
+
+The whole process only takes a few minutes. <pause:0.8>
+
+[USER][happy][slow]
+Some places also let me book online, so I can choose the date and time on my phone. <pause:0.8>
+
+Then I get a confirmation message. <pause:0.8>
+
+[USER][warm][slow]
+Finally, I save the appointment in my phone calendar so I don't forget it. <pause:0.8>

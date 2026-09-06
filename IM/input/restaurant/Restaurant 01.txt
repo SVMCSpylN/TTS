@@ -1,0 +1,28 @@
+[SYSTEM][neutral][slow]
+You indicated in the survey that you enjoy going to restaurants.
+
+Tell me about your favorite restaurant.
+
+Where is it?
+What kind of food does it serve?
+Why do you like it?
+
+[USER][warm][slow]
+My favorite restaurant is a Vietnamese restaurant near my home in Hanoi. <pause:0.8>
+
+I often go there with my wife or friends on weekends. <pause:0.8>
+
+[USER][happy][slow]
+It serves many traditional Vietnamese dishes, especially grilled food and hot pot. <pause:0.8>
+
+The food is delicious, fresh, and reasonably priced. <pause:0.8>
+
+[USER][calm][slow]
+I also like the restaurant because it's clean, comfortable, and not too noisy. <pause:0.8>
+
+The staff are always friendly and helpful. <pause:0.8>
+
+[USER][warm][slow]
+It's a great place to enjoy a relaxing meal with people I care about. <pause:0.8>
+
+That's why it's usually my first choice when I want to eat out. <pause:0.8>

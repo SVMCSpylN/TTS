@@ -1,0 +1,28 @@
+[SYSTEM][neutral][slow]
+Ask Eva about transportation.
+
+[USER][curious][slow]
+Hello. <pause:0.5>
+
+Can I ask you a few questions about transportation? <pause:0.8>
+
+How do you usually get around your city? <pause:0.8>
+
+How do you usually get to work? <pause:0.8>
+
+[USER][curious][slow]
+How long does your daily commute take? <pause:0.8>
+
+Do you often use public transportation? <pause:0.8>
+
+What kind of transportation do you prefer? <pause:0.8>
+
+[USER][curious][slow]
+Is traffic a problem where you live? <pause:0.8>
+
+What do you usually do when there's heavy traffic? <pause:0.8>
+
+Do you think public transportation should be improved? <pause:0.8>
+
+[USER][warm][slow]
+Thanks for sharing. <pause:0.8>

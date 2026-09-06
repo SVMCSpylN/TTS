@@ -1,0 +1,33 @@
+[SYSTEM][neutral][slow]
+Tell me about a home you would like to live in in the future.
+
+What would it be like?
+Why would you like to live there?
+
+[USER][excited][slow]
+In the future, I'd love to live in a larger house with more outdoor space. <pause:0.8>
+
+Although I'm happy with my current home, I sometimes imagine what my ideal house would look like. <pause:0.8>
+
+[USER][happy][slow]
+I'd like to have a small garden where I could grow plants and enjoy fresh air. <pause:0.8>
+
+I'd also like a dedicated room for work and hobbies. <pause:0.8>
+
+Since I spend a lot of time working on a computer, having a comfortable home office would be very important to me. <pause:0.8>
+
+[USER][excited][slow]
+Another thing I'd enjoy is a quiet location away from heavy traffic. <pause:0.8>
+
+It would provide a more relaxing environment for daily life. <pause:0.8>
+
+I would love to wake up each morning surrounded by greenery and fresh air. <pause:0.8>
+
+[USER][warm][slow]
+At the same time, I'd still like the house to be close enough to the city for convenience. <pause:0.8>
+
+That way, I could enjoy both peace and accessibility. <pause:0.8>
+
+Although I'm happy with my current home, it's always nice to dream about future possibilities. <pause:0.8>
+
+I think a home like that would provide a wonderful quality of life.

@@ -1,0 +1,34 @@
+[SYSTEM][neutral][slow]
+Tell me about a memorable experience you had at home.
+
+What happened?
+Why was it memorable?
+How did you feel?
+
+[USER][excited][slow]
+One memorable experience happened shortly after I moved into my current house. <pause:0.8>
+
+Everything felt new and exciting. <pause:0.8>
+
+My wife and I were looking forward to starting a new chapter of our lives there. <pause:0.8>
+
+[USER][happy][slow]
+We spent several days arranging furniture, decorating rooms, and organizing our belongings. <pause:0.8>
+
+Although it was tiring, we enjoyed every moment of it. <pause:0.8>
+
+We carefully chose where everything should go and worked together to make the house feel comfortable. <pause:0.8>
+
+[USER][warm][slow]
+One evening, after finishing most of the work, we sat together in the living room and looked around the house. <pause:0.8>
+
+For the first time, it truly felt like home. <pause:0.8>
+
+We talked about our future plans and how we wanted to build many happy memories there. <pause:0.8>
+
+[USER][warm][slow]
+Even today, I still remember that feeling very clearly. <pause:0.8>
+
+It was a moment of happiness, pride, and excitement for the future. <pause:0.8>
+
+It remains one of the most meaningful memories I've ever had at home.

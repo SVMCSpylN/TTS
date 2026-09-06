@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+Ask Eva about the weather where she lives.
+
+[USER][curious][medium]
+Hello, Eva. <pause:0.5>
+
+Can I ask you a few questions about the weather where you live? <pause:0.8>
+
+How many seasons do you have? <pause:0.8>
+
+What's the weather like in each season? <pause:0.8>
+
+[USER][curious][medium]
+Which season do you like the most? <pause:0.8>
+
+What do you usually do during that season? <pause:0.8>
+
+Is there a season you don't like? <pause:0.8>
+
+[USER][curious][medium]
+Do you often get heavy rain, storms, or snow? <pause:0.8>
+
+Does the weather ever affect your daily plans? <pause:0.8>
+
+How do you usually prepare for bad weather? <pause:0.8>
+
+[USER][warm][slow]
+One last question. <pause:0.5>
+
+When do you think is the best time to visit your city? <pause:0.8>
+
+Thanks for sharing. <pause:0.8>

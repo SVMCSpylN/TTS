@@ -1,0 +1,25 @@
+[SYSTEM][neutral][slow]
+Tell me about public transportation in your city.
+
+What kinds of public transportation are available?
+Do you use them often?
+
+[USER][calm][slow]
+There are several kinds of public transportation in Hanoi. <pause:0.8>
+
+The most common ones are buses and the metro. <pause:0.8>
+
+[USER][happy][slow]
+Buses are available in many parts of the city and are quite affordable. <pause:0.8>
+
+The metro is also a convenient way to avoid traffic on some routes. <pause:0.8>
+
+[USER][calm][slow]
+However, I don't use public transportation very often. <pause:0.8>
+
+I usually ride my motorbike because it's more convenient for my daily commute. <pause:0.8>
+
+[USER][warm][slow]
+Still, I think public transportation is very important for a crowded city like Hanoi. <pause:0.8>
+
+It can help reduce traffic and make traveling around the city easier. <pause:0.8>

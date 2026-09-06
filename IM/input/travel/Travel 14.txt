@@ -1,0 +1,30 @@
+[SYSTEM][neutral][slow]
+Why do people travel?
+
+What benefits does travel provide?
+
+[USER][calm][medium]
+People travel for different reasons. <pause:0.8>
+
+Some people want to relax, and others just want a change of scenery. <pause:0.8>
+
+Many people also travel to spend time with their family or friends. <pause:0.8>
+
+[USER][happy][medium]
+Traveling is a great chance to see new places and try local food. <pause:0.8>
+
+People can also learn about different cultures and meet new people. <pause:0.8>
+
+Every trip is a little different, so it never gets boring. <pause:0.8>
+
+[USER][calm][medium]
+Traveling is also a good break from everyday life. <pause:0.8>
+
+After a few days away, people usually come home feeling more relaxed. <pause:0.8>
+
+That's one reason so many people enjoy traveling. <pause:0.8>
+
+[USER][warm][slow]
+For me, traveling is a great way to spend time with my wife and make good memories together. <pause:0.8>
+
+That's why I always look forward to my next trip. <pause:0.8>

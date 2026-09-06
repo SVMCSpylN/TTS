@@ -1,0 +1,25 @@
+[SYSTEM][neutral][slow]
+How often do you eat at restaurants?
+
+Who do you usually go with?
+What do you usually eat?
+
+[USER][warm][slow]
+I usually eat at restaurants once or twice a week. <pause:0.8>
+
+Most of the time, I go with my wife, friends, or colleagues. <pause:0.8>
+
+[USER][happy][slow]
+What I eat usually depends on who I'm with. <pause:0.8>
+
+With my wife, I often have Vietnamese food, barbecue, or hot pot. <pause:0.8>
+
+When I go out with my colleagues, we usually choose a restaurant that's good for large groups. <pause:0.8>
+
+[USER][calm][slow]
+I enjoy eating out because I don't have to cook or clean up afterward. <pause:0.8>
+
+It's also a nice chance to relax and spend time with other people. <pause:0.8>
+
+[USER][warm][slow]
+That's why I always enjoy going out for a meal. <pause:0.8>

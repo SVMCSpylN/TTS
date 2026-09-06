@@ -1,0 +1,26 @@
+[SYSTEM][neutral][slow]
+Tell me about the last movie you watched.
+
+What movie was it?
+Who did you watch it with?
+How was the experience?
+
+[USER][happy][slow]
+The last movie I watched was Aquaman. <pause:0.8>
+
+I went to see it with one of my close friends. <pause:0.8>
+
+[USER][excited][slow]
+Before the movie, we bought some popcorn and drinks. <pause:0.8>
+
+The movie was full of action and amazing visual effects. <pause:0.8>
+
+I especially enjoyed the underwater world and the exciting battle scenes. <pause:0.8>
+
+[USER][happy][slow]
+After the movie, we went to a nearby restaurant for dinner. <pause:0.8>
+
+We talked about our favorite scenes and shared our opinions about the movie. <pause:0.8>
+
+[USER][warm][slow]
+Overall, it was a really fun and enjoyable experience. <pause:0.8>

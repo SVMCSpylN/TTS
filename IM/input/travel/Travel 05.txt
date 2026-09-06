@@ -1,0 +1,30 @@
+[SYSTEM][neutral][slow]
+Before going on a trip, what do you usually do?
+
+How do you prepare?
+
+[USER][calm][medium]
+Before a trip, I usually make a simple plan. <pause:0.8>
+
+First, I decide where to go and how long I'll stay. <pause:0.8>
+
+Then I book my hotel and transportation online. <pause:0.8>
+
+[USER][happy][medium]
+I also look up some places to visit and good local restaurants. <pause:0.8>
+
+I don't plan everything, but I like to have a simple schedule. <pause:0.8>
+
+That makes the trip a lot easier. <pause:0.8>
+
+[USER][calm][medium]
+The day before I leave, I pack my clothes and other things I need. <pause:0.8>
+
+I also check the weather before I pack. <pause:0.8>
+
+Before I leave home, I make sure I have my tickets and ID. <pause:0.8>
+
+[USER][warm][slow]
+It doesn't take long to get ready. <pause:0.8>
+
+Then I can just relax and enjoy my trip. <pause:0.8>

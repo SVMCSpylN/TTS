@@ -1,0 +1,30 @@
+[SYSTEM][neutral][slow]
+Call a clinic and make an appointment.
+
+Ask for information and schedule a visit.
+
+[USER][polite][slow]
+Hello. <pause:0.5>
+
+I'd like to schedule a general health checkup. <pause:0.8>
+
+Do you have any morning appointments available this week? <pause:0.8>
+
+[USER][curious][slow]
+I'd prefer a morning appointment because I have to work afterward. <pause:0.8>
+
+Do I need to prepare anything before the checkup? <pause:0.8>
+
+Should I avoid eating or drinking beforehand? <pause:0.8>
+
+[USER][curious][slow]
+About how long will the checkup take? <pause:0.8>
+
+I'd like to book the earliest available morning appointment, please. <pause:0.8>
+
+[USER][polite][slow]
+Perfect. <pause:0.5>
+
+Thanks for your help. <pause:0.8>
+
+See you then. <pause:0.8>

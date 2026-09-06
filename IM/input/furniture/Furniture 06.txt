@@ -1,0 +1,37 @@
+[SYSTEM][neutral][slow]
+Call a furniture store and ask about a sofa.
+
+Ask about the product.
+Ask about the price.
+Ask about delivery.
+
+[USER][polite][slow]
+Hello. <pause:0.5>
+
+I'm looking for a sofa for my living room. <pause:0.8>
+
+I saw one on your website, and I'd like to ask a few questions. <pause:0.8>
+
+[USER][curious][slow]
+What size is it, and what material is it made of? <pause:0.8>
+
+How much is it? <pause:0.8>
+
+Do you have any discounts right now? <pause:0.8>
+
+[USER][curious][slow]
+What colors does it come in? <pause:0.8>
+
+Does it come with a warranty? <pause:0.8>
+
+[USER][polite][slow]
+How long does delivery usually take? <pause:0.8>
+
+Do you also set it up after delivery? <pause:0.8>
+
+[USER][warm][slow]
+Great. <pause:0.5>
+
+Thanks for your help. <pause:0.8>
+
+I'll talk to my wife and get back to you soon. <pause:0.8>

@@ -1,0 +1,27 @@
+[SYSTEM][neutral][slow]
+Tell me about a live movie-related event you attended.
+
+What happened?
+How did you feel?
+
+[USER][excited][slow]
+Several years ago, I attended a special movie screening with one of my friends. <pause:0.8>
+
+It was held at a large movie theater in Hanoi. <pause:0.8>
+
+There were a lot of people there, so the atmosphere was really exciting. <pause:0.8>
+
+[USER][happy][slow]
+Before the movie started, there were some fun activities and people were taking photos in front of the movie posters. <pause:0.8>
+
+We also received some small gifts from the event. <pause:0.8>
+
+[USER][excited][slow]
+When the movie finally started, everyone was excited and enjoyed watching it together. <pause:0.8>
+
+It felt very different from going to the movies on a normal day. <pause:0.8>
+
+[USER][warm][slow]
+I had a great time with my friend and really enjoyed the whole experience. <pause:0.8>
+
+That's why it's still one of my most memorable movie experiences. <pause:0.8>

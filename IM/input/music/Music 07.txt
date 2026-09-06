@@ -1,0 +1,26 @@
+[SYSTEM][neutral][slow]
+Compare music in the past and music nowadays.
+
+What differences do you notice?
+
+[USER][calm][slow]
+Music is quite different nowadays compared to the past. <pause:0.8>
+
+In the past, people usually listened to music on the radio or CDs. <pause:0.8>
+
+They had fewer choices, and finding new songs wasn't always easy. <pause:0.8>
+
+[USER][happy][slow]
+Nowadays, we can listen to music anytime on our phones. <pause:0.8>
+
+We can easily search for our favorite songs or discover new artists online. <pause:0.8>
+
+There are also many different kinds of music to choose from. <pause:0.8>
+
+[USER][calm][slow]
+Another big difference is convenience. <pause:0.8>
+
+In the past, people often had to buy CDs, but now we can listen to millions of songs online. <pause:0.8>
+
+[USER][warm][slow]
+I think listening to music is much easier and more convenient than it was in the past. <pause:0.8>

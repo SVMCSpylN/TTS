@@ -1,0 +1,28 @@
+[SYSTEM][neutral][slow]
+Ask Eva about a recent hotel stay.
+
+[USER][curious][slow]
+Hello. <pause:0.5>
+
+Can I ask you a few questions about your recent hotel stay? <pause:0.8>
+
+Where did you stay? <pause:0.8>
+
+Who did you travel with? <pause:0.8>
+
+[USER][curious][slow]
+What was the hotel like? <pause:0.8>
+
+How was the service and cleanliness? <pause:0.8>
+
+Was the location convenient? <pause:0.8>
+
+[USER][curious][slow]
+What did you enjoy most during your stay? <pause:0.8>
+
+Would you stay at the same hotel again? <pause:0.8>
+
+Would you recommend it to other travelers? <pause:0.8>
+
+[USER][warm][slow]
+Thanks for sharing. <pause:0.8>

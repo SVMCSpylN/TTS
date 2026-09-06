@@ -1,0 +1,28 @@
+[SYSTEM][neutral][slow]
+Ask Eva about making appointments.
+
+[USER][curious][slow]
+Hello, Eva. <pause:0.5>
+
+Can I ask you a few questions about appointments? <pause:0.8>
+
+What kinds of appointments do you usually make? <pause:0.8>
+
+Do you usually call or book them online? <pause:0.8>
+
+[USER][curious][slow]
+How far in advance do you usually book them? <pause:0.8>
+
+Do you save your appointments on your phone? <pause:0.8>
+
+Do you usually arrive early or right on time? <pause:0.8>
+
+[USER][curious][slow]
+Have you ever missed an appointment? <pause:0.8>
+
+What happened? <pause:0.8>
+
+What do you usually do if you need to change an appointment? <pause:0.8>
+
+[USER][warm][slow]
+Thanks for sharing. <pause:0.8>

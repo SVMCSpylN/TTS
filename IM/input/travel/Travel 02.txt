@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+Tell me about your most recent trip.
+
+Where did you go?
+Who did you go with?
+What did you do there?
+
+[USER][happy][medium]
+My most recent trip was to Da Nang about a year ago. <pause:0.8>
+
+I went there with my wife for a short vacation. <pause:0.8>
+
+We stayed at a hotel near My Khe Beach. <pause:0.8>
+
+[USER][excited][medium]
+We visited Son Tra Peninsula and Linh Ung Pagoda. <pause:0.8>
+
+We also walked along the beach, looked around the local markets, and tried lots of local food. <pause:0.8>
+
+Of course, we had some really good seafood. <pause:0.8>
+
+[USER][happy][medium]
+My favorite part was watching the sunset at My Khe Beach. <pause:0.8>
+
+The weather was great, and we really enjoyed the view. <pause:0.8>
+
+We sat by the beach and talked for a while. <pause:0.8>
+
+[USER][warm][slow]
+It was a short trip, but we had a great time. <pause:0.8>
+
+I still want to go back someday. <pause:0.8>

@@ -1,0 +1,26 @@
+[SYSTEM][neutral][slow]
+You indicated in the survey that you enjoy watching movies.
+
+What kind of movies do you like?
+
+Why do you like them?
+
+[USER][warm][slow]
+I really enjoy watching movies, especially on weekends. <pause:0.8>
+
+My favorite genre is romantic movies. <pause:0.8>
+
+[USER][happy][slow]
+I like them because they usually have touching stories about love and relationships. <pause:0.8>
+
+They can make me laugh, but sometimes they also make me cry. <pause:0.8>
+
+I especially enjoy movies that feel realistic and easy to relate to. <pause:0.8>
+
+[USER][happy][slow]
+I often watch romantic movies with my wife when we have free time. <pause:0.8>
+
+It's a nice way for us to relax and spend time together. <pause:0.8>
+
+[USER][warm][slow]
+That's why romantic movies are my favorite. <pause:0.8>

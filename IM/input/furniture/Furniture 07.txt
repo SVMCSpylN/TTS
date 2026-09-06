@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+You bought furniture, but there is a problem.
+
+Call the store.
+Explain the situation.
+Ask for a solution.
+
+[USER][concerned][slow]
+Hello. <pause:0.5>
+
+I'm calling about the sofa that was delivered today. <pause:0.8>
+
+I found a large stain on one side of it. <pause:0.8>
+
+[USER][worried][slow]
+It's brand new, so I was surprised to see it. <pause:0.8>
+
+My wife noticed it right after the delivery team left. <pause:0.8>
+
+[USER][polite][slow]
+Could you replace it or tell me what I should do? <pause:0.8>
+
+I can send you some photos if you need them. <pause:0.8>
+
+How long will it take to get a new one? <pause:0.8>
+
+[USER][warm][slow]
+Okay, I understand. <pause:0.5>
+
+Thanks for your help. <pause:0.8>
+
+I'll wait for your reply. <pause:0.8>

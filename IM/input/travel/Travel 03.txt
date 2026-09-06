@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+Tell me about a memorable trip you took.
+
+Where did you go?
+What happened?
+Why was it memorable?
+
+[USER][warm][medium]
+One of my favorite trips was a four-day vacation in Da Nang with my wife. <pause:0.8>
+
+We'd both been busy with work, so we wanted to take a short break. <pause:0.8>
+
+It was our first trip together in a long time. <pause:0.8>
+
+[USER][happy][medium]
+We stayed at a hotel near My Khe Beach. <pause:0.8>
+
+During the day, we visited some famous places and tried lots of local food. <pause:0.8>
+
+In the evening, we walked along the beach and enjoyed the cool weather. <pause:0.8>
+
+[USER][excited][medium]
+My favorite part was watching the sunset together. <pause:0.8>
+
+We took some photos and sat on the beach for a while. <pause:0.8>
+
+It was a really nice moment. <pause:0.8>
+
+[USER][warm][slow]
+I still remember that trip because we had a great time together. <pause:0.8>
+
+I hope we can go back again someday. <pause:0.8>

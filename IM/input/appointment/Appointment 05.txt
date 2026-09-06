@@ -1,0 +1,16 @@
+[SYSTEM][neutral][slow]
+What do you usually do before an appointment?
+
+How do you prepare?
+
+[USER][calm][slow]
+Before an appointment, I check the date, time, and place, then set a reminder on my phone so I don't forget. <pause:0.8>
+
+[USER][calm][slow]
+If it's a doctor's appointment, I bring my ID and health insurance card and think about the questions I want to ask. <pause:0.8>
+
+[USER][happy][slow]
+Before I leave, I check the traffic and usually arrive about ten or fifteen minutes early, so I have enough time to check in. <pause:0.8>
+
+[USER][warm][slow]
+It only takes a few minutes, but it makes everything much easier. <pause:0.8>

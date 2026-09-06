@@ -1,0 +1,30 @@
+[SYSTEM][neutral][slow]
+Tell me about a memorable experience involving furniture.
+
+What happened?
+Why was it memorable?
+How did you feel?
+
+[USER][excited][slow]
+One day, my old sofa suddenly broke while my wife and I were watching TV. <pause:0.8>
+
+One of the legs broke, and the sofa tilted to one side. <pause:0.8>
+
+I almost fell onto the floor. <pause:0.8>
+
+[USER][surprised][slow]
+It happened so suddenly that we both started laughing. <pause:0.8>
+
+After checking it, I realized it couldn't be fixed. <pause:0.8>
+
+So we decided to buy a new sofa. <pause:0.8>
+
+[USER][happy][slow]
+A few days later, we found one that was comfortable, looked nice, and fit our budget. <pause:0.8>
+
+My wife liked it right away, so we bought it. <pause:0.8>
+
+[USER][warm][slow]
+Now we use it every day, and we're really happy with it. <pause:0.8>
+
+Whenever we talk about the old sofa, we still laugh about that day. <pause:0.8>

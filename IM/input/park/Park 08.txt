@@ -1,0 +1,30 @@
+[SYSTEM][neutral][slow]
+Ask Eva about parks.
+
+[USER][curious][medium]
+Hello, Eva. <pause:0.5>
+
+Can I ask you a few questions about parks? <pause:0.8>
+
+Do you enjoy going to parks? <pause:0.8>
+
+Which park do you go to most often? <pause:0.8>
+
+[USER][curious][medium]
+What do you usually do there? <pause:0.8>
+
+Do you like walking, jogging, or just relaxing? <pause:0.8>
+
+Who do you usually go with? <pause:0.8>
+
+[USER][curious][medium]
+What do you like most about that park? <pause:0.8>
+
+How often do you go there? <pause:0.8>
+
+[USER][warm][slow]
+One last question. <pause:0.5>
+
+Have you ever had a memorable experience there? <pause:0.8>
+
+Thanks for sharing. <pause:0.8>

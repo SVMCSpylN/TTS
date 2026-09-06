@@ -1,0 +1,22 @@
+[SYSTEM][neutral][slow]
+Compare holidays in the past and holidays nowadays.
+
+What differences do you notice?
+Which do you prefer?
+
+[USER][calm][slow]
+I think holidays today are quite different from those in the past. <pause:0.8>
+
+When I was younger, people usually stayed home, visited relatives, and spent more time with their families. <pause:0.8>
+
+[USER][calm][slow]
+Nowadays, many people travel because transportation is more convenient and it's much easier to book everything online. <pause:0.8>
+
+People also have many more choices for where to go and what to do. <pause:0.8>
+
+[USER][warm][slow]
+Personally, I prefer holidays today because I enjoy traveling with my wife. <pause:0.8>
+
+At the same time, I still think spending time with family is the most important part of any holiday. <pause:0.8>
+
+That's why I try to balance both whenever I can. <pause:0.8>

@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+You had a problem at a restaurant.
+
+Call and explain the situation.
+
+[USER][concerned][slow]
+Hello. <pause:0.5>
+
+I'm calling about a problem I had at your restaurant last weekend. <pause:0.8>
+
+I went there with my wife and ordered a seafood dish. <pause:0.8>
+
+[USER][worried][slow]
+Unfortunately, I received a completely different dish. <pause:0.8>
+
+I told the staff, but I had to wait a long time for the correct order. <pause:0.8>
+
+By the time it arrived, my wife had almost finished her meal. <pause:0.8>
+
+[USER][polite][slow]
+Could you please look into what happened? <pause:0.8>
+
+Is there anything you can do about the problem? <pause:0.8>
+
+[USER][relieved][slow]
+Oh, you can offer me a discount on my next visit? <pause:0.5>
+
+That sounds good. <pause:0.8>
+
+Thanks for your help. <pause:0.8>
+
+I hope it doesn't happen again. <pause:0.8>

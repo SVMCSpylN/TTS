@@ -1,0 +1,32 @@
+[SYSTEM][neutral][slow]
+You bought concert tickets, but there is a problem.
+
+Call and explain the situation.
+
+[USER][concerned][slow]
+Hello. <pause:0.5>
+
+I'm calling about two concert tickets I bought online earlier today. <pause:0.8>
+
+The payment went through, but I haven't received the confirmation email yet. <pause:0.8>
+
+[USER][worried][slow]
+I've already checked my inbox and spam folder, but I still can't find it. <pause:0.8>
+
+Could you please check my order for me? <pause:0.8>
+
+I can give you my name and email address. <pause:0.8>
+
+[USER][curious][slow]
+Oh, you found my order? <pause:0.5>
+
+That's great. <pause:0.8>
+
+Could you resend the confirmation email, please? <pause:0.8>
+
+[USER][relieved][slow]
+I'll check my inbox again. <pause:0.5>
+
+Oh, I got it now. <pause:0.8>
+
+Thanks so much for your help. <pause:0.8>

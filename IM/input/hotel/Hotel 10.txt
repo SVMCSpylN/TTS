@@ -1,0 +1,29 @@
+[SYSTEM][neutral][slow]
+Call a hotel and make a reservation.
+
+[USER][polite][slow]
+Hello. <pause:0.5>
+
+I'd like to book a room for next weekend. <pause:0.8>
+
+Do you have any rooms available? <pause:0.8>
+
+[USER][curious][slow]
+I'd like a standard room for two people. <pause:0.8>
+
+Does the room include free Wi-Fi, air conditioning, and breakfast? <pause:0.8>
+
+[USER][curious][slow]
+What time are check-in and check-out? <pause:0.8>
+
+Do I need to pay a deposit to confirm the reservation? <pause:0.8>
+
+[USER][polite][slow]
+That sounds good. <pause:0.5>
+
+Please make the reservation under my name. <pause:0.8>
+
+[USER][warm][slow]
+Thanks for your help. <pause:0.8>
+
+I'm looking forward to staying at your hotel next weekend. <pause:0.8>

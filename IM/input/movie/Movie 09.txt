@@ -1,0 +1,28 @@
+[SYSTEM][neutral][slow]
+Ask Eva about a recent movie she watched.
+
+[USER][curious][slow]
+Hello. <pause:0.5>
+
+Can I ask you a few questions about a movie you recently watched? <pause:0.8>
+
+What movie did you watch? <pause:0.8>
+
+Who did you watch it with? <pause:0.8>
+
+[USER][curious][slow]
+Where did you watch it? <pause:0.8>
+
+Did you enjoy the movie? <pause:0.8>
+
+What was your favorite part? <pause:0.8>
+
+[USER][curious][slow]
+Was there a character you really liked? <pause:0.8>
+
+How was the overall experience? <pause:0.8>
+
+Would you recommend the movie to other people? <pause:0.8>
+
+[USER][warm][slow]
+Thanks for sharing. <pause:0.8>

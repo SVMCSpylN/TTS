@@ -1,0 +1,34 @@
+[SYSTEM][neutral][slow]
+You need to cancel a plan to go to the park.
+
+Call your friend and explain the situation.
+
+[USER][concerned][medium]
+Hello, Nam. <pause:0.5>
+
+I'm really sorry, but I can't go to the park with you this evening. <pause:0.8>
+
+Something came up at work, and I have to stay late. <pause:0.8>
+
+[USER][worried][medium]
+I was really looking forward to it. <pause:0.8>
+
+But I don't think I can make it tonight. <pause:0.8>
+
+Sorry about that. <pause:0.8>
+
+[USER][polite][medium]
+Saturday afternoon works for you? <pause:0.5>
+
+Great. <pause:0.8>
+
+Let's go then instead. <pause:0.8>
+
+I should be free that day. <pause:0.8>
+
+[USER][warm][slow]
+We can still go for a walk and grab a drink afterward. <pause:0.8>
+
+Thanks for understanding. <pause:0.8>
+
+See you this weekend. <pause:0.8>

@@ -1,0 +1,20 @@
+[SYSTEM][neutral][slow]
+Why do people make appointments?
+
+What are the benefits?
+
+[USER][calm][slow]
+People make appointments to save time, especially when they visit places like hospitals, salons, or banks. <pause:0.8>
+
+It makes everything more convenient. <pause:0.8>
+
+[USER][happy][slow]
+One of the biggest benefits is that people don't have to wait too long because they know exactly when to arrive. <pause:0.8>
+
+That's especially helpful for busy people. <pause:0.8>
+
+[USER][calm][slow]
+Appointments also help workers prepare in advance, so they can serve customers more quickly and everything runs more smoothly. <pause:0.8>
+
+[USER][warm][slow]
+I usually make an appointment before I go to a hospital or clinic because it saves me time and makes my day much easier. <pause:0.8>

@@ -1,0 +1,27 @@
+[SYSTEM][neutral][slow]
+Tell me about a memorable visit to a doctor or clinic.
+
+Why did you go?
+What happened?
+How did you feel?
+
+[USER][warm][slow]
+One memorable visit was a routine health check at a clinic. <pause:0.8>
+
+I made the appointment because it had been a while since my last checkup. <pause:0.8>
+
+[USER][worried][slow]
+I was a little nervous because I didn't know if the doctor would find any health problems. <pause:0.8>
+
+[USER][calm][slow]
+The doctor asked me a few questions, did some basic tests, and gave me some advice about my diet and exercise. <pause:0.8>
+
+Everything went smoothly, and I didn't have to wait very long. <pause:0.8>
+
+[USER][relieved][slow]
+Luckily, the results were good, and the doctor told me to keep exercising and eating healthy. <pause:0.8>
+
+That was a huge relief. <pause:0.8>
+
+[USER][warm][slow]
+I left the clinic feeling much more relaxed, and the experience reminded me to get regular health checkups. <pause:0.8>

@@ -1,0 +1,26 @@
+[SYSTEM][neutral][slow]
+Tell me about the transportation you usually use.
+
+What do you usually use?
+Where do you go?
+Why do you prefer it?
+
+[USER][warm][slow]
+I usually travel around Hanoi by motorbike. <pause:0.8>
+
+I use it almost every day, especially when I go to work. <pause:0.8>
+
+[USER][happy][slow]
+I prefer riding a motorbike because it's quick and convenient. <pause:0.8>
+
+It's also easier to get around when the streets are crowded. <pause:0.8>
+
+[USER][calm][slow]
+Before leaving home, I usually check the traffic on my phone. <pause:0.8>
+
+If the roads are busy, I try to find another route. <pause:0.8>
+
+[USER][warm][slow]
+For me, a motorbike is the most convenient way to travel around the city. <pause:0.8>
+
+It saves me a lot of time in my daily life. <pause:0.8>

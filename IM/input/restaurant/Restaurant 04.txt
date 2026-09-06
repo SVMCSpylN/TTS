@@ -1,0 +1,25 @@
+[SYSTEM][neutral][slow]
+Tell me about a memorable restaurant experience.
+
+What happened?
+Why was it memorable?
+
+[USER][excited][slow]
+One memorable restaurant experience happened during a trip to Da Nang. <pause:0.8>
+
+My wife and I went to a popular seafood restaurant near the beach. <pause:0.8>
+
+[USER][happy][slow]
+The restaurant had live seafood, so we could choose exactly what we wanted to eat. <pause:0.8>
+
+We ordered several dishes, including grilled shrimp and crab. <pause:0.8>
+
+[USER][surprised][slow]
+When the food arrived, we were surprised because the portions were much larger than we expected. <pause:0.8>
+
+Luckily, everything was fresh and delicious, so we really enjoyed the meal. <pause:0.8>
+
+[USER][warm][slow]
+Even now, my wife and I still talk about that dinner when we remember our Da Nang trip. <pause:0.8>
+
+That's why it's one of my most memorable restaurant experiences. <pause:0.8>

@@ -1,0 +1,38 @@
+[SYSTEM][neutral][slow]
+Call a hair salon and make an appointment.
+
+Ask about the available time and price.
+
+[USER][polite][slow]
+Hello. <pause:0.5>
+
+I'd like to make an appointment for a haircut this weekend. <pause:0.8>
+
+Do you have any openings on Sunday morning? <pause:0.8>
+
+I'd like a time before noon. <pause:0.8>
+
+[USER][curious][slow]
+Is ten o'clock available? <pause:0.5>
+
+That works for me. <pause:0.8>
+
+How much is a regular haircut? <pause:0.8>
+
+Does that include a wash and styling? <pause:0.8>
+
+[USER][polite][slow]
+Great. <pause:0.5>
+
+I'd like to book the ten o'clock appointment, please. <pause:0.8>
+
+My name is J. <pause:0.8>
+
+Is there anything I should know before I come? <pause:0.8>
+
+[USER][warm][slow]
+Okay, thanks for your help. <pause:0.8>
+
+I'll arrive a little early. <pause:0.8>
+
+See you on Sunday. <pause:0.8>

@@ -1,0 +1,31 @@
+[SYSTEM][neutral][slow]
+You bought some clothes, but there is a problem.
+
+Call the store and explain the situation.
+Ask for a solution.
+
+[USER][concerned][slow]
+Hello. <pause:0.5>
+
+I'm calling about a jacket I bought from your store yesterday. <pause:0.8>
+
+Unfortunately, I noticed a problem when I tried it on at home. <pause:0.8>
+
+[USER][worried][slow]
+The jacket is too small for me. <pause:0.8>
+
+I bought a medium, but I think I need a large instead. <pause:0.8>
+
+Could I exchange it for a larger size? <pause:0.8>
+
+[USER][curious][slow]
+Oh, you have a large one available? <pause:0.5>
+
+That's great. <pause:0.8>
+
+Do I need to bring the receipt with me? <pause:0.8>
+
+[USER][relieved][slow]
+Okay. I'll bring the jacket and the receipt to the store this evening. <pause:0.8>
+
+Thanks so much for your help. <pause:0.8>
